@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# DS_STORE
+.DS_Store
+
+# Tara's HTML file
+soups_total.html
