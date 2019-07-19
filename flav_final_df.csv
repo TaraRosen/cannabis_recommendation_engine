@@ -1,0 +1,3062 @@
+,strain,flavor_1,flavor_2,flavor_3
+0,100 og,  1. earthy ,  2. diesel ,  3. pungent  
+1,98 white widow,  1. diesel ,  2. flowery ,  3. grape  
+2,1024,  1. tropical ,  2. mint ,  3. blueberry  
+3,12 year og,  1. diesel  ,,
+4,13 dawgs,  1. diesel ,  2. apricot ,  3. citrus  
+5,22,  1. diesel ,  2. pine ,  3. skunk  
+6,24k gold,  1. orange ,  2. citrus ,  3. sweet  
+7,3 bears og,  1. diesel ,  2. sweet ,  3. butter  
+8,100 og,  1. earthy ,  2. diesel ,  3. pungent  
+9,98 white widow,  1. diesel ,  2. flowery ,  3. grape  
+10,1024,  1. tropical ,  2. mint ,  3. blueberry  
+11,12 year og,  1. diesel  ,,
+12,13 dawgs,  1. diesel ,  2. apricot ,  3. citrus  
+13,22,  1. diesel ,  2. pine ,  3. skunk  
+14,24k gold,  1. orange ,  2. citrus ,  3. sweet  
+15,3 bears og,  1. diesel ,  2. sweet ,  3. butter  
+16,3 kings,  1. earthy ,  2. diesel ,  3. pine  
+17,303 og,  1. diesel ,  2. earthy ,  3. woody  
+18,3d cbd,  1. diesel ,  2. woody ,  3. earthy  
+19,3x crazy,  1. earthy ,  2. grape ,  3. woody  
+20,3rd coast panama chunk,  1. diesel ,  2. pine ,  3. butter  
+21,501st og,  1. sweet ,  2. pine ,  3. pungent  
+22,541 kush,  1. diesel  ,,
+23,5th element,  1. earthy ,  2. pungent ,  3. lemon  
+24,707 headband,  1. earthy ,  2. sweet ,  3. pungent  
+25,8 ball kush,  1. earthy ,  2. spicy/herbal ,  3. pine  
+26,818 og,  1. earthy ,  2. flowery ,  3. pungent  
+27,831 og,  1. cheese ,  2. flowery ,  3. chemical  
+28,9 pound hammer,  1. earthy ,  2. sweet ,  3. citrus  
+29,91 krypt,  1. diesel ,  2. skunk ,  3. earthy  
+30,999,  1. citrus ,  2. earthy ,  3. pine  
+31,a 10,  1. pungent ,  2. skunk ,  3. ammonia  
+32,a dub,  1. earthy ,  2. diesel ,  3. sweet  
+33,a train,  1. earthy ,  2. spicy/herbal ,  3. flowery  
+34,acdc,  1. earthy ,  2. woody ,  3. pine  
+35,ak 47,  1. earthy ,  2. woody ,  3. pungent  
+36,ak 48,  1. flowery ,  2. earthy ,  3. sweet  
+37,ak 49,  1. earthy ,  2. pungent ,  3. woody  
+38,aberdeen,  1. blue cheese ,  2. chemical ,  3. menthol  
+39,abusive og,  1. earthy ,  2. pungent ,  3. lavender  
+40,acapulco gold,  1. earthy ,  2. woody ,  3. sweet  
+41,ace killer og,  1. earthy ,  2. diesel ,  3. pine  
+42,ace of spades,  1. earthy ,  2. pine ,  3. woody  
+43,aceh,  1. earthy ,  2. citrus ,  3. tropical  
+44,acid,  1. citrus ,  2. earthy ,  3. pungent  
+45,acid dough,  1. citrus ,  2. flowery ,  3. earthy  
+46,afcrack,  1. sage ,  2. earthy ,  3. flowery  
+47,afghan big bud,  1. vanilla ,  2. earthy ,  3. pungent  
+48,afghan cow,  1. sweet ,  2. vanilla ,  3. diesel  
+49,afghan diesel,  1. earthy ,  2. flowery ,  3. grapefruit  
+50,afghan hawaiian,  1. nutty ,  2. pineapple ,  3. sweet  
+51,afghan haze,  1. earthy ,  2. diesel ,  3. woody  
+52,afghan kush,  1. earthy ,  2. woody ,  3. flowery  
+53,afghan skunk,  1. skunk ,  2. earthy ,  3. woody  
+54,afghan sour kush,  1. earthy ,  2. sweet ,  3. diesel  
+55,afghan widow,  1. pungent ,  2. spicy/herbal ,  3. diesel  
+56,afghani,  1. earthy ,  2. pungent ,  3. pine  
+57,afgahni bullrider,  1. pine ,  2. earthy ,  3. berry  
+58,afghani cbd,  1. berry ,  2. flowery ,  3. spicy/herbal  
+59,afghanica,  1. tea ,  2. sweet ,  3. woody  
+60,afghan skunk,  1. skunk ,  2. earthy ,  3. woody  
+61,afghan sour kush,  1. earthy ,  2. sweet ,  3. diesel  
+62,afghan widow,  1. pungent ,  2. spicy/herbal ,  3. diesel  
+63,afghani,  1. earthy ,  2. pungent ,  3. pine  
+64,afgahni bullrider,  1. pine ,  2. earthy ,  3. berry  
+65,afghani cbd,  1. berry ,  2. flowery ,  3. spicy/herbal  
+66,afghanica,  1. tea ,  2. sweet ,  3. woody  
+67,afghanimal,  1. citrus ,  2. skunk  ,
+68,afgooey,  1. pine ,  2. earthy ,  3. grape  
+69,afgoo,  1. earthy ,  2. sweet ,  3. pine  
+70,afgooey,  1. pine ,  2. earthy ,  3. grape  
+71,afkansastan,  1. cheese ,  2. diesel ,  3. sweet  
+72,afpak,  1. pungent ,  2. sweet ,  3. skunk  
+73,african,  1. pungent ,  2. spicy/herbal ,  3. earthy  
+74,afrodite,  1. earthy ,  2. sweet ,  3. woody  
+75,afternoon delight,  1. grapefruit ,  2. flowery ,  3. pine  
+76,afwreck,  1. earthy ,  2. pungent ,  3. diesel  
+77,agape,  1. orange ,  2. mango ,  3. grape  
+78,agent orange,  1. orange ,  2. citrus ,  3. sweet  
+79,agent tangie,  1. citrus ,  2. earthy ,  3. skunk  
+80,air jordan og,  1. pine ,  2. earthy ,  3. woody  
+81,alaska,  1. earthy ,  2. mint ,  3. citrus  
+82,alaska thunder grape,  1. grape ,  2. pepper ,  3. skunk  
+83,alaskan ice,  1. woody ,  2. pungent ,  3. spicy/herbal  
+84,alaskan thunder fuck,  1. earthy ,  2. pine ,  3. woody  
+85,albert walker,  1. pungent ,  2. skunk ,  3. flowery  
+86,alchemy,  1. honey ,  2. cheese ,  3. sweet  
+87,alf,  1. coffee ,  2. diesel ,  3. pungent  
+88,alice in wonderland,  1. earthy ,  2. woody ,  3. ammonia  
+89,alien abduction,  1. earthy ,  2. nutty ,  3. sweet  
+90,alien apparition,  1. sweet ,  2. orange ,  3. citrus  
+91,alien asshat,  1. citrus ,  2. pungent ,  3. earthy  
+92,alien breath,  1. skunk  ,,
+93,alien bubba,  1. earthy ,  2. flowery ,  3. sweet  
+94,alien dawg,  1. earthy ,  2. violet ,  3. flowery  
+95,alien dutchess,  1. earthy ,  2. pine ,  3. lemon  
+96,alien hallucination,  1. citrus ,  2. sweet ,  3. pungent  
+97,alien inferno,  1. diesel ,  2. earthy ,  3. pungent  
+98,alien kush,  1. sweet ,  2. earthy ,  3. woody  
+99,alien og,  1. earthy ,  2. pine ,  3. lemon  
+100,alien reunion,  1. pungent ,  2. skunk ,  3. cheese  
+101,alien rift,  1. earthy ,  2. lemon ,  3. sweet  
+102,alien rock candy,  1. berry ,  2. citrus ,  3. blueberry  
+103,alien sour apple,  1. apple ,  2. sweet ,  3. citrus  
+104,alien stardawg,  1. pepper ,  2. citrus ,  3. diesel  
+105,alien technology,  1. earthy ,  2. spicy/herbal ,  3. woody  
+106,alien walker,  1. earthy ,  2. citrus ,  3. pine  
+107,aliens on moonshine,  1. citrus ,  2. earthy ,  3. diesel  
+108,allen iverson og,  1. earthy  ,,
+109,allen wrench,  1. pungent ,  2. earthy ,  3. citrus  
+110,alien stardawg,  1. pepper ,  2. citrus ,  3. diesel  
+111,alien technology,  1. earthy ,  2. spicy/herbal ,  3. woody  
+112,alien walker,  1. earthy ,  2. citrus ,  3. pine  
+113,aliens on moonshine,  1. citrus ,  2. earthy ,  3. diesel  
+114,allen iverson og,  1. earthy  ,,
+115,allen wrench,  1. pungent ,  2. earthy ,  3. citrus  
+116,allkush,  1. spicy/herbal ,  2. honey ,  3. earthy  
+117,aloha,  1. citrus ,  2. tropical ,  3. sweet  
+118,aloha grape stomper,  1. blueberry ,  2. grape ,  3. tree fruit  
+119,aloha limone,  1. lemon ,  2. citrus ,  3. earthy  
+120,alohaberry,  1. berry ,  2. sweet ,  3. citrus  
+121,alpha blue,  1. sweet ,  2. diesel ,  3. berry  
+122,alpha express,  1. diesel ,  2. spicy/herbal ,  3. berry  
+123,alpha og,  1. earthy ,  2. pungent ,  3. pine  
+124,alpine blue,  1. berry ,  2. earthy ,  3. honey  
+125,alpine star,  1. earthy ,  2. pine ,  3. woody  
+126,ambrosia,  1. flowery ,  2. sage ,  3. tree fruit  
+127,american beauty,  1. mango ,  2. peach ,  3. tropical  
+128,american dream,  1. skunk ,  2. earthy ,  3. pungent  
+129,american kush,  1. sweet ,  2. coffee ,  3. spicy/herbal  
+130,american pie,  1. earthy ,  2. pine ,  3. sweet  
+131,americano,  1. earthy ,  2. diesel ,  3. lemon  
+132,amethyst,  1. sweet  ,,
+133,amethyst bud,  1. berry ,  2. woody ,  3. sweet  
+134,amherst sour diesel,  1. earthy ,  2. flowery ,  3. pungent  
+135,amnesi k lemon,  1. sweet ,  2. tropical ,  3. citrus  
+136,amnesia,  1. earthy ,  2. citrus ,  3. lemon  
+137,amnesia ganja haze,  1. spicy/herbal ,  2. sweet ,  3. tropical  
+138,amnesia haze,  1. citrus ,  2. earthy ,  3. lemon  
+139,amnesia og,  1. diesel ,  2. cheese ,  3. citrus  
+140,ancient kush,  1. cheese ,  2. skunk ,  3. citrus  
+141,ancient og,  1. pine ,  2. lemon ,  3. citrus  
+142,anesthesia,  1. earthy ,  2. pungent ,  3. woody  
+143,angel og,  1. pungent ,  2. berry ,  3. diesel  
+144,animal blues,  1. earthy ,  2. chestnut ,  3. sweet  
+145,animal gas,  1. diesel ,  2. chemical ,  3. earthy  
+146,animal sherbert,  1. earthy ,  2. nutty ,  3. pungent  
+147,anonymous og,  1. earthy ,  2. citrus ,  3. diesel  
+148,anubis,  1. grape ,  2. lime ,  3. citrus  
+149,ape shit,  1. grape ,  2. sweet ,  3. blueberry  
+150,apollo 11,  1. citrus ,  2. pine ,  3. pungent  
+151,apollo 13,  1. earthy ,  2. pungent ,  3. woody  
+152,apollo 13 haze,  1. citrus ,  2. earthy ,  3. flowery  
+153,apollo haze,  1. cheese ,  2. chemical ,  3. citrus  
+154,appalachia,  1. skunk ,  2. earthy ,  3. pine  
+155,appalachian power,  1. grape ,  2. tropical ,  3. citrus  
+156,apple jack,  1. apple ,  2. earthy ,  3. sweet  
+157,apple kush,  1. apple ,  2. diesel ,  3. sweet  
+158,apollo 11,  1. citrus ,  2. pine ,  3. pungent  
+159,apollo 13,  1. earthy ,  2. pungent ,  3. woody  
+160,apollo 13 haze,  1. citrus ,  2. earthy ,  3. flowery  
+161,apollo haze,  1. cheese ,  2. chemical ,  3. citrus  
+162,appalachia,  1. skunk ,  2. earthy ,  3. pine  
+163,appalachian power,  1. grape ,  2. tropical ,  3. citrus  
+164,apple jack,  1. apple ,  2. earthy ,  3. sweet  
+165,apple kush,  1. apple ,  2. diesel ,  3. sweet  
+166,appleberry,  1. apple ,  2. flowery ,  3. blueberry  
+167,arctic sun,  1. ammonia ,  2. skunk  ,
+168,arcticblue,  1. blueberry ,  2. sweet ,  3. earthy  
+169,area 51,  1. pungent ,  2. sweet ,  3. lavender  
+170,argyle,  1. spicy/herbal ,  2. earthy ,  3. woody  
+171,arjans strawberry haze,  1. strawberry ,  2. sweet ,  3. berry  
+172,arjans ultra haze 1,  1. mint ,  2. pepper ,  3. earthy  
+173,armageddon,  1. citrus ,  2. earthy ,  3. woody  
+174,armagnac,  1. earthy ,  2. flowery ,  3. skunk  
+175,ash,  1. pungent ,  2. skunk ,  3. spicy/herbal  
+176,asian fantasy,  1. flowery ,  2. vanilla ,  3. earthy  
+177,aspen og,  1. spicy/herbal ,  2. blueberry ,  3. earthy  
+178,astral works,  1. earthy ,  2. flowery ,  3. spicy/herbal  
+179,astroboy,  1. citrus ,  2. flowery ,  3. sweet  
+180,athabasca,  1. earthy ,  2. mint ,  3. apricot  
+181,atmosphere,  1. flowery ,  2. pungent ,  3. woody  
+182,atomic,  1. earthy ,  2. sweet ,  3. woody  
+183,atomic goat,  1. spicy/herbal ,  2. nutty ,  3. sage  
+184,atomic northern lights,  1. sweet ,  2. earthy ,  3. pine  
+185,atomical haze,  1. pungent ,  2. skunk ,  3. earthy  
+186,aurora borealis,  1. earthy ,  2. woody ,  3. flowery  
+187,aurora indica,  1. earthy ,  2. woody ,  3. spicy/herbal  
+188,avalon,  1. blueberry ,  2. earthy ,  3. nutty  
+189,avi,  1. earthy ,  2. pungent  ,
+190,avi dekel,  1. earthy ,  2. pine ,  3. sweet  
+191,ayahuasca purple,  1. earthy ,  2. woody ,  3. nutty  
+192,azure haze,  1. sweet ,  2. blueberry ,  3. berry  
+193,b 52,  1. earthy ,  2. sweet ,  3. berry  
+194,b witched,  1. spicy/herbal ,  2. earthy ,  3. berry  
+195,b witched,  1. spicy/herbal ,  2. earthy ,  3. berry  
+196,bb king,  1. berry ,  2. lemon ,  3. citrus  
+197,b4,  1. citrus ,  2. lime ,  3. lemon  
+198,bc big bud,  1. earthy ,  2. sweet ,  3. pungent  
+199,bc roadkill,  1. citrus ,  2. tropical ,  3. pungent  
+200,bc sweet tooth,  1. sweet ,  2. flowery ,  3. grape  
+201,bog bubble,  1. flowery ,  2. berry ,  3. blueberry  
+202,bsc,  1. sweet ,  2. vanilla ,  3. earthy  
+203,bakerstreet,  1. earthy ,  2. woody ,  3. diesel  
+204,balmoral,  1. earthy ,  2. cheese ,  3. pungent  
+205,banana bread,  1. earthy ,  2. chemical ,  3. coffee  
+206,banana candy,  1. sweet ,  2. tropical ,  3. mango  
+207,bog bubble,  1. flowery ,  2. berry ,  3. blueberry  
+208,bsc,  1. sweet ,  2. vanilla ,  3. earthy  
+209,bakerstreet,  1. earthy ,  2. woody ,  3. diesel  
+210,balmoral,  1. earthy ,  2. cheese ,  3. pungent  
+211,banana bread,  1. earthy ,  2. chemical ,  3. coffee  
+212,banana candy,  1. sweet ,  2. tropical ,  3. mango  
+213,banana cream og,  1. pine ,  2. citrus ,  3. sweet  
+214,banana diesel,  1. diesel ,  2. tropical ,  3. berry  
+215,banana hammock r1,  1. sweet ,  2. tree fruit ,  3. citrus  
+216,banana kush,  1. sweet ,  2. tropical ,  3. tree fruit  
+217,banana og,  1. earthy ,  2. sweet ,  3. tree fruit  
+218,banana peel,  1. sweet ,  2. tree fruit ,  3. diesel  
+219,banana split,  1. citrus ,  2. tropical ,  3. sweet  
+220,bananas,  1. tropical ,  2. sweet ,  3. tree fruit  
+221,bandana,  1. sweet ,  2. earthy ,  3. pungent  
+222,bangi haze,  1. berry ,  2. skunk ,  3. pungent  
+223,bango,  1. pungent ,  2. chemical ,  3. citrus  
+224,banjo,  1. diesel ,  2. pungent ,  3. cheese  
+225,barbara bud,  1. sweet ,  2. citrus ,  3. earthy  
+226,batman og,  1. skunk ,  2. pungent ,  3. pine  
+227,bay 11,  1. earthy ,  2. sweet ,  3. pine  
+228,bay dream,  1. flowery ,  2. sweet ,  3. citrus  
+229,bazooka joe g,  1. berry ,  2. flowery ,  3. sweet  
+230,bear dance,  1. sweet ,  2. pungent ,  3. citrus  
+231,beast mode 20,  1. woody ,  2. pine ,  3. lemon  
+232,beast mode og,  1. earthy ,  2. flowery ,  3. pine  
+233,beckwourth bud,  1. nutty ,  2. spicy/herbal ,  3. coffee  
+234,bedford glue,  1. woody ,  2. earthy ,  3. ammonia  
+235,bedica,  1. woody ,  2. chemical ,  3. citrus  
+236,bediol,  1. citrus ,  2. earthy ,  3. lemon  
+237,bell ringer,  1. citrus ,  2. pungent ,  3. pine  
+238,belladonna,  1. earthy ,  2. nutty ,  3. tar  
+239,berkeley,  1. citrus ,  2. pungent ,  3. sweet  
+240,bermuda sour,  1. citrus ,  2. diesel ,  3. sweet  
+241,berries  crme,  1. blueberry  ,,
+242,berry bomb,  1. berry ,  2. blueberry ,  3. pine  
+243,berry larry,  1. berry ,  2. earthy ,  3. pine  
+244,berry noir,  1. berry ,  2. earthy ,  3. flowery  
+245,berry og,  1. berry ,  2. sweet ,  3. flowery  
+246,berry white,  1. berry ,  2. blueberry ,  3. earthy  
+247,bertberry cheesecake,  1. cheese ,  2. berry ,  3. citrus  
+248,bettie page,  1. cheese ,  2. berry ,  3. blueberry  
+249,bianca,  1. woody ,  2. earthy ,  3. spicy/herbal  
+250,biddy early,  1. sweet ,  2. flowery ,  3. lavender  
+251,big band,  1. sweet ,  2. tropical ,  3. woody  
+252,big bang,  1. sweet ,  2. berry ,  3. lemon  
+253,bertberry cheesecake,  1. cheese ,  2. berry ,  3. citrus  
+254,bettie page,  1. cheese ,  2. berry ,  3. blueberry  
+255,bianca,  1. woody ,  2. earthy ,  3. spicy/herbal  
+256,biddy early,  1. sweet ,  2. flowery ,  3. lavender  
+257,big band,  1. sweet ,  2. tropical ,  3. woody  
+258,big bang,  1. sweet ,  2. berry ,  3. lemon  
+259,big bud,  1. woody ,  2. pine ,  3. earthy  
+260,big budda cheese,  1. cheese ,  2. diesel ,  3. skunk  
+261,big bull,  1. earthy ,  2. woody ,  3. nutty  
+262,big holy nina,  1. lime ,  2. earthy ,  3. honey  
+263,big kush,  1. lemon ,  2. citrus ,  3. pine  
+264,big mac,  1. berry ,  2. blueberry ,  3. citrus  
+265,big skunk korean,  1. flowery ,  2. skunk  ,
+266,big sky og,  1. citrus ,  2. pungent ,  3. diesel  
+267,big smooth,  1. sweet ,  2. blueberry ,  3. berry  
+268,big sur holy bud,  1. pine ,  2. earthy ,  3. spicy/herbal  
+269,big white,  1. diesel ,  2. flowery ,  3. earthy  
+270,big wreck,  1. earthy ,  2. pungent ,  3. flowery  
+271,biker kush,  1. lemon ,  2. spicy/herbal ,  3. earthy  
+272,biker leblanc,  1. earthy ,  2. sage ,  3. spicy/herbal  
+273,bingo pajamas,  1. cheese ,  2. citrus  ,
+274,bio diesel,  1. diesel ,  2. pungent ,  3. chemical  
+275,bio jesus,  1. earthy ,  2. diesel ,  3. pungent  
+276,biochem,  1. flowery ,  2. earthy ,  3. chemical  
+277,biohazard,  1. diesel ,  2. skunk ,  3. nutty  
+278,birds eye,  1. sweet  ,,
+279,birds of paradise,  1. earthy ,  2. grape ,  3. skunk  
+280,birthday cake kush,  1. sweet ,  2. vanilla ,  3. earthy  
+281,black 84,  1. pungent ,  2. grape ,  3. earthy  
+282,black afghan,  1. berry ,  2. violet ,  3. pine  
+283,black betty,  1. earthy ,  2. spicy/herbal ,  3. plum  
+284,black bubba,  1. blue cheese ,  2. earthy ,  3. pine  
+285,black cheese,  1. cheese ,  2. earthy ,  3. pungent  
+286,black cherry cheesecake,  1. sweet ,  2. berry ,  3. cheese  
+287,black cherry og,  1. sweet ,  2. tree fruit ,  3. earthy  
+288,black cherry pie,  1. berry ,  2. earthy ,  3. sweet  
+289,black cherry soda,  1. earthy ,  2. berry ,  3. sweet  
+290,black dog,  1. berry ,  2. sweet ,  3. blueberry  
+291,black dhalia,  1. sweet ,  2. berry ,  3. earthy  
+292,black diamond,  1. earthy ,  2. berry ,  3. sweet  
+293,black diesel,  1. diesel ,  2. pepper ,  3. earthy  
+294,black domina,  1. earthy ,  2. spicy/herbal ,  3. woody  
+295,black haze,  1. earthy ,  2. sweet ,  3. spicy/herbal  
+296,black ice,  1. earthy ,  2. pine ,  3. flowery  
+297,black jack,  1. earthy ,  2. pine ,  3. pungent  
+298,black label,  1. diesel ,  2. earthy ,  3. pungent  
+299,black label kush,  1. woody ,  2. earthy ,  3. spicy/herbal  
+300,black lime special reserve,  1. lime ,  2. earthy ,  3. citrus  
+301,black magic,  1. earthy  ,,
+302,black magic kush,  1. sweet ,  2. berry ,  3. blueberry  
+303,black mamba,  1. sweet ,  2. grape ,  3. pungent  
+304,black label,  1. diesel ,  2. earthy ,  3. pungent  
+305,black label kush,  1. woody ,  2. earthy ,  3. spicy/herbal  
+306,black lime special reserve,  1. lime ,  2. earthy ,  3. citrus  
+307,black magic,  1. earthy  ,,
+308,black magic kush,  1. sweet ,  2. berry ,  3. blueberry  
+309,black mamba,  1. sweet ,  2. grape ,  3. pungent  
+310,black raspberry,  1. sweet ,  2. flowery ,  3. berry  
+311,black roses,  1. flowery ,  2. spicy/herbal ,  3. earthy  
+312,black russian,  1. citrus ,  2. sweet ,  3. lime  
+313,black triangle,  1. earthy ,  2. citrus ,  3. pine  
+314,black tuna,  1. earthy ,  2. woody ,  3. sweet  
+315,black velvet,  1. rose ,  2. violet ,  3. flowery  
+316,black widow,  1. earthy ,  2. woody ,  3. flowery  
+317,blackberry,  1. berry ,  2. sweet ,  3. flowery  
+318,blackberry bubble,  1. berry ,  2. blueberry ,  3. sweet  
+319,blackberry chem og,  1. berry ,  2. chemical ,  3. citrus  
+320,blackberry cobbler,  1. berry ,  2. flowery ,  3. sweet  
+321,blackberry cream,  1. earthy ,  2. tropical ,  3. berry  
+322,blackberry diesel,  1. diesel ,  2. berry ,  3. woody  
+323,blackberry dream,  1. berry ,  2. tropical ,  3. grapefruit  
+324,blackberry fire,  1. berry ,  2. sweet ,  3. diesel  
+325,blackberry hashplant,  1. earthy ,  2. nutty ,  3. pungent  
+326,blackberry haze,  1. berry ,  2. sweet ,  3. violet  
+327,blackberry kush,  1. berry ,  2. sweet ,  3. earthy  
+328,blackberry lime haze,  1. berry ,  2. sweet ,  3. lime  
+329,blackberry pie,  1. sweet ,  2. blueberry ,  3. berry  
+330,blackberry rhino,  1. berry ,  2. sweet ,  3. woody  
+331,blackberry snow cone,  1. peach ,  2. pungent  ,
+332,blackberry trainwreck,  1. berry ,  2. flowery ,  3. sweet  
+333,blackberry x blueberry,  1. blueberry ,  2. berry ,  3. skunk  
+334,blackwater,  1. earthy ,  2. berry ,  3. woody  
+335,blaze,  1. spicy/herbal ,  2. earthy ,  3. woody  
+336,bleugenius,  1. woody  ,,
+337,blissful wizard,  1. earthy ,  2. sweet ,  3. pine  
+338,blizzard bush,  1. earthy ,  2. flowery ,  3. nutty  
+339,blob og,  1. pine ,  2. citrus ,  3. earthy  
+340,blockhead,  1. earthy ,  2. sweet ,  3. pungent  
+341,bloos kloos,  1. sweet ,  2. berry ,  3. blueberry  
+342,blood orange kush,  1. citrus ,  2. orange ,  3. chemical  
+343,bloodhound,  1. earthy ,  2. sage ,  3. chestnut  
+344,bloodwalker,  1. diesel ,  2. sweet ,  3. berry  
+345,blowfish,  1. lemon ,  2. lime ,  3. orange  
+346,blucifer,  1. blueberry ,  2. flowery ,  3. spicy/herbal  
+347,blue afghani,  1. pungent ,  2. earthy ,  3. blueberry  
+348,blue alien,  1. blueberry ,  2. sweet ,  3. earthy  
+349,blue bastard,  1. berry ,  2. pine  ,
+350,blue bayou,  1. citrus ,  2. lemon ,  3. tropical  
+351,blue blood,  1. blueberry ,  2. earthy ,  3. sweet  
+352,blue boy,  1. earthy ,  2. sweet ,  3. pungent  
+353,blue buddha,  1. blueberry ,  2. cheese ,  3. citrus  
+354,blue champange,  1. sweet ,  2. flowery ,  3. pine  
+355,blue cheese,  1. blue cheese ,  2. cheese ,  3. blueberry  
+356,blue cinex,  1. earthy ,  2. blue cheese ,  3. butter  
+357,blue bastard,  1. berry ,  2. pine  ,
+358,blue bayou,  1. citrus ,  2. lemon ,  3. tropical  
+359,blue blood,  1. blueberry ,  2. earthy ,  3. sweet  
+360,blue boy,  1. earthy ,  2. sweet ,  3. pungent  
+361,blue buddha,  1. blueberry ,  2. cheese ,  3. citrus  
+362,blue champange,  1. sweet ,  2. flowery ,  3. pine  
+363,blue cheese,  1. blue cheese ,  2. cheese ,  3. blueberry  
+364,blue cinex,  1. earthy ,  2. blue cheese ,  3. butter  
+365,blue cookies,  1. blueberry ,  2. berry ,  3. sweet  
+366,blue crack,  1. berry ,  2. flowery ,  3. blueberry  
+367,blue diamond,  1. earthy ,  2. flowery ,  3. pungent  
+368,blue diesel,  1. diesel ,  2. berry ,  3. blueberry  
+369,blue dot,  1. earthy ,  2. nutty ,  3. lemon  
+370,blue dragon,  1. blueberry ,  2. diesel ,  3. earthy  
+371,blue dream,  1. blueberry ,  2. sweet ,  3. berry  
+372,blue dream cbd,  1. blueberry ,  2. sweet ,  3. berry  
+373,blue dynamite,  1. earthy ,  2. sweet ,  3. blueberry  
+374,blue fire,  1. berry ,  2. sweet ,  3. blueberry  
+375,blue frost,  1. blueberry ,  2. earthy ,  3. berry  
+376,blue galaxy,  1. berry ,  2. sweet ,  3. tropical  
+377,blue god,  1. earthy ,  2. woody ,  3. spicy/herbal  
+378,blue goo,  1. blueberry ,  2. earthy ,  3. flowery  
+379,blue hash,  1. blueberry ,  2. citrus ,  3. sweet  
+380,blue hawaiian,  1. berry ,  2. tropical ,  3. blueberry  
+381,blue haze,  1. blueberry ,  2. berry ,  3. butter  
+382,blue heron,  1. citrus ,  2. berry ,  3. blueberry  
+383,blue iguana,  1. blueberry ,  2. spicy/herbal ,  3. earthy  
+384,blue ivy,  1. blueberry ,  2. flowery ,  3. sweet  
+385,blue j,  1. citrus ,  2. lime ,  3. blueberry  
+386,blue jay way,  1. sweet ,  2. blueberry ,  3. citrus  
+387,blue kiss,  1. berry ,  2. blueberry ,  3. flowery  
+388,blue knight,  1. blueberry ,  2. berry ,  3. earthy  
+389,blue kripple,  1. berry ,  2. grape ,  3. earthy  
+390,blue kush,  1. blueberry ,  2. pine ,  3. citrus  
+391,blue lights,  1. sweet ,  2. flowery ,  3. blueberry  
+392,blue magic,  1. citrus ,  2. lemon ,  3. blueberry  
+393,blue magoo,  1. blueberry ,  2. sweet ,  3. flowery  
+394,blue monster,  1. blueberry ,  2. berry ,  3. diesel  
+395,blue moon rocks,  1. berry ,  2. blueberry ,  3. earthy  
+396,blue moonshine,  1. blueberry ,  2. earthy ,  3. berry  
+397,blue mountain fire,  1. earthy ,  2. flowery ,  3. tar  
+398,blue mystic,  1. blueberry ,  2. flowery ,  3. berry  
+399,blue nightmare,  1. blueberry ,  2. berry ,  3. spicy/herbal  
+400,blue nina,  1. flowery ,  2. berry ,  3. lavender  
+401,blue og,  1. berry ,  2. blueberry ,  3. earthy  
+402,blue og sherbert,  1. berry ,  2. earthy ,  3. spicy/herbal  
+403,blue ox,  1. berry ,  2. blueberry ,  3. cheese  
+404,blue persuasion,  1. blueberry ,  2. sweet ,  3. berry  
+405,blue power,  1. blueberry ,  2. lemon ,  3. berry  
+406,blue raspberry snow cone,  1. blueberry ,  2. flowery ,  3. sweet  
+407,blue rhino,  1. blueberry ,  2. flowery ,  3. berry  
+408,blue satellite,  1. sweet ,  2. blueberry ,  3. berry  
+409,blue sherbert,  1. blueberry ,  2. citrus ,  3. sweet  
+410,blue sky,  1. earthy ,  2. sweet ,  3. blueberry  
+411,blue steel,  1. blueberry ,  2. earthy ,  3. berry  
+412,blue power,  1. blueberry ,  2. lemon ,  3. berry  
+413,blue raspberry snow cone,  1. blueberry ,  2. flowery ,  3. sweet  
+414,blue rhino,  1. blueberry ,  2. flowery ,  3. berry  
+415,blue satellite,  1. sweet ,  2. blueberry ,  3. berry  
+416,blue sherbert,  1. blueberry ,  2. citrus ,  3. sweet  
+417,blue sky,  1. earthy ,  2. sweet ,  3. blueberry  
+418,blue steel,  1. blueberry ,  2. earthy ,  3. berry  
+419,blue thai,  1. earthy ,  2. woody ,  3. citrus  
+420,blue train,  1. blueberry ,  2. sweet ,  3. spicy/herbal  
+421,blue treat,  1. blueberry ,  2. earthy ,  3. berry  
+422,blue velvet,  1. sweet ,  2. berry ,  3. earthy  
+423,blue venom,  1. blueberry ,  2. earthy ,  3. spicy/herbal  
+424,blue widow,  1. sweet ,  2. blueberry ,  3. woody  
+425,blue wolf,  1. sweet ,  2. pine ,  3. woody  
+426,blue wonder,  1. blueberry  ,,
+427,blue wreck,  1. blueberry ,  2. earthy ,  3. skunk  
+428,blue zkittlez,  1. sweet ,  2. berry ,  3. citrus  
+429,blue zombie,  1. berry ,  2. skunk ,  3. sweet  
+430,blueberry,  1. blueberry ,  2. berry ,  3. sweet  
+431,blueberry ak,  1. blueberry ,  2. skunk ,  3. sweet  
+432,blueberry blast,  1. blueberry ,  2. berry ,  3. citrus  
+433,blueberry bomb,  1. blueberry ,  2. earthy ,  3. sweet  
+434,blueberry diesel,  1. blueberry ,  2. diesel ,  3. sweet  
+435,blueberry dream,  1. blueberry ,  2. berry ,  3. sweet  
+436,blueberry essence,  1. blueberry ,  2. earthy ,  3. flowery  
+437,blueberry hashplant,  1. blueberry ,  2. pungent ,  3. berry  
+438,blueberry haze,  1. blueberry ,  2. sweet ,  3. berry  
+439,blueberry headband,  1. blueberry ,  2. sweet ,  3. berry  
+440,blueberry jack,  1. blueberry ,  2. pine ,  3. berry  
+441,blueberry kush,  1. blueberry ,  2. berry ,  3. earthy  
+442,blueberry lambsbread,  1. blueberry ,  2. sweet ,  3. earthy  
+443,blueberry muffins,  1. blueberry ,  2. berry ,  3. sweet  
+444,blueberry og,  1. blueberry ,  2. earthy ,  3. berry  
+445,blueberry pancakes,  1. sweet ,  2. blueberry ,  3. berry  
+446,blueberry pie,  1. blueberry ,  2. berry ,  3. earthy  
+447,blueberry silvertip,  1. blueberry ,  2. sage ,  3. chestnut  
+448,blueberry skunk,  1. blueberry ,  2. skunk ,  3. earthy  
+449,blueberry space cake,  1. blueberry ,  2. flowery ,  3. berry  
+450,blue train,  1. blueberry ,  2. sweet ,  3. spicy/herbal  
+451,blueberry triple og,  1. skunk ,  2. blueberry ,  3. pungent  
+452,blueberry waltz,  1. blueberry ,  2. rose ,  3. sweet  
+453,blueberry yum yum,  1. blueberry ,  2. sweet ,  3. mint  
+454,blues,  1. berry ,  2. pungent ,  3. skunk  
+455,bluniverse,  1. sweet ,  2. citrus ,  3. blueberry  
+456,blurple,  1. sweet ,  2. berry ,  3. flowery  
+457,blush,  1. earthy ,  2. pepper ,  3. honey  
+458,bob saget,  1. pine ,  2. earthy ,  3. pungent  
+459,bodega bubblegum,  1. sweet  ,,
+460,bog blue kush,  1. rose ,  2. sage ,  3. tar  
+461,bog sour grape,  1. berry ,  2. grape ,  3. sage  
+462,bogart,  1. citrus ,  2. sweet ,  3. tropical  
+463,bluniverse,  1. sweet ,  2. citrus ,  3. blueberry  
+464,blurple,  1. sweet ,  2. berry ,  3. flowery  
+465,blush,  1. earthy ,  2. pepper ,  3. honey  
+466,bob saget,  1. pine ,  2. earthy ,  3. pungent  
+467,bodega bubblegum,  1. sweet  ,,
+468,bog blue kush,  1. rose ,  2. sage ,  3. tar  
+469,bog sour grape,  1. berry ,  2. grape ,  3. sage  
+470,bogart,  1. citrus ,  2. sweet ,  3. tropical  
+471,boggle gum,  1. sweet ,  2. citrus ,  3. earthy  
+472,bona dea,  1. earthy ,  2. skunk ,  3. spicy/herbal  
+473,bonkers,  1. berry  ,,
+474,booger,  1. sweet ,  2. berry ,  3. pungent  
+475,boombaye,  1. tea ,  2. woody  ,
+476,bootlegger,  1. earthy ,  2. pungent ,  3. berry  
+477,bootylicious,  1. earthy ,  2. sweet  ,
+478,bordello,  1. cheese ,  2. earthy ,  3. sweet  
+479,boss hogg,  1. earthy ,  2. pine ,  3. citrus  
+480,boss og,  1. diesel ,  2. earthy ,  3. pine  
+481,boysenberry,  1. earthy ,  2. blueberry ,  3. berry  
+482,brain candy,  1. sweet  ,,
+483,brains damage,  1. earthy ,  2. woody ,  3. sweet  
+484,brainstorm haze,  1. spicy/herbal ,  2. sweet ,  3. earthy  
+485,brainwreck,  1. citrus ,  2. earthy ,  3. sweet  
+486,brand x,  1. pine ,  2. earthy ,  3. tar  
+487,brandywine,  1. earthy ,  2. flowery ,  3. berry  
+488,brazil amazonia,  1. spicy/herbal ,  2. berry ,  3. citrus  
+489,brian berry cough,  1. strawberry ,  2. berry ,  3. sweet  
+490,bright fire,  1. pungent ,  2. earthy ,  3. chestnut  
+491,bright moments,  1. flowery ,  2. woody ,  3. earthy  
+492,brooklyn mango,  1. mango ,  2. tropical ,  3. citrus  
+493,bruce banner,  1. earthy ,  2. sweet ,  3. diesel  
+494,bruce banner 3,  1. sweet ,  2. diesel ,  3. earthy  
+495,bubba berry,  1. pine ,  2. earthy ,  3. berry  
+496,bubba doja,  1. earthy ,  2. spicy/herbal  ,
+497,bubba fresh,  1. citrus ,  2. coffee ,  3. earthy  
+498,bubba kush,  1. earthy ,  2. pungent ,  3. sweet  
+499,bubba og,  1. sweet ,  2. citrus ,  3. tropical  
+500,bubba tom hayes,  1. diesel ,  2. sweet ,  3. earthy  
+501,bubba x skunk,  1. earthy ,  2. tea ,  3. diesel  
+502,bubbas bitch,  1. earthy ,  2. flowery ,  3. rose  
+503,bubbas gift,  1. earthy ,  2. butter ,  3. grapefruit  
+504,bubble bomb,  1. flowery ,  2. apricot ,  3. earthy  
+505,bubble cheese,  1. cheese ,  2. earthy ,  3. pungent  
+506,bubble gum,  1. sweet ,  2. flowery ,  3. berry  
+507,bubbleberry,  1. berry ,  2. flowery ,  3. skunk  
+508,bubblegum kush,  1. sweet ,  2. earthy ,  3. berry  
+509,bubblegun,  1. sweet ,  2. earthy ,  3. mint  
+510,bubbas bitch,  1. earthy ,  2. flowery ,  3. rose  
+511,bubbas gift,  1. earthy ,  2. butter ,  3. grapefruit  
+512,bubble bomb,  1. flowery ,  2. apricot ,  3. earthy  
+513,bubble cheese,  1. cheese ,  2. earthy ,  3. pungent  
+514,bubble gum,  1. sweet ,  2. flowery ,  3. berry  
+515,bubbleberry,  1. berry ,  2. flowery ,  3. skunk  
+516,bubblegum kush,  1. sweet ,  2. earthy ,  3. berry  
+517,bubblegun,  1. sweet ,  2. earthy ,  3. mint  
+518,bubblicious,  1. sweet ,  2. earthy ,  3. berry  
+519,buckeye purple,  1. grape ,  2. flowery ,  3. berry  
+520,buddha haze,  1. earthy ,  2. sweet ,  3. spicy/herbal  
+521,buddha tahoe,  1. earthy ,  2. woody ,  3. citrus  
+522,buddhas hand,  1. citrus ,  2. earthy ,  3. lemon  
+523,buddhas sister,  1. earthy ,  2. woody ,  3. spicy/herbal  
+524,buddhas tooth,  1. citrus ,  2. pine ,  3. violet  
+525,buffalo bill,  1. earthy ,  2. pine ,  3. woody  
+526,bugatti og,  1. earthy ,  2. pine ,  3. diesel  
+527,burkle,  1. sweet ,  2. berry ,  3. spicy/herbal  
+528,burmese kush,  1. earthy ,  2. pine ,  3. woody  
+529,butter og,  1. butter ,  2. apple ,  3. chemical  
+530,butterscotch,  1. sweet ,  2. woody ,  3. earthy  
+531,c13 haze,  1. earthy ,  2. pungent ,  3. chestnut  
+532,c3po,  1. pine ,  2. citrus ,  3. pungent  
+533,c4,  1. skunk ,  2. citrus ,  3. pine  
+534,cbd blue shark,  1. berry ,  2. tea ,  3. earthy  
+535,cbd critical cure,  1. pungent ,  2. skunk ,  3. earthy  
+536,cbd critical mass,  1. earthy ,  2. woody ,  3. pepper  
+537,cbd kush,  1. spicy/herbal ,  2. pungent ,  3. diesel  
+538,cbd lilly,  1. spicy/herbal ,  2. citrus  ,
+539,cbd og,  1. earthy ,  2. flowery ,  3. pine  
+540,cbd ox,  1. flowery ,  2. berry ,  3. sweet  
+541,cbd shark,  1. pine ,  2. mint ,  3. earthy  
+542,chr super og,  1. apple ,  2. diesel ,  3. grape  
+543,csg,  1. citrus ,  2. diesel ,  3. lavender  
+544,cabbage patch,  1. earthy ,  2. sweet ,  3. berry  
+545,cackleberry,  1. grape ,  2. ammonia ,  3. chemical  
+546,cactus,  1. earthy ,  2. sweet ,  3. tea  
+547,cactus cooler,  1. citrus ,  2. earthy ,  3. orange  
+548,cadillac cookies,  1. sweet ,  2. berry ,  3. grapefruit  
+549,cadillac purple,  1. grape ,  2. pine ,  3. earthy  
+550,cali dragon,  1. pine ,  2. woody ,  3. citrus  
+551,cali gold,  1. earthy ,  2. pine ,  3. lemon  
+552,cali jack,  1. diesel ,  2. skunk ,  3. sweet  
+553,cali kush,  1. pine ,  2. earthy ,  3. woody  
+554,california grapefruit,  1. grapefruit ,  2. citrus ,  3. lime  
+555,california hash plant,  1. citrus ,  2. earthy ,  3. lemon  
+556,california limes,  1. grape ,  2. lime ,  3. orange  
+557,california love og,  1. citrus ,  2. chestnut ,  3. pine  
+558,california orange,  1. citrus ,  2. orange ,  3. sweet  
+559,california sour,  1. diesel ,  2. pungent ,  3. flowery  
+560,cali jack,  1. diesel ,  2. skunk ,  3. sweet  
+561,cali kush,  1. pine ,  2. earthy ,  3. woody  
+562,california grapefruit,  1. grapefruit ,  2. citrus ,  3. lime  
+563,california hash plant,  1. citrus ,  2. earthy ,  3. lemon  
+564,california limes,  1. grape ,  2. lime ,  3. orange  
+565,california love og,  1. citrus ,  2. chestnut ,  3. pine  
+566,california orange,  1. citrus ,  2. orange ,  3. sweet  
+567,california sour,  1. diesel ,  2. pungent ,  3. flowery  
+568,california sour diesel,  1. diesel ,  2. pepper ,  3. tar  
+569,cambodian,  1. earthy ,  2. tar ,  3. woody  
+570,cambodian haze,  1. citrus ,  2. sweet ,  3. earthy  
+571,candy apple,  1. apple ,  2. pineapple ,  3. citrus  
+572,candy cane,  1. sweet ,  2. berry ,  3. pine  
+573,candy jack,  1. sweet ,  2. pine ,  3. citrus  
+574,candyland,  1. sweet ,  2. earthy ,  3. pungent  
+575,canna tsu,  1. earthy ,  2. citrus ,  3. pine  
+576,canna wreck,  1. earthy ,  2. flowery ,  3. sweet  
+577,cannasutra,  1. flowery ,  2. pepper ,  3. skunk  
+578,cannadential,  1. woody ,  2. sweet ,  3. berry  
+579,cannalope haze,  1. citrus ,  2. mango ,  3. tropical  
+580,cannalope kush,  1. woody ,  2. sweet ,  3. earthy  
+581,cannatonic,  1. earthy ,  2. citrus ,  3. woody  
+582,capers,  1. pine ,  2. pungent ,  3. earthy  
+583,capleton,  1. lavender ,  2. skunk ,  3. chemical  
+584,captain america og,  1. citrus ,  2. earthy ,  3. sweet  
+585,captains cake,  1. earthy ,  2. sweet ,  3. citrus  
+586,caramel candy kush,  1. flowery ,  2. skunk ,  3. earthy  
+587,caramel kona coffee kush,  1. coffee ,  2. earthy ,  3. vanilla  
+588,caramelicious,  1. sweet ,  2. vanilla ,  3. honey  
+589,caramella,  1. apple ,  2. skunk ,  3. earthy  
+590,caramelo,  1. woody ,  2. flowery ,  3. earthy  
+591,carl sagan,  1. sweet ,  2. chemical ,  3. tropical  
+592,carmel cough,  1. berry ,  2. sweet ,  3. pungent  
+593,carnival,  1. earthy ,  2. pine  ,
+594,carpet tape,  1. diesel ,  2. pungent ,  3. citrus  
+595,cascadia kush,  1. flowery ,  2. sweet ,  3. earthy  
+596,casey jones,  1. earthy ,  2. citrus ,  3. diesel  
+597,cashus clay,  1. berry ,  2. earthy ,  3. pine  
+598,casper og,  1. earthy ,  2. woody ,  3. flowery  
+599,cat piss,  1. pungent ,  2. ammonia ,  3. woody  
+600,cataract kush,  1. pungent ,  2. sweet ,  3. spicy/herbal  
+601,catfish,  1. lemon ,  2. woody ,  3. tobacco  
+602,cello sweet og,  1. sweet ,  2. honey ,  3. pineapple  
+603,central american,  1. earthy ,  2. grape ,  3. mango  
+604,cerebro haze,  1. citrus ,  2. diesel ,  3. lemon  
+605,chairman chem sou,  1. chemical ,  2. citrus ,  3. diesel  
+606,champagne diesel,  1. sweet  ,,
+607,champagne kush,  1. lavender ,  2. skunk ,  3. earthy  
+608,charlie sheen,  1. lemon ,  2. earthy ,  3. citrus  
+609,charlottes web,  1. earthy ,  2. woody ,  3. flowery  
+610,cheese,  1. cheese ,  2. pungent ,  3. earthy  
+611,central american,  1. earthy ,  2. grape ,  3. mango  
+612,cerebro haze,  1. citrus ,  2. diesel ,  3. lemon  
+613,chairman chem sou,  1. chemical ,  2. citrus ,  3. diesel  
+614,champagne diesel,  1. sweet  ,,
+615,champagne kush,  1. lavender ,  2. skunk ,  3. earthy  
+616,charlie sheen,  1. lemon ,  2. earthy ,  3. citrus  
+617,charlottes web,  1. earthy ,  2. woody ,  3. flowery  
+618,cheese,  1. cheese ,  2. pungent ,  3. earthy  
+619,cheese candy,  1. cheese ,  2. sweet ,  3. berry  
+620,cheeseburger,  1. cheese ,  2. earthy ,  3. coffee  
+621,cheesewreck,  1. cheese ,  2. blue cheese ,  3. pungent  
+622,chef kush,  1. pineapple ,  2. apple ,  3. blue cheese  
+623,chem berry diesel,  1. citrus ,  2. strawberry  ,
+624,chem crush,  1. pungent ,  2. earthy ,  3. sweet  
+625,chem dog,  1. earthy ,  2. diesel ,  3. citrus  
+626,chem jack,  1. earthy ,  2. flowery ,  3. pine  
+627,chem scout,  1. earthy ,  2. skunk ,  3. sweet  
+628,chem valley kush,  1. earthy ,  2. woody ,  3. pine  
+629,chems sister,  1. chemical ,  2. diesel ,  3. citrus  
+630,chemwreck,  1. chemical ,  2. pungent ,  3. earthy  
+631,chemdawg sour diesel,  1. earthy ,  2. diesel ,  3. chemical  
+632,chemdawg,  1. diesel ,  2. earthy ,  3. chemical  
+633,chemdawg 4 x alien og kush,  1. diesel ,  2. skunk ,  3. chemical  
+634,chemdawg 4,  1. earthy ,  2. pine ,  3. chemical  
+635,chemdawg 91,  1. chemical ,  2. pungent ,  3. diesel  
+636,chemmy jones,  1. lavender ,  2. diesel ,  3. apple  
+637,chemnesia,  1. grapefruit ,  2. pungent ,  3. citrus  
+638,chemo,  1. tropical ,  2. sweet ,  3. citrus  
+639,cherwillie,  1. citrus ,  2. sweet ,  3. earthy  
+640,chernobyl,  1. lime ,  2. citrus ,  3. lemon  
+641,cherries jubilee,  1. tree fruit ,  2. berry ,  3. sweet  
+642,cherry ak 47,  1. pungent ,  2. berry ,  3. flowery  
+643,cherry bomb,  1. earthy ,  2. flowery ,  3. tropical  
+644,cherry cookies,  1. flowery ,  2. berry ,  3. earthy  
+645,cherry cream pie,  1. earthy ,  2. pine ,  3. sweet  
+646,cherry diesel,  1. diesel ,  2. berry ,  3. sweet  
+647,cherry durban poison,  1. sweet ,  2. berry ,  3. citrus  
+648,cherry fire,  1. citrus ,  2. flowery ,  3. strawberry  
+649,cherry fuel,  1. citrus  ,,
+650,cherry grapefruit,  1. apple ,  2. apricot ,  3. earthy  
+651,cherry kola,  1. earthy ,  2. berry ,  3. tree fruit  
+652,cherry kush,  1. sweet ,  2. berry ,  3. earthy  
+653,cherry limeade,  1. lime ,  2. berry ,  3. sweet  
+654,cherry mender,  1. sweet ,  2. earthy ,  3. tea  
+655,cherry og,  1. earthy ,  2. berry ,  3. sweet  
+656,cherry pie,  1. sweet ,  2. berry ,  3. earthy  
+657,cherry pie kush,  1. sweet ,  2. earthy ,  3. pungent  
+658,cherry sauce,  1. spicy/herbal ,  2. sweet ,  3. citrus  
+659,cherry sherbet,  1. sweet ,  2. berry ,  3. flowery  
+660,cherry skunk,  1. sweet ,  2. berry ,  3. earthy  
+661,cherry slyder,  1. sweet ,  2. berry ,  3. flowery  
+662,cherry thunder fuck,  1. woody ,  2. pungent ,  3. sweet  
+663,cherry og,  1. earthy ,  2. berry ,  3. sweet  
+664,cherry pie,  1. sweet ,  2. berry ,  3. earthy  
+665,cherry pie kush,  1. sweet ,  2. earthy ,  3. pungent  
+666,cherry sauce,  1. spicy/herbal ,  2. sweet ,  3. citrus  
+667,cherry sherbet,  1. sweet ,  2. berry ,  3. flowery  
+668,cherry skunk,  1. sweet ,  2. berry ,  3. earthy  
+669,cherry slyder,  1. sweet ,  2. berry ,  3. flowery  
+670,cherry thunder fuck,  1. woody ,  2. pungent ,  3. sweet  
+671,cherry vanilla cookies,  1. sweet ,  2. earthy ,  3. pine  
+672,cherry wine,  1. woody ,  2. berry ,  3. flowery  
+673,chicle,  1. diesel ,  2. sweet ,  3. ammonia  
+674,chiesel,  1. cheese ,  2. diesel ,  3. earthy  
+675,china yunnan,  1. sweet ,  2. earthy ,  3. cheese  
+676,chiquita banana,  1. tropical ,  2. sweet ,  3. tree fruit  
+677,chloe,  1. earthy ,  2. pepper ,  3. citrus  
+678,chocoholic,  1. vanilla  ,,
+679,chocolate cheesecake,  1. butter ,  2. cheese ,  3. flowery  
+680,chocolate chunk,  1. coffee ,  2. earthy ,  3. butter  
+681,chocolate diesel,  1. diesel ,  2. earthy ,  3. flowery  
+682,chocolate drop,  1. earthy ,  2. vanilla  ,
+683,chocolate fondue,  1. sweet ,  2. coffee ,  3. cheese  
+684,chocolate glue,  1. diesel ,  2. flowery ,  3. pungent  
+685,chocolate hashberry,  1. berry ,  2. earthy ,  3. flowery  
+686,chocolate kush,  1. earthy ,  2. woody ,  3. diesel  
+687,chocolate lava,  1. earthy  ,,
+688,chocolate mint og,  1. mint ,  2. vanilla ,  3. earthy  
+689,chocolate og,  1. earthy ,  2. nutty ,  3. sweet  
+690,chocolate rain,  1. coffee ,  2. sweet ,  3. vanilla  
+691,chocolate sap,  1. chemical ,  2. citrus ,  3. skunk  
+692,chocolate skunk,  1. skunk  ,,
+693,chocolate thai,  1. woody ,  2. coffee ,  3. earthy  
+694,chocolate thunder,  1. honey ,  2. nutty ,  3. apricot  
+695,chocolope kush,  1. earthy ,  2. pungent ,  3. woody  
+696,chong star,  1. honey ,  2. earthy ,  3. skunk  
+697,chronic,  1. earthy ,  2. pungent ,  3. spicy/herbal  
+698,chronic thunder,  1. pungent ,  2. earthy ,  3. diesel  
+699,chuckys bride,  1. tropical ,  2. pungent ,  3. cheese  
+700,chunky diesel,  1. diesel ,  2. earthy ,  3. chestnut  
+701,chupacabra,  1. pungent ,  2. vanilla ,  3. tree fruit  
+702,church og,  1. earthy ,  2. skunk ,  3. butter  
+703,cinderella 99,  1. earthy ,  2. citrus ,  3. sweet  
+704,cinderellas dream,  1. sweet ,  2. citrus ,  3. earthy  
+705,cindy white,  1. earthy ,  2. pungent ,  3. woody  
+706,cinex,  1. earthy ,  2. citrus ,  3. pungent  
+707,cirrus,  1. earthy ,  2. citrus ,  3. flowery  
+708,citradelic sunset,  1. berry ,  2. sweet ,  3. pine  
+709,citral glue,  1. citrus ,  2. lemon ,  3. skunk  
+710,citral skunk,  1. citrus ,  2. lemon ,  3. flowery  
+711,citrix,  1. citrus ,  2. orange ,  3. grapefruit  
+712,citrus kush,  1. citrus ,  2. sweet ,  3. orange  
+713,cindy white,  1. earthy ,  2. pungent ,  3. woody  
+714,cinex,  1. earthy ,  2. citrus ,  3. pungent  
+715,cirrus,  1. earthy ,  2. citrus ,  3. flowery  
+716,citradelic sunset,  1. berry ,  2. sweet ,  3. pine  
+717,citral glue,  1. citrus ,  2. lemon ,  3. skunk  
+718,citral skunk,  1. citrus ,  2. lemon ,  3. flowery  
+719,citrix,  1. citrus ,  2. orange ,  3. grapefruit  
+720,citrus kush,  1. citrus ,  2. sweet ,  3. orange  
+721,citrus punch,  1. citrus ,  2. earthy ,  3. orange  
+722,citrus rush,  1. tropical ,  2. orange ,  3. skunk  
+723,citrus sap,  1. citrus ,  2. earthy ,  3. spicy/herbal  
+724,citrus sunshine haze,  1. lemon ,  2. citrus ,  3. orange  
+725,city of god,  1. diesel ,  2. earthy  ,
+726,clementine,  1. citrus ,  2. orange ,  3. lemon  
+727,clementine kush,  1. citrus ,  2. lemon ,  3. earthy  
+728,clementines terpentine,  1. pine ,  2. citrus ,  3. earthy  
+729,clockwork orange,  1. citrus ,  2. lemon ,  3. orange  
+730,cloud 9,  1. woody ,  2. tar ,  3. chemical  
+731,cloudcap,  1. berry ,  2. coffee ,  3. earthy  
+732,club 69,  1. flowery ,  2. grape ,  3. strawberry  
+733,cluster bomb,  1. citrus ,  2. sweet ,  3. tropical  
+734,cobra lips,  1. chemical ,  2. pear  ,
+735,coconut oil,  1. flowery ,  2. pungent ,  3. tropical  
+736,cold creek kush,  1. flowery ,  2. woody ,  3. sweet  
+737,colin og s1,  1. diesel ,  2. earthy ,  3. skunk  
+738,colombian gold,  1. citrus ,  2. earthy ,  3. lemon  
+739,colombian mojito,  1. citrus ,  2. pine ,  3. mint  
+740,colorado bubba,  1. blue cheese ,  2. nutty ,  3. pine  
+741,colorado chem,  1. pine ,  2. mint ,  3. menthol  
+742,colorado clementines,  1. citrus ,  2. lemon ,  3. spicy/herbal  
+743,commerce city kush,  1. earthy ,  2. diesel ,  3. flowery  
+744,concord cream,  1. earthy ,  2. flowery ,  3. grape  
+745,concord grape blockhead,  1. grape ,  2. sweet  ,
+746,confidential cheese,  1. cheese ,  2. earthy ,  3. pungent  
+747,confidential cookies,  1. earthy ,  2. pungent ,  3. sweet  
+748,confidential wreck,  1. citrus ,  2. earthy ,  3. sweet  
+749,congo,  1. tropical ,  2. ammonia ,  3. diesel  
+750,connie chung,  1. sweet ,  2. tea ,  3. pungent  
+751,conspiracy kush,  1. woody ,  2. citrus ,  3. lemon  
+752,cookie breath,  1. earthy ,  2. flowery ,  3. mint  
+753,cookie dough,  1. sweet ,  2. lemon ,  3. earthy  
+754,cookie jar,  1. earthy ,  2. sweet ,  3. flowery  
+755,cookie monster,  1. citrus ,  2. vanilla ,  3. butter  
+756,cookie puss,  1. earthy ,  2. citrus ,  3. diesel  
+757,cookie wreck,  1. sweet ,  2. vanilla ,  3. earthy  
+758,cookies and dream,  1. citrus ,  2. pungent ,  3. sweet  
+759,copper kush,  1. earthy ,  2. pine ,  3. pungent  
+760,corleone kush,  1. spicy/herbal ,  2. earthy ,  3. pungent  
+761,cookie monster,  1. citrus ,  2. vanilla ,  3. butter  
+762,cookie puss,  1. earthy ,  2. citrus ,  3. diesel  
+763,cookie wreck,  1. sweet ,  2. vanilla ,  3. earthy  
+764,cookies and dream,  1. citrus ,  2. pungent ,  3. sweet  
+765,copper kush,  1. earthy ,  2. pine ,  3. pungent  
+766,corleone kush,  1. spicy/herbal ,  2. earthy ,  3. pungent  
+767,cornbread,  1. spicy/herbal ,  2. woody ,  3. earthy  
+768,cosmic collision,  1. sweet ,  2. woody ,  3. citrus  
+769,cotton candy kush,  1. sweet ,  2. lavender ,  3. flowery  
+770,cotton purple chem,  1. sweet ,  2. earthy ,  3. berry  
+771,cowboy kush,  1. woody ,  2. blueberry ,  3. flowery  
+772,cracker jack,  1. pine ,  2. pungent ,  3. chemical  
+773,crater lake,  1. citrus ,  2. chemical ,  3. lemon  
+774,crazy miss hyde,  1. earthy ,  2. sweet ,  3. citrus  
+775,cream caramel,  1. citrus ,  2. earthy ,  3. lemon  
+776,crimea blue,  1. blueberry ,  2. flowery ,  3. sweet  
+777,critical 47,  1. earthy ,  2. mango ,  3. skunk  
+778,critical bilbo,  1. earthy ,  2. pine ,  3. rose  
+779,critical cheese,  1. cheese ,  2. sweet ,  3. orange  
+780,critical haze,  1. citrus ,  2. earthy ,  3. spicy/herbal  
+781,critical hog,  1. skunk ,  2. tobacco ,  3. earthy  
+782,critical jack,  1. citrus ,  2. woody ,  3. pine  
+783,critical kali mist,  1. earthy ,  2. pine ,  3. sweet  
+784,critical kush,  1. earthy ,  2. woody ,  3. pungent  
+785,critical mass,  1. earthy ,  2. sweet ,  3. woody  
+786,critical plus,  1. pungent ,  2. citrus ,  3. tea  
+787,critical plus 20,  1. flowery ,  2. lemon ,  3. spicy/herbal  
+788,critical sensi star,  1. lemon ,  2. grapefruit ,  3. pine  
+789,critical skunk,  1. skunk ,  2. earthy ,  3. flowery  
+790,critical widow,  1. sweet ,  2. earthy ,  3. pungent  
+791,critters cookies,  1. earthy ,  2. lemon ,  3. pungent  
+792,crocketts haze,  1. citrus ,  2. pungent ,  3. flowery  
+793,cronuts,  1. chemical ,  2. diesel ,  3. earthy  
+794,crosswalker,  1. pine ,  2. earthy ,  3. blueberry  
+795,crouching tiger hidden alien,  1. earthy ,  2. flowery ,  3. pungent  
+796,crown og,  1. earthy ,  2. pine ,  3. tropical  
+797,crown royale,  1. earthy ,  2. flowery ,  3. blueberry  
+798,crunch berry kush,  1. berry ,  2. earthy ,  3. citrus  
+799,crypt,  1. sweet ,  2. cheese ,  3. pungent  
+800,crystal coma,  1. citrus ,  2. earthy ,  3. pine  
+801,crystal gayle,  1. sweet ,  2. diesel ,  3. earthy  
+802,crystalberry,  1. berry ,  2. blueberry ,  3. grape  
+803,cuvee,  1. earthy ,  2. woody ,  3. sweet  
+804,cypress og,  1. berry ,  2. citrus ,  3. earthy  
+805,dj short blueberry,  1. blueberry ,  2. sweet ,  3. berry  
+806,dj smoke,  1. sweet ,  2. citrus ,  3. lavender  
+807,dairy queen,  1. cheese ,  2. sweet ,  3. berry  
+808,dakini kush,  1. pungent ,  2. berry ,  3. skunk  
+809,cuvee,  1. earthy ,  2. woody ,  3. sweet  
+810,cypress og,  1. berry ,  2. citrus ,  3. earthy  
+811,dj short blueberry,  1. blueberry ,  2. sweet ,  3. berry  
+812,dj smoke,  1. sweet ,  2. citrus ,  3. lavender  
+813,dairy queen,  1. cheese ,  2. sweet ,  3. berry  
+814,dakini kush,  1. pungent ,  2. berry ,  3. skunk  
+815,damn sour,  1. woody ,  2. citrus ,  3. diesel  
+816,damnesia,  1. pepper ,  2. spicy/herbal ,  3. earthy  
+817,dance world,  1. earthy ,  2. citrus ,  3. pine  
+818,dancehall,  1. flowery ,  2. earthy ,  3. woody  
+819,dank schrader,  1. pine ,  2. earthy ,  3. sweet  
+820,dank sinatra,  1. sweet ,  2. berry ,  3. blue cheese  
+821,double d,  1. pungent ,  2. woody ,  3. sweet  
+822,dark blue dream,  1. earthy ,  2. blueberry ,  3. sweet  
+823,dark shadow haze,  1. earthy ,  2. sweet ,  3. grape  
+824,dark side of the moon,  1. earthy ,  2. berry ,  3. sweet  
+825,dark star,  1. earthy ,  2. citrus ,  3. pungent  
+826,darkside og,  1. lemon ,  2. earthy ,  3. citrus  
+827,darth vader og,  1. grape ,  2. spicy/herbal ,  3. nutty  
+828,dawgs waltz,  1. earthy ,  2. skunk ,  3. sweet  
+829,dawgfather og,  1. pepper ,  2. woody ,  3. chemical  
+830,day tripper,  1. citrus ,  2. sweet ,  3. blueberry  
+831,deadhead og,  1. earthy ,  2. pungent ,  3. pine  
+832,deadlights,  1. chestnut ,  2. violet ,  3. woody  
+833,deadwood,  1. berry ,  2. earthy ,  3. lavender  
+834,death bubba,  1. earthy ,  2. sweet ,  3. pungent  
+835,death by cake og,  1. butter ,  2. woody  ,
+836,death star,  1. earthy ,  2. diesel ,  3. pungent  
+837,deathstar og,  1. earthy ,  2. diesel ,  3. woody  
+838,deep breath,  1. berry ,  2. diesel ,  3. nutty  
+839,deep cheese,  1. cheese ,  2. pungent ,  3. skunk  
+840,deep chunk,  1. earthy ,  2. lavender ,  3. sweet  
+841,deep purple,  1. mint ,  2. grape ,  3. sweet  
+842,deep sleep,  1. earthy ,  2. pine ,  3. woody  
+843,delahaze,  1. lemon ,  2. citrus ,  3. mango  
+844,denver maple,  1. earthy ,  2. citrus ,  3. flowery  
+845,destar bx,  1. grapefruit ,  2. pepper ,  3. pungent  
+846,desert diesel,  1. chemical ,  2. citrus ,  3. diesel  
+847,desert star,  1. earthy  ,,
+848,designer og,  1. pine ,  2. skunk  ,
+849,destroyer,  1. lavender ,  2. ammonia ,  3. blue cheese  
+850,devil fruit,  1. citrus ,  2. spicy/herbal ,  3. skunk  
+851,devils tit,  1. spicy/herbal ,  2. sweet ,  3. tropical  
+852,diablo,  1. earthy ,  2. spicy/herbal ,  3. sweet  
+853,diamond og,  1. earthy ,  2. citrus ,  3. pine  
+854,diamond valley kush,  1. pungent ,  2. apple ,  3. sweet  
+855,diesel dough,  1. diesel ,  2. earthy ,  3. pungent  
+856,diesel duff,  1. flowery ,  2. honey ,  3. skunk  
+857,diesel glue,  1. earthy ,  2. pungent  ,
+858,diablo,  1. earthy ,  2. spicy/herbal ,  3. sweet  
+859,diamond og,  1. earthy ,  2. citrus ,  3. pine  
+860,diamond valley kush,  1. pungent ,  2. apple ,  3. sweet  
+861,diesel dough,  1. diesel ,  2. earthy ,  3. pungent  
+862,diesel duff,  1. flowery ,  2. honey ,  3. skunk  
+863,diesel glue,  1. earthy ,  2. pungent  ,
+864,dieseltonic,  1. diesel ,  2. citrus ,  3. tropical  
+865,digweed,  1. earthy ,  2. chemical ,  3. sweet  
+866,dinachem,  1. pine ,  2. pungent ,  3. skunk  
+867,dirty girl,  1. citrus ,  2. sweet ,  3. tropical  
+868,dirty old bastard,  1. earthy ,  2. woody ,  3. flowery  
+869,dirty widow,  1. sweet ,  2. earthy ,  3. pungent  
+870,disney blue,  1. berry ,  2. sweet ,  3. grape  
+871,divina obscura,  1. berry ,  2. blueberry ,  3. citrus  
+872,dizzy og,  1. earthy ,  2. sweet ,  3. pine  
+873,django,  1. earthy ,  2. flowery ,  3. sweet  
+874,do si dos,  1. earthy ,  2. sweet ,  3. pungent  
+875,doc holliday,  1. berry ,  2. sweet ,  3. tropical  
+876,doctor doctor,  1. citrus ,  2. flowery ,  3. strawberry  
+877,dog shit,  1. earthy ,  2. pungent ,  3. pine  
+878,dogwalker og,  1. earthy ,  2. woody ,  3. pungent  
+879,dolla sign og kush,  1. flowery ,  2. pungent ,  3. sweet  
+880,don carlos,  1. berry ,  2. blueberry ,  3. diesel  
+881,don shula,  1. citrus ,  2. tropical ,  3. butter  
+882,donegal,  1. citrus ,  2. earthy ,  3. woody  
+883,donkey butter,  1. earthy ,  2. diesel ,  3. sweet  
+884,donna og,  1. earthy ,  2. pine ,  3. pungent  
+885,doobiebird daydream,  1. vanilla ,  2. sweet ,  3. spicy/herbal  
+886,doox,  1. citrus ,  2. lemon ,  3. lime  
+887,dopium,  1. pine ,  2. chemical ,  3. pungent  
+888,dorit,  1. ammonia ,  2. cheese ,  3. chemical  
+889,double barrel og,  1. earthy ,  2. citrus  ,
+890,double diesel,  1. diesel ,  2. grapefruit ,  3. citrus  
+891,double dream,  1. sweet ,  2. spicy/herbal ,  3. lemon  
+892,double dutch,  1. tar ,  2. sweet ,  3. pungent  
+893,double mint,  1. lemon ,  2. mint ,  3. citrus  
+894,double og,  1. earthy ,  2. skunk ,  3. sweet  
+895,double purple doja,  1. earthy ,  2. grape ,  3. pungent  
+896,double tangie banana,  1. sweet ,  2. orange ,  3. tropical  
+897,double tap,  1. earthy ,  2. pine ,  3. pungent  
+898,dougs varin,  1. woody ,  2. earthy ,  3. lemon  
+899,dr feelgood,  1. earthy ,  2. woody ,  3. nutty  
+900,dr funk,  1. berry ,  2. blueberry ,  3. cheese  
+901,double purple doja,  1. earthy ,  2. grape ,  3. pungent  
+902,double tangie banana,  1. sweet ,  2. orange ,  3. tropical  
+903,double tap,  1. earthy ,  2. pine ,  3. pungent  
+904,dougs varin,  1. woody ,  2. earthy ,  3. lemon  
+905,dr feelgood,  1. earthy ,  2. woody ,  3. nutty  
+906,dr funk,  1. berry ,  2. blueberry ,  3. cheese  
+907,dr greenthumbs em dog,  1. earthy ,  2. pine ,  3. pungent  
+908,dr grinspoon,  1. pepper ,  2. woody ,  3. pine  
+909,dr who,  1. earthy ,  2. pungent ,  3. grape  
+910,dragon fruit,  1. pungent ,  2. sweet ,  3. tropical  
+911,dragon og,  1. earthy ,  2. pine ,  3. spicy/herbal  
+912,dragon punch,  1. berry ,  2. blueberry ,  3. citrus  
+913,dragons breath,  1. spicy/herbal ,  2. mint ,  3. lime  
+914,dreadlock,  1. earthy ,  2. diesel ,  3. pine  
+915,dream beaver,  1. earthy ,  2. woody ,  3. pine  
+916,dream berry,  1. berry ,  2. blueberry ,  3. grapefruit  
+917,dream girl,  1. blueberry ,  2. earthy ,  3. skunk  
+918,dream lotus,  1. woody ,  2. earthy ,  3. flowery  
+919,dream machine,  1. earthy  ,,
+920,dream police,  1. earthy ,  2. berry ,  3. blueberry  
+921,dream queen,  1. sweet ,  2. citrus ,  3. pineapple  
+922,dream star,  1. earthy ,  2. sweet ,  3. citrus  
+923,dreamcatcher,  1. sweet ,  2. berry ,  3. blueberry  
+924,dreamers glass,  1. earthy ,  2. skunk ,  3. sweet  
+925,drizella,  1. earthy ,  2. pungent ,  3. sweet  
+926,duct tape,  1. earthy ,  2. skunk ,  3. diesel  
+927,duke nukem,  1. earthy ,  2. flowery ,  3. skunk  
+928,durban berry,  1. berry ,  2. sweet ,  3. blueberry  
+929,durban cheese,  1. citrus ,  2. cheese ,  3. earthy  
+930,durban cookies,  1. earthy ,  2. woody ,  3. sweet  
+931,durban poison,  1. earthy ,  2. pine ,  3. sweet  
+932,durban princess,  1. citrus ,  2. earthy  ,
+933,durga mata,  1. spicy/herbal ,  2. earthy ,  3. pungent  
+934,dutch crunch,  1. citrus ,  2. pine ,  3. spicy/herbal  
+935,dutch dragon,  1. citrus ,  2. sweet ,  3. tropical  
+936,dutch dynasty,  1. chemical ,  2. tobacco  ,
+937,dutch hawaiian f26d85d8964844c0a3e447bceefefa9f,  1. earthy ,  2. flowery ,  3. sweet  
+938,dutch hawaiian,  1. flowery ,  2. citrus ,  3. sweet  
+939,dutch haze,  1. citrus ,  2. lemon ,  3. pine  
+940,dutch kush,  1. earthy ,  2. sweet ,  3. berry  
+941,dutch queen,  1. pine ,  2. earthy ,  3. sweet  
+942,dutch thunder fuck,  1. citrus ,  2. sweet ,  3. diesel  
+943,dutch treat,  1. pine ,  2. sweet ,  3. spicy/herbal  
+944,dutch treat haze,  1. earthy ,  2. skunk ,  3. sweet  
+945,dutchberry,  1. berry ,  2. blueberry ,  3. earthy  
+946,dynamite,  1. grapefruit ,  2. pungent ,  3. sweet  
+947,early girl,  1. sweet ,  2. citrus ,  3. pungent  
+948,early glue rbx1,  1. diesel ,  2. pepper ,  3. pungent  
+949,early miss,  1. pepper ,  2. ammonia ,  3. chemical  
+950,early pearl,  1. tea ,  2. sweet ,  3. earthy  
+951,dutch treat haze,  1. earthy ,  2. skunk ,  3. sweet  
+952,dutchberry,  1. berry ,  2. blueberry ,  3. earthy  
+953,dynamite,  1. grapefruit ,  2. pungent ,  3. sweet  
+954,early girl,  1. sweet ,  2. citrus ,  3. pungent  
+955,early glue rbx1,  1. diesel ,  2. pepper ,  3. pungent  
+956,early miss,  1. pepper ,  2. ammonia ,  3. chemical  
+957,early pearl,  1. tea ,  2. sweet ,  3. earthy  
+958,early skunk,  1. flowery ,  2. earthy ,  3. woody  
+959,earth og,  1. earthy ,  2. woody ,  3. pepper  
+960,earthquake,  1. earthy ,  2. woody ,  3. coffee  
+961,earthshaker og,  1. earthy ,  2. cheese ,  3. flowery  
+962,east coast alien,  1. diesel ,  2. earthy ,  3. mint  
+963,east coast sour diesel,  1. diesel ,  2. earthy ,  3. citrus  
+964,eastern european,  1. earthy ,  2. pine ,  3. woody  
+965,easy bud,  1. pine ,  2. sweet ,  3. woody  
+966,easy peezy,  1. lemon ,  2. earthy ,  3. spicy/herbal  
+967,ebola 7,  1. sweet ,  2. pine ,  3. spicy/herbal  
+968,ecto cooler,  1. orange ,  2. diesel ,  3. pine  
+969,ed rosenthal super bud,  1. spicy/herbal ,  2. nutty ,  3. earthy  
+970,edelweiss,  1. mint ,  2. flowery ,  3. sweet  
+971,el chapo,  1. sweet ,  2. chemical ,  3. diesel  
+972,el chapo og,  1. earthy ,  2. pine ,  3. pungent  
+973,el jeffe,  1. earthy ,  2. spicy/herbal ,  3. grape  
+974,el nino,  1. sweet ,  2. flowery ,  3. tree fruit  
+975,el perro,  1. earthy ,  2. diesel ,  3. flowery  
+976,el na,  1. earthy ,  2. pine ,  3. pungent  
+977,elderberry kush,  1. sweet ,  2. citrus ,  3. berry  
+978,electric black mamba,  1. nutty ,  2. woody ,  3. sweet  
+979,electric kool aid,  1. berry ,  2. sweet ,  3. grape  
+980,electric lemon g,  1. lemon ,  2. citrus ,  3. lime  
+981,electric lemonade,  1. lemon ,  2. citrus ,  3. sweet  
+982,elektra,  1. earthy ,  2. chemical ,  3. citrus  
+983,elephant,  1. earthy ,  2. sweet ,  3. tropical  
+984,elmers glue,  1. earthy ,  2. pungent ,  3. pine  
+985,elphinstone,  1. citrus ,  2. pine ,  3. skunk  
+986,elvis,  1. skunk ,  2. sweet ,  3. earthy  
+987,emerald jack,  1. sweet ,  2. woody ,  3. spicy/herbal  
+988,emerald og,  1. earthy ,  2. citrus ,  3. sweet  
+989,emperor cookie dough,  1. citrus ,  2. earthy ,  3. pine  
+990,endless sky,  1. berry ,  2. sweet ,  3. butter  
+991,enemy of the state,  1. earthy ,  2. woody ,  3. nutty  
+992,enigma,  1. citrus ,  2. pungent ,  3. earthy  
+993,eran almog,  1. woody ,  2. earthy ,  3. citrus  
+994,erez,  1. spicy/herbal ,  2. berry ,  3. blueberry  
+995,ethiopian,  1. citrus ,  2. coffee ,  3. pepper  
+996,euphoria,  1. woody ,  2. sweet ,  3. earthy  
+997,eugene cream,  1. earthy ,  2. sweet ,  3. berry  
+998,euphoria cookies,  1. coffee ,  2. sweet ,  3. citrus  
+999,erez,  1. spicy/herbal ,  2. berry ,  3. blueberry  
+1000,ethiopian,  1. citrus ,  2. coffee ,  3. pepper  
+1001,euphoria,  1. woody ,  2. sweet ,  3. earthy  
+1002,eugene cream,  1. earthy ,  2. sweet ,  3. berry  
+1003,euphoria cookies,  1. coffee ,  2. sweet ,  3. citrus  
+1004,everlast,  1. flowery ,  2. earthy ,  3. spicy/herbal  
+1005,exodus cheese,  1. cheese ,  2. pungent ,  3. blueberry  
+1006,extreme cream,  1. butter ,  2. earthy ,  3. sweet  
+1007,extreme og,  1. earthy ,  2. lime ,  3. pine  
+1008,f 13,  1. berry ,  2. earthy ,  3. pungent  
+1009,fn louzer,  1. diesel ,  2. chemical ,  3. earthy  
+1010,fpog,  1. sweet ,  2. berry ,  3. tropical  
+1011,face off bx2,  1. diesel ,  2. earthy ,  3. flowery  
+1012,face off og,  1. sweet ,  2. diesel ,  3. pine  
+1013,face on fire,  1. lavender ,  2. pine ,  3. pungent  
+1014,faded glory,  1. berry ,  2. cheese ,  3. skunk  
+1015,fallen angel,  1. earthy ,  2. pungent ,  3. woody  
+1016,false teeth,  1. earthy ,  2. sweet ,  3. grape  
+1017,fast eddy,  1. pine ,  2. earthy ,  3. citrus  
+1018,fat axl,  1. earthy ,  2. pine ,  3. woody  
+1019,fat nelson,  1. pungent ,  2. citrus ,  3. diesel  
+1020,fat purple,  1. grape ,  2. berry ,  3. sweet  
+1021,fauxsido,  1. diesel ,  2. pungent ,  3. sage  
+1022,faygo red pop,  1. strawberry ,  2. sweet ,  3. berry  
+1023,fire alien kush,  1. lime ,  2. earthy ,  3. woody  
+1024,fire alien strawberry,  1. sweet ,  2. spicy/herbal ,  3. earthy  
+1025,fire haze,  1. earthy ,  2. spicy/herbal ,  3. woody  
+1026,fire og,  1. earthy ,  2. lemon ,  3. woody  
+1027,firewalker og,  1. citrus ,  2. spicy/herbal ,  3. pine  
+1028,first 48,  1. earthy ,  2. pungent ,  3. woody  
+1029,first light,  1. blueberry ,  2. citrus  ,
+1030,flaming cookies,  1. spicy/herbal ,  2. earthy ,  3. pungent  
+1031,flo,  1. earthy ,  2. sweet ,  3. pine  
+1032,flo limone,  1. lemon ,  2. sweet ,  3. citrus  
+1033,flo og,  1. earthy ,  2. sweet ,  3. pungent  
+1034,flo walker,  1. mango ,  2. citrus ,  3. earthy  
+1035,flowerbomb kush,  1. spicy/herbal ,  2. flowery ,  3. sweet  
+1036,flowers for algernon,  1. diesel ,  2. citrus ,  3. lemon  
+1037,forbidden fruit,  1. citrus ,  2. grapefruit ,  3. tropical  
+1038,formula one,  1. citrus ,  2. diesel ,  3. flowery  
+1039,fortune cookies,  1. honey ,  2. flowery ,  3. skunk  
+1040,forum cut cookies s1,  1. sweet ,  2. pungent ,  3. pine  
+1041,foul mouth,  1. earthy ,  2. woody ,  3. citrus  
+1042,flowers for algernon,  1. diesel ,  2. citrus ,  3. lemon  
+1043,forbidden fruit,  1. citrus ,  2. grapefruit ,  3. tropical  
+1044,formula one,  1. citrus ,  2. diesel ,  3. flowery  
+1045,fortune cookies,  1. honey ,  2. flowery ,  3. skunk  
+1046,forum cut cookies s1,  1. sweet ,  2. pungent ,  3. pine  
+1047,foul mouth,  1. earthy ,  2. woody ,  3. citrus  
+1048,four cups,  1. earthy ,  2. diesel ,  3. pungent  
+1049,four star general,  1. diesel ,  2. earthy ,  3. flowery  
+1050,four way,  1. pepper ,  2. earthy ,  3. tree fruit  
+1051,franks gift,  1. earthy ,  2. woody ,  3. sweet  
+1052,frankenstein,  1. earthy ,  2. citrus ,  3. sweet  
+1053,fred flipn stoned,  1. chestnut ,  2. earthy ,  3. pine  
+1054,freezeland,  1. sweet ,  2. woody ,  3. pine  
+1055,french bread,  1. pine ,  2. chestnut ,  3. coffee  
+1056,frida,  1. lemon ,  2. citrus ,  3. earthy  
+1057,frisian dew,  1. woody ,  2. citrus ,  3. earthy  
+1058,frisian duck,  1. pine ,  2. woody ,  3. sweet  
+1059,frostbite,  1. earthy ,  2. tea ,  3. pine  
+1060,frosted cherry cookies,  1. berry ,  2. blueberry ,  3. flowery  
+1061,frosted freak,  1. mint ,  2. citrus ,  3. orange  
+1062,frosty,  1. pungent ,  2. earthy ,  3. sweet  
+1063,frosty jesus,  1. diesel ,  2. earthy ,  3. pungent  
+1064,fruit crusher,  1. cheese ,  2. citrus ,  3. earthy  
+1065,fruit loop og,  1. berry ,  2. sage ,  3. sweet  
+1066,fruit loops,  1. sweet ,  2. berry ,  3. grapefruit  
+1067,fruit punch,  1. berry ,  2. sweet ,  3. tropical  
+1068,fruit spirit,  1. spicy/herbal ,  2. earthy ,  3. berry  
+1069,fruity chronic juice,  1. citrus ,  2. flowery ,  3. tropical  
+1070,fruity widow,  1. blueberry ,  2. sweet  ,
+1071,fruitylicious,  1. sweet ,  2. blueberry ,  3. earthy  
+1072,fucking incredible,  1. sweet ,  2. pungent ,  3. skunk  
+1073,full moon,  1. earthy ,  2. pungent ,  3. pine  
+1074,funfetti,  1. sweet ,  2. flowery ,  3. berry  
+1075,funky monkey,  1. berry ,  2. sweet ,  3. grape  
+1076,future,  1. sweet ,  2. skunk ,  3. earthy  
+1077,goat,  1. earthy ,  2. lemon ,  3. pungent  
+1078,g 13,  1. earthy ,  2. pine ,  3. woody  
+1079,g13 diesel,  1. sweet ,  2. diesel ,  3. earthy  
+1080,g13 haze,  1. lemon ,  2. woody ,  3. sweet  
+1081,g13 widow,  1. earthy ,  2. flowery ,  3. lime  
+1082,gdp electric,  1. lavender ,  2. berry ,  3. tropical  
+1083,gi 001,  1. lime ,  2. lemon ,  3. citrus  
+1084,gmo cookies,  1. earthy ,  2. pungent ,  3. chemical  
+1085,griz kush,  1. skunk ,  2. woody ,  3. lemon  
+1086,gsc,  1. sweet ,  2. earthy ,  3. flowery  
+1087,gto,  1. blueberry  ,,
+1088,gabriel sherbet,  1. sweet ,  2. blueberry ,  3. mint  
+1089,galactic jack,  1. lemon ,  2. sweet ,  3. grapefruit  
+1090,gdp electric,  1. lavender ,  2. berry ,  3. tropical  
+1091,gi 001,  1. lime ,  2. lemon ,  3. citrus  
+1092,gmo cookies,  1. earthy ,  2. pungent ,  3. chemical  
+1093,griz kush,  1. skunk ,  2. woody ,  3. lemon  
+1094,gsc,  1. sweet ,  2. earthy ,  3. flowery  
+1095,gto,  1. blueberry  ,,
+1096,gabriel sherbet,  1. sweet ,  2. blueberry ,  3. mint  
+1097,galactic jack,  1. lemon ,  2. sweet ,  3. grapefruit  
+1098,galactica og,  1. skunk ,  2. citrus ,  3. earthy  
+1099,game changer,  1. flowery ,  2. lemon ,  3. woody  
+1100,gandalf og,  1. sweet ,  2. berry ,  3. citrus  
+1101,ganesh berry,  1. flowery ,  2. berry ,  3. sweet  
+1102,garlic bud,  1. earthy ,  2. woody ,  3. pungent  
+1103,gas mask,  1. pungent ,  2. vanilla ,  3. lemon  
+1104,gatekeeper og,  1. earthy ,  2. flowery ,  3. pine  
+1105,gelato,  1. sweet ,  2. citrus ,  3. earthy  
+1106,gelato 33,  1. earthy ,  2. citrus ,  3. pungent  
+1107,gemstone,  1. flowery ,  2. earthy ,  3. tree fruit  
+1108,georgia pine,  1. sweet ,  2. pine ,  3. earthy  
+1109,ghost bubba,  1. earthy ,  2. tea ,  3. sweet  
+1110,ghost cookies,  1. woody ,  2. earthy ,  3. sweet  
+1111,ghost og,  1. earthy ,  2. citrus ,  3. pine  
+1112,ghost og moonshine,  1. woody ,  2. earthy ,  3. sweet  
+1113,ghost rider og,  1. pine ,  2. earthy ,  3. woody  
+1114,ghost ship,  1. skunk ,  2. earthy ,  3. pungent  
+1115,ghost train haze,  1. citrus ,  2. earthy ,  3. lemon  
+1116,ghostbreath,  1. earthy ,  2. lime ,  3. spicy/herbal  
+1117,gigabud,  1. earthy ,  2. woody ,  3. apricot  
+1118,gilz nilz,  1. earthy ,  2. sweet ,  3. pungent  
+1119,ginger ale,  1. earthy ,  2. berry ,  3. pear  
+1120,ginger punch,  1. earthy ,  2. strawberry ,  3. sweet  
+1121,glad max,  1. earthy ,  2. flowery ,  3. sweet  
+1122,glass apple,  1. apple ,  2. flowery ,  3. sweet  
+1123,glass slipper,  1. sweet ,  2. pineapple ,  3. earthy  
+1124,glue tech,  1. pungent ,  2. skunk ,  3. earthy  
+1125,gluechee,  1. blue cheese ,  2. cheese ,  3. diesel  
+1126,gnome walker,  1. citrus ,  2. grapefruit ,  3. sweet  
+1127,go time,  1. citrus ,  2. earthy ,  3. lemon  
+1128,goat head,  1. pineapple  ,,
+1129,gobbilygoo,  1. berry ,  2. grape ,  3. lavender  
+1130,gobbstopper,  1. sweet ,  2. berry ,  3. woody  
+1131,god bud,  1. earthy ,  2. pungent ,  3. woody  
+1132,gods green crack,  1. earthy ,  2. pungent ,  3. spicy/herbal  
+1133,godberry,  1. berry ,  2. sweet ,  3. flowery  
+1134,godfather og,  1. earthy ,  2. woody ,  3. pungent  
+1135,godfather purple kush,  1. berry ,  2. earthy ,  3. grape  
+1136,godzilla,  1. berry ,  2. sweet ,  3. grape  
+1137,godzilla glue,  1. earthy ,  2. pungent ,  3. sweet  
+1138,gods bubba,  1. spicy/herbal ,  2. berry ,  3. lemon  
+1139,gods treat,  1. blueberry ,  2. berry ,  3. earthy  
+1140,godberry,  1. berry ,  2. sweet ,  3. flowery  
+1141,godfather og,  1. earthy ,  2. woody ,  3. pungent  
+1142,godfather purple kush,  1. berry ,  2. earthy ,  3. grape  
+1143,godzilla,  1. berry ,  2. sweet ,  3. grape  
+1144,godzilla glue,  1. earthy ,  2. pungent ,  3. sweet  
+1145,gods bubba,  1. spicy/herbal ,  2. berry ,  3. lemon  
+1146,gods treat,  1. blueberry ,  2. berry ,  3. earthy  
+1147,gog magog,  1. pungent ,  2. sweet ,  3. flowery  
+1148,goji diesel,  1. diesel  ,,
+1149,goji og,  1. berry ,  2. pungent ,  3. sweet  
+1150,gold kings thai,  1. earthy ,  2. citrus ,  3. lime  
+1151,goldberry,  1. blueberry ,  2. mint ,  3. ammonia  
+1152,golden calyx,  1. citrus ,  2. lavender ,  3. pineapple  
+1153,golden gage,  1. pepper ,  2. citrus ,  3. lemon  
+1154,golden goat,  1. citrus ,  2. sweet ,  3. tropical  
+1155,golden lemon,  1. citrus ,  2. lemon ,  3. pungent  
+1156,golden nugget,  1. citrus ,  2. skunk ,  3. woody  
+1157,golden panda,  1. sweet ,  2. pungent ,  3. earthy  
+1158,golden pineapple,  1. pineapple ,  2. tropical ,  3. sweet  
+1159,golden state banana,  1. tropical ,  2. skunk ,  3. vanilla  
+1160,golden tangie,  1. orange ,  2. citrus ,  3. butter  
+1161,golden ticket,  1. lemon ,  2. citrus ,  3. earthy  
+1162,golden tiger,  1. spicy/herbal ,  2. woody ,  3. pine  
+1163,goo,  1. blueberry ,  2. earthy ,  3. sweet  
+1164,gooberry,  1. berry ,  2. sweet ,  3. blueberry  
+1165,good medicine,  1. earthy ,  2. spicy/herbal ,  3. citrus  
+1166,gorilla biscuit,  1. coffee ,  2. pungent ,  3. pine  
+1167,gorilla breath,  1. pine ,  2. pungent ,  3. earthy  
+1168,gorilla cookies,  1. earthy ,  2. mint ,  3. pungent  
+1169,gorilla girl,  1. woody ,  2. earthy ,  3. sweet  
+1170,gorilla grips,  1. berry ,  2. diesel ,  3. blueberry  
+1171,gorilla snacks,  1. pine ,  2. flowery ,  3. lavender  
+1172,gorkle,  1. sweet  ,,
+1173,government mule,  1. flowery ,  2. lemon ,  3. earthy  
+1174,grand doggy purps,  1. grape ,  2. berry ,  3. earthy  
+1175,grand hindu,  1. grape ,  2. earthy ,  3. flowery  
+1176,grand hustle,  1. earthy ,  2. citrus ,  3. honey  
+1177,granddaddy purple,  1. grape ,  2. berry ,  3. sweet  
+1178,grandma andersons cookies,  1. earthy ,  2. vanilla ,  3. citrus  
+1179,grandmas batch,  1. butter ,  2. earthy ,  3. flowery  
+1180,grandmas sugar cookies,  1. earthy ,  2. sweet ,  3. pungent  
+1181,grandpa larry og,  1. sweet ,  2. sage ,  3. grapefruit  
+1182,grandpas breath,  1. pungent ,  2. diesel ,  3. grape  
+1183,grandpas stash,  1. citrus ,  2. earthy ,  3. pungent  
+1184,granola funk,  1. flowery ,  2. diesel ,  3. earthy  
+1185,grape ape,  1. grape ,  2. sweet ,  3. berry  
+1186,grape calyx,  1. grape ,  2. earthy ,  3. flowery  
+1187,grape cookies,  1. grape ,  2. woody ,  3. berry  
+1188,grandpas stash,  1. citrus ,  2. earthy ,  3. pungent  
+1189,granola funk,  1. flowery ,  2. diesel ,  3. earthy  
+1190,grape ape,  1. grape ,  2. sweet ,  3. berry  
+1191,grape calyx,  1. grape ,  2. earthy ,  3. flowery  
+1192,grape cookies,  1. grape ,  2. woody ,  3. berry  
+1193,grape dawg,  1. grape ,  2. citrus ,  3. earthy  
+1194,grape drink,  1. grape ,  2. flowery ,  3. sweet  
+1195,grape god,  1. grape ,  2. berry ,  3. grapefruit  
+1196,grape inferno,  1. grape ,  2. berry ,  3. tropical  
+1197,grape jelly,  1. grape ,  2. sweet ,  3. flowery  
+1198,grape krush,  1. grape ,  2. earthy ,  3. ammonia  
+1199,grape kush,  1. grape ,  2. cheese ,  3. lemon  
+1200,grape ox,  1. grape ,  2. pine ,  3. lavender  
+1201,grape skunk,  1. grape ,  2. earthy ,  3. blueberry  
+1202,grape soda,  1. grape ,  2. citrus ,  3. berry  
+1203,sour grapes,  1. grape ,  2. sweet ,  3. diesel  
+1204,grape valley kush,  1. chestnut ,  2. grape ,  3. berry  
+1205,grape vine,  1. earthy ,  2. grape ,  3. pungent  
+1206,grapefruit,  1. grapefruit ,  2. citrus ,  3. sweet  
+1207,grapefruit diesel,  1. grapefruit ,  2. diesel ,  3. earthy  
+1208,grapefruit haze,  1. grapefruit ,  2. sweet ,  3. citrus  
+1209,grapefruit kush,  1. grapefruit ,  2. citrus ,  3. pine  
+1210,gravity,  1. sweet ,  2. violet ,  3. earthy  
+1211,grease monkey,  1. earthy ,  2. pungent ,  3. sweet  
+1212,white shark,  1. earthy ,  2. sweet ,  3. citrus  
+1213,green avenger,  1. flowery ,  2. pungent ,  3. honey  
+1214,green candy,  1. sweet ,  2. spicy/herbal ,  3. earthy  
+1215,green cheese,  1. cheese ,  2. chemical ,  3. earthy  
+1216,green crack,  1. earthy ,  2. citrus ,  3. sweet  
+1217,green crack extreme,  1. sweet ,  2. earthy ,  3. pungent  
+1218,green door kush,  1. citrus ,  2. lemon ,  3. spicy/herbal  
+1219,green dragon,  1. earthy ,  2. mint ,  3. pine  
+1220,green dream,  1. earthy ,  2. citrus ,  3. sweet  
+1221,green goblin,  1. sweet ,  2. pungent ,  3. pine  
+1222,green goddess,  1. flowery ,  2. citrus ,  3. diesel  
+1223,green haze,  1. woody ,  2. flowery ,  3. rose  
+1224,green hornet,  1. citrus ,  2. earthy ,  3. lime  
+1225,green kush,  1. citrus ,  2. sweet ,  3. earthy  
+1226,green lantern,  1. pungent ,  2. earthy ,  3. pine  
+1227,green line og,  1. lime ,  2. sweet ,  3. citrus  
+1228,green love potion,  1. sweet ,  2. flowery ,  3. pungent  
+1229,green magic,  1. flowery ,  2. apple ,  3. berry  
+1230,green mango,  1. citrus ,  2. earthy ,  3. woody  
+1231,green monster,  1. earthy ,  2. sweet ,  3. flowery  
+1232,green poison,  1. pungent ,  2. earthy ,  3. sweet  
+1233,green python,  1. woody ,  2. earthy ,  3. sweet  
+1234,green queen,  1. sweet ,  2. earthy ,  3. pungent  
+1235,green ribbon,  1. lemon ,  2. tree fruit ,  3. lime  
+1236,gremlin,  1. sweet ,  2. pungent ,  3. chestnut  
+1237,green magic,  1. flowery ,  2. apple ,  3. berry  
+1238,green mango,  1. citrus ,  2. earthy ,  3. woody  
+1239,green monster,  1. earthy ,  2. sweet ,  3. flowery  
+1240,green poison,  1. pungent ,  2. earthy ,  3. sweet  
+1241,green python,  1. woody ,  2. earthy ,  3. sweet  
+1242,green queen,  1. sweet ,  2. earthy ,  3. pungent  
+1243,green ribbon,  1. lemon ,  2. tree fruit ,  3. lime  
+1244,gremlin,  1. sweet ,  2. pungent ,  3. chestnut  
+1245,grilled cheese,  1. cheese ,  2. earthy ,  3. pepper  
+1246,grimace,  1. sweet ,  2. pungent ,  3. earthy  
+1247,grimace og,  1. grape ,  2. pungent ,  3. diesel  
+1248,grimmdica,  1. earthy ,  2. woody ,  3. butter  
+1249,guard dawg,  1. earthy ,  2. sweet ,  3. woody  
+1250,guava cake,  1. sweet ,  2. citrus ,  3. lemon  
+1251,guava chem,  1. sweet ,  2. citrus ,  3. chemical  
+1252,guava gelato,  1. sweet ,  2. grapefruit ,  3. tropical  
+1253,guava kush,  1. tropical ,  2. citrus ,  3. sweet  
+1254,gucci og,  1. spicy/herbal ,  2. pine ,  3. sweet  
+1255,gumbo,  1. pine ,  2. woody ,  3. spicy/herbal  
+1256,gummo,  1. citrus ,  2. earthy ,  3. flowery  
+1257,gummy bears,  1. woody ,  2. pepper ,  3. chemical  
+1258,gupta haze,  1. earthy ,  2. flowery ,  3. pungent  
+1259,gupta kush,  1. earthy ,  2. woody ,  3. flowery  
+1260,guptilla,  1. earthy ,  2. citrus ,  3. tropical  
+1261,gutbuster,  1. flowery ,  2. cheese ,  3. citrus  
+1262,hades haze,  1. earthy ,  2. citrus ,  3. mint  
+1263,hades og,  1. citrus ,  2. lemon ,  3. sweet  
+1264,haleighs hope,  1. earthy ,  2. pine ,  3. woody  
+1265,hammerhead,  1. earthy ,  2. spicy/herbal ,  3. woody  
+1266,hannibal nectar,  1. earthy ,  2. strawberry ,  3. vanilla  
+1267,haole,  1. earthy ,  2. woody ,  3. sweet  
+1268,haoma,  1. berry ,  2. citrus ,  3. earthy  
+1269,haoma mist,  1. flowery ,  2. sweet ,  3. citrus  
+1270,happy rancher,  1. pepper ,  2. skunk ,  3. lemon  
+1271,hardcore og,  1. earthy ,  2. sweet ,  3. lemon  
+1272,harle tsu,  1. earthy ,  2. woody ,  3. spicy/herbal  
+1273,harlequin,  1. earthy ,  2. woody ,  3. flowery  
+1274,harlequin gdp,  1. pine ,  2. chemical ,  3. earthy  
+1275,harley storm,  1. nutty ,  2. pungent ,  3. spicy/herbal  
+1276,harley twin,  1. sweet  ,,
+1277,harmonia,  1. earthy ,  2. woody ,  3. sweet  
+1278,harmony,  1. earthy ,  2. flowery ,  3. rose  
+1279,harry potter,  1. citrus ,  2. sweet ,  3. earthy  
+1280,hash plant,  1. earthy ,  2. flowery ,  3. spicy/herbal  
+1281,hashbar og,  1. sweet ,  2. earthy ,  3. skunk  
+1282,hashberry,  1. berry ,  2. sweet ,  3. earthy  
+1283,hashplant haze,  1. blueberry ,  2. pepper ,  3. sweet  
+1284,hawaiian,  1. tropical ,  2. sweet ,  3. citrus  
+1285,hawaiian cookies,  1. flowery ,  2. sweet ,  3. earthy  
+1286,hawaiian delight,  1. earthy ,  2. diesel ,  3. flowery  
+1287,hawaiian diesel,  1. tropical ,  2. sweet ,  3. pungent  
+1288,hashbar og,  1. sweet ,  2. earthy ,  3. skunk  
+1289,hashberry,  1. berry ,  2. sweet ,  3. earthy  
+1290,hashplant haze,  1. blueberry ,  2. pepper ,  3. sweet  
+1291,hawaiian,  1. tropical ,  2. sweet ,  3. citrus  
+1292,hawaiian cookies,  1. flowery ,  2. sweet ,  3. earthy  
+1293,hawaiian delight,  1. earthy ,  2. diesel ,  3. flowery  
+1294,hawaiian diesel,  1. tropical ,  2. sweet ,  3. pungent  
+1295,hawaiian dream,  1. sweet ,  2. tropical ,  3. pineapple  
+1296,hawaiian duckfoot,  1. lavender ,  2. berry ,  3. flowery  
+1297,hawaiian fire,  1. tropical ,  2. sweet ,  3. grapefruit  
+1298,hawaiian haze,  1. earthy ,  2. flowery ,  3. tropical  
+1299,hawaiian mayan gold,  1. citrus ,  2. sweet ,  3. tropical  
+1300,hawaiian punch,  1. sweet ,  2. tropical ,  3. pineapple  
+1301,hawaiian purple kush,  1. tropical ,  2. earthy ,  3. pineapple  
+1302,hawaiian sativa,  1. citrus ,  2. tropical ,  3. sweet  
+1303,hawaiian skunk,  1. earthy ,  2. skunk ,  3. citrus  
+1304,hawaiian snow,  1. tropical ,  2. pineapple ,  3. lime  
+1305,hawaiian sunrise,  1. citrus ,  2. lemon ,  3. flowery  
+1306,hawaiian thunder fuck,  1. sweet ,  2. tropical ,  3. pineapple  
+1307,hawaiian trinity,  1. pungent ,  2. tropical ,  3. woody  
+1308,hawaii 78,  1. flowery ,  2. pineapple ,  3. sweet  
+1309,hayleys haze,  1. sweet ,  2. honey ,  3. lemon  
+1310,haze,  1. earthy ,  2. sweet ,  3. citrus  
+1311,haze berry,  1. berry ,  2. flowery ,  3. earthy  
+1312,haze heaven,  1. pungent ,  2. spicy/herbal ,  3. blueberry  
+1313,haze wreck,  1. woody ,  2. sage ,  3. sweet  
+1314,hazmat og,  1. sweet ,  2. berry ,  3. earthy  
+1315,head cheese,  1. pungent ,  2. cheese ,  3. skunk  
+1316,head trip,  1. earthy ,  2. coffee ,  3. pine  
+1317,headband,  1. diesel ,  2. earthy ,  3. lemon  
+1318,headbanger,  1. earthy ,  2. citrus ,  3. diesel  
+1319,heatwave,  1. diesel ,  2. citrus ,  3. earthy  
+1320,heaven scent,  1. flowery ,  2. mint ,  3. pungent  
+1321,heavenly og,  1. earthy ,  2. pine ,  3. woody  
+1322,heavy duty fruity,  1. pepper ,  2. sweet ,  3. citrus  
+1323,heisenberg kush,  1. grape ,  2. berry ,  3. sweet  
+1324,hell raiser og,  1. pine ,  2. citrus ,  3. woody  
+1325,hells og,  1. earthy ,  2. pungent ,  3. pine  
+1326,hellfire og,  1. earthy ,  2. lemon ,  3. citrus  
+1327,hemlock,  1. citrus ,  2. orange ,  3. sage  
+1328,hempstar,  1. citrus ,  2. pepper ,  3. earthy  
+1329,hercules,  1. earthy ,  2. citrus ,  3. honey  
+1330,herojuana,  1. spicy/herbal ,  2. woody ,  3. pine  
+1331,hibiscus sunrise,  1. flowery ,  2. lavender ,  3. earthy  
+1332,high school sweetheart,  1. blueberry ,  2. sweet ,  3. earthy  
+1333,higher power,  1. grape ,  2. flowery ,  3. grapefruit  
+1334,highwayman,  1. flowery ,  2. earthy ,  3. coffee  
+1335,himalayan blackberry,  1. berry ,  2. earthy ,  3. pine  
+1336,himalayan gold,  1. earthy ,  2. berry ,  3. spicy/herbal  
+1337,hindu kush,  1. earthy ,  2. woody ,  3. pungent  
+1338,hindu skunk,  1. skunk ,  2. orange ,  3. earthy  
+1339,high school sweetheart,  1. blueberry ,  2. sweet ,  3. earthy  
+1340,higher power,  1. grape ,  2. flowery ,  3. grapefruit  
+1341,highwayman,  1. flowery ,  2. earthy ,  3. coffee  
+1342,himalayan blackberry,  1. berry ,  2. earthy ,  3. pine  
+1343,himalayan gold,  1. earthy ,  2. berry ,  3. spicy/herbal  
+1344,hindu kush,  1. earthy ,  2. woody ,  3. pungent  
+1345,hindu skunk,  1. skunk ,  2. orange ,  3. earthy  
+1346,hindu sour,  1. diesel ,  2. pine ,  3. tobacco  
+1347,hippie chicken,  1. sweet ,  2. tree fruit ,  3. earthy  
+1348,hippie crippler,  1. earthy ,  2. sweet ,  3. woody  
+1349,hoarfrost,  1. spicy/herbal ,  2. vanilla ,  3. woody  
+1350,hogs breath,  1. earthy ,  2. spicy/herbal ,  3. nutty  
+1351,hollands hope,  1. citrus ,  2. pine ,  3. lemon  
+1352,hollyweed,  1. earthy ,  2. woody  ,
+1353,hollywood og,  1. tree fruit ,  2. blue cheese ,  3. earthy  
+1354,holy ghost,  1. pine ,  2. spicy/herbal ,  3. diesel  
+1355,holy grail kush,  1. earthy ,  2. pine ,  3. woody  
+1356,holy roller,  1. citrus ,  2. earthy  ,
+1357,honey bananas,  1. honey ,  2. sweet ,  3. flowery  
+1358,honey boo boo,  1. honey ,  2. earthy ,  3. sweet  
+1359,honey lemon cheese,  1. honey ,  2. earthy ,  3. lemon  
+1360,honey rock,  1. honey  ,,
+1361,hong kong,  1. earthy ,  2. spicy/herbal ,  3. flowery  
+1362,hoodwreck,  1. sweet ,  2. earthy ,  3. flowery  
+1363,horace,  1. sweet ,  2. tree fruit ,  3. tropical  
+1364,huckleberries,  1. berry ,  2. grape ,  3. honey  
+1365,huckleberry,  1. sweet ,  2. berry ,  3. earthy  
+1366,huckleberry cough,  1. berry ,  2. menthol ,  3. blueberry  
+1367,huckleberry diesel,  1. berry ,  2. earthy ,  3. diesel  
+1368,huckleberry hound,  1. berry ,  2. earthy ,  3. flowery  
+1369,hulkamania,  1. earthy ,  2. ammonia ,  3. berry  
+1370,humboldt,  1. earthy ,  2. skunk ,  3. spicy/herbal  
+1371,humboldt dream,  1. diesel ,  2. lemon ,  3. tropical  
+1372,humboldt hawaiian,  1. berry ,  2. pine ,  3. plum  
+1373,humboldt headband,  1. berry ,  2. grape ,  3. sweet  
+1374,humdinger og,  1. apple ,  2. sweet ,  3. woody  
+1375,hurkle,  1. earthy ,  2. coffee ,  3. woody  
+1376,hurricane,  1. sweet ,  2. orange ,  3. vanilla  
+1377,hustler kush,  1. sweet ,  2. earthy ,  3. pine  
+1378,i 95,  1. diesel ,  2. earthy ,  3. pungent  
+1379,iced grapefruit,  1. grapefruit ,  2. citrus ,  3. sweet  
+1380,ig kush,  1. sweet ,  2. earthy ,  3. orange  
+1381,ice,  1. woody ,  2. chemical ,  3. earthy  
+1382,ice cream,  1. vanilla ,  2. sweet ,  3. earthy  
+1383,ice cream cake,  1. sweet ,  2. vanilla ,  3. pungent  
+1384,ice princess,  1. menthol ,  2. nutty ,  3. tropical  
+1385,ice queen,  1. sweet ,  2. pepper ,  3. earthy  
+1386,ice wreck,  1. earthy ,  2. chemical ,  3. menthol  
+1387,ig kush,  1. sweet ,  2. earthy ,  3. orange  
+1388,ice,  1. woody ,  2. chemical ,  3. earthy  
+1389,ice cream,  1. vanilla ,  2. sweet ,  3. earthy  
+1390,ice cream cake,  1. sweet ,  2. vanilla ,  3. pungent  
+1391,ice princess,  1. menthol ,  2. nutty ,  3. tropical  
+1392,ice queen,  1. sweet ,  2. pepper ,  3. earthy  
+1393,ice wreck,  1. earthy ,  2. chemical ,  3. menthol  
+1394,iced widow,  1. sweet ,  2. berry ,  3. earthy  
+1395,ill og,  1. earthy ,  2. pine ,  3. lemon  
+1396,illuminati og,  1. earthy ,  2. pungent ,  3. sweet  
+1397,in the pines,  1. pine ,  2. earthy ,  3. tropical  
+1398,incredible bulk,  1. flowery ,  2. woody ,  3. citrus  
+1399,incredible hulk,  1. earthy ,  2. nutty ,  3. pineapple  
+1400,industrial plant,  1. tropical ,  2. lemon ,  3. pine  
+1401,ingrid,  1. cheese ,  2. earthy ,  3. flowery  
+1402,intergalactic,  1. pine ,  2. diesel ,  3. sweet  
+1403,inzane in the membrane,  1. lemon ,  2. pungent ,  3. pine  
+1404,irene kush,  1. earthy ,  2. lemon ,  3. pungent  
+1405,irish cream,  1. earthy ,  2. nutty ,  3. vanilla  
+1406,iron triangle,  1. diesel ,  2. lemon ,  3. earthy  
+1407,island haze,  1. sweet ,  2. berry ,  3. blueberry  
+1408,island maui haze,  1. citrus ,  2. mango ,  3. tropical  
+1409,island sweet skunk,  1. sweet ,  2. skunk ,  3. tropical  
+1410,js famous kush,  1. skunk ,  2. earthy ,  3. pepper  
+1411,j 27,  1. pungent ,  2. citrus ,  3. orange  
+1412,j1,  1. citrus ,  2. earthy ,  3. lemon  
+1413,jr,  1. earthy ,  2. spicy/herbal ,  3. pungent  
+1414,jack 47,  1. lemon ,  2. citrus ,  3. lime  
+1415,jack burton,  1. butter ,  2. flowery ,  3. rose  
+1416,jack diesel,  1. sweet ,  2. woody ,  3. tropical  
+1417,jack flash,  1. citrus ,  2. earthy ,  3. spicy/herbal  
+1418,jack frost,  1. earthy ,  2. pine ,  3. citrus  
+1419,jack haze,  1. earthy ,  2. woody ,  3. pungent  
+1420,jack herer,  1. earthy ,  2. pine ,  3. woody  
+1421,jack kush,  1. citrus ,  2. lemon ,  3. skunk  
+1422,jack skellington,  1. earthy ,  2. diesel ,  3. citrus  
+1423,jack smack,  1. earthy ,  2. blueberry ,  3. flowery  
+1424,jack widow,  1. sweet ,  2. mango ,  3. earthy  
+1425,jack wreck,  1. woody ,  2. citrus ,  3. earthy  
+1426,jack of spades,  1. earthy ,  2. pungent ,  3. sweet  
+1427,jack the ripper,  1. lemon ,  2. pine ,  3. citrus  
+1428,jacks cleaner,  1. citrus ,  2. lemon ,  3. lime  
+1429,jacks dream,  1. pine ,  2. sweet ,  3. berry  
+1430,jackalope,  1. citrus ,  2. earthy ,  3. flowery  
+1431,jacked up,  1. woody ,  2. pungent ,  3. earthy  
+1432,jacky girl,  1. citrus  ,,
+1433,jacky white,  1. earthy ,  2. flowery ,  3. tropical  
+1434,jacks dragon girl 7,  1. earthy ,  2. spicy/herbal ,  3. woody  
+1435,jacks girl,  1. lemon ,  2. citrus ,  3. honey  
+1436,jah goo,  1. diesel ,  2. pungent ,  3. earthy  
+1437,jah kush,  1. pungent ,  2. earthy ,  3. woody  
+1438,jackalope,  1. citrus ,  2. earthy ,  3. flowery  
+1439,jacked up,  1. woody ,  2. pungent ,  3. earthy  
+1440,jacky girl,  1. citrus  ,,
+1441,jacky white,  1. earthy ,  2. flowery ,  3. tropical  
+1442,jacks dragon girl 7,  1. earthy ,  2. spicy/herbal ,  3. woody  
+1443,jacks girl,  1. lemon ,  2. citrus ,  3. honey  
+1444,jah goo,  1. diesel ,  2. pungent ,  3. earthy  
+1445,jah kush,  1. pungent ,  2. earthy ,  3. woody  
+1446,jahwaiian,  1. tropical ,  2. sweet ,  3. earthy  
+1447,jamaican,  1. earthy ,  2. woody ,  3. spicy/herbal  
+1448,jamaican dream,  1. earthy ,  2. citrus ,  3. tropical  
+1449,jamaican lion,  1. earthy ,  2. tropical ,  3. nutty  
+1450,jamaican pearl,  1. earthy ,  2. pungent ,  3. tropical  
+1451,jamba juice,  1. berry ,  2. earthy ,  3. pine  
+1452,jane doe,  1. apricot ,  2. berry ,  3. citrus  
+1453,jasmin,  1. lavender ,  2. rose ,  3. flowery  
+1454,jawa pie,  1. earthy ,  2. skunk ,  3. pungent  
+1455,jazz,  1. citrus ,  2. pepper ,  3. flowery  
+1456,jean guy,  1. lemon ,  2. earthy ,  3. citrus  
+1457,jedi kush,  1. earthy ,  2. pine ,  3. pungent  
+1458,jelly roll,  1. grapefruit ,  2. sweet ,  3. pine  
+1459,jenni,  1. sweet ,  2. berry ,  3. tree fruit  
+1460,jenny kush,  1. berry ,  2. nutty ,  3. earthy  
+1461,jericho haze,  1. apple ,  2. chestnut ,  3. earthy  
+1462,jesses girl,  1. berry ,  2. pungent ,  3. sweet  
+1463,jesus,  1. citrus ,  2. pine ,  3. earthy  
+1464,jesus og,  1. lemon ,  2. citrus ,  3. pungent  
+1465,jet fuel,  1. diesel ,  2. pungent ,  3. earthy  
+1466,jilly dawg,  1. pungent ,  2. citrus ,  3. grape  
+1467,jillybean,  1. citrus ,  2. sweet ,  3. orange  
+1468,jimi hendrix,  1. citrus ,  2. earthy ,  3. sweet  
+1469,jock horror,  1. berry ,  2. sweet ,  3. earthy  
+1470,johnnys tonic,  1. skunk ,  2. flowery ,  3. pungent  
+1471,jorges diamond,  1. berry ,  2. honey ,  3. sweet  
+1472,josh d og,  1. blue cheese ,  2. pungent ,  3. cheese  
+1473,juicy fruit,  1. sweet ,  2. earthy ,  3. citrus  
+1474,juicy jack,  1. citrus ,  2. earthy ,  3. sweet  
+1475,juliet,  1. skunk ,  2. pine ,  3. earthy  
+1476,julius caesar,  1. earthy ,  2. sweet ,  3. pine  
+1477,jungle juice,  1. flowery ,  2. citrus ,  3. pine  
+1478,jungle scout cookies,  1. berry ,  2. earthy ,  3. pine  
+1479,jungle spice,  1. spicy/herbal ,  2. woody  ,
+1480,jupiter og,  1. earthy ,  2. pungent ,  3. flowery  
+1481,k train,  1. lavender ,  2. earthy ,  3. tree fruit  
+1482,k1,  1. pine ,  2. ammonia ,  3. chemical  
+1483,k2,  1. earthy ,  2. woody ,  3. pine  
+1484,kc 33,  1. citrus ,  2. lemon ,  3. sweet  
+1485,kc 36,  1. blueberry ,  2. earthy ,  3. flowery  
+1486,kt dawg,  1. earthy ,  2. woody ,  3. tar  
+1487,kaboom,  1. lemon ,  2. earthy ,  3. pine  
+1488,kahuna,  1. orange ,  2. pineapple ,  3. pungent  
+1489,k1,  1. pine ,  2. ammonia ,  3. chemical  
+1490,k2,  1. earthy ,  2. woody ,  3. pine  
+1491,kc 33,  1. citrus ,  2. lemon ,  3. sweet  
+1492,kc 36,  1. blueberry ,  2. earthy ,  3. flowery  
+1493,kt dawg,  1. earthy ,  2. woody ,  3. tar  
+1494,kaboom,  1. lemon ,  2. earthy ,  3. pine  
+1495,kahuna,  1. orange ,  2. pineapple ,  3. pungent  
+1496,kaia kush,  1. spicy/herbal ,  2. lemon ,  3. citrus  
+1497,kailua pua,  1. mango ,  2. berry ,  3. earthy  
+1498,kalalau kush,  1. earthy ,  2. mango ,  3. pineapple  
+1499,kalashnikova,  1. spicy/herbal ,  2. sweet ,  3. pine  
+1500,kali 47,  1. sweet ,  2. vanilla  ,
+1501,kali china,  1. mango ,  2. spicy/herbal ,  3. sweet  
+1502,kali dog,  1. citrus ,  2. lemon ,  3. earthy  
+1503,kali mist,  1. earthy ,  2. citrus ,  3. woody  
+1504,kandahar,  1. apricot ,  2. earthy ,  3. honey  
+1505,kandy kush,  1. sweet ,  2. lemon ,  3. earthy  
+1506,kaptns grand dream,  1. ammonia ,  2. blueberry ,  3. earthy  
+1507,karibbean mango,  1. mango ,  2. earthy ,  3. peach  
+1508,karma bitch,  1. earthy ,  2. coffee ,  3. tea  
+1509,karma og,  1. citrus ,  2. earthy ,  3. pine  
+1510,karmarado og,  1. citrus ,  2. grapefruit ,  3. lemon  
+1511,kashmir kush,  1. earthy ,  2. sweet ,  3. berry  
+1512,katsu bubba kush,  1. earthy ,  2. berry ,  3. flowery  
+1513,katsu kush,  1. pungent ,  2. earthy ,  3. sweet  
+1514,kauai electric,  1. tropical ,  2. earthy ,  3. sweet  
+1515,kelly hill gold,  1. earthy ,  2. pepper ,  3. coffee  
+1516,kens kush,  1. plum ,  2. earthy ,  3. grape  
+1517,kerala,  1. sage ,  2. spicy/herbal  ,
+1518,kerala krush,  1. mango ,  2. sweet ,  3. orange  
+1519,kerosene,  1. diesel  ,,
+1520,ketama,  1. cheese ,  2. blue cheese ,  3. butter  
+1521,key lime pie,  1. lime ,  2. sweet ,  3. lemon  
+1522,keystone kush,  1. earthy ,  2. nutty ,  3. citrus  
+1523,khalifa kush,  1. lemon ,  2. earthy ,  3. citrus  
+1524,khola,  1. earthy ,  2. flowery ,  3. spicy/herbal  
+1525,khufu,  1. sweet ,  2. pungent ,  3. earthy  
+1526,kid n cookies,  1. earthy ,  2. nutty ,  3. pine  
+1527,kilimanjaro,  1. sweet ,  2. earthy ,  3. pine  
+1528,kill bill,  1. rose ,  2. pungent ,  3. diesel  
+1529,killer grape,  1. grape ,  2. tropical ,  3. berry  
+1530,killer queen,  1. citrus ,  2. earthy ,  3. pine  
+1531,killing fields,  1. earthy ,  2. lemon ,  3. citrus  
+1532,kimbo kush,  1. earthy ,  2. citrus ,  3. flowery  
+1533,king cake,  1. sweet ,  2. skunk ,  3. berry  
+1534,king kong,  1. earthy ,  2. flowery ,  3. pungent  
+1535,king louis,  1. earthy ,  2. pine ,  3. woody  
+1536,king thunder fuck,  1. earthy ,  2. citrus ,  3. nutty  
+1537,kings bread,  1. citrus ,  2. lemon ,  3. earthy  
+1538,king kush,  1. earthy ,  2. woody ,  3. sweet  
+1539,kiss,  1. cheese ,  2. earthy ,  3. skunk  
+1540,kiwiskunk,  1. woody ,  2. citrus ,  3. pungent  
+1541,kobain kush,  1. earthy ,  2. spicy/herbal ,  3. woody  
+1542,king louis,  1. earthy ,  2. pine ,  3. woody  
+1543,king thunder fuck,  1. earthy ,  2. citrus ,  3. nutty  
+1544,kings bread,  1. citrus ,  2. lemon ,  3. earthy  
+1545,king kush,  1. earthy ,  2. woody ,  3. sweet  
+1546,kiss,  1. cheese ,  2. earthy ,  3. skunk  
+1547,kiwiskunk,  1. woody ,  2. citrus ,  3. pungent  
+1548,kobain kush,  1. earthy ,  2. spicy/herbal ,  3. woody  
+1549,kona gold,  1. pineapple ,  2. earthy ,  3. sweet  
+1550,kong,  1. earthy ,  2. diesel ,  3. sweet  
+1551,kool aid smile,  1. berry ,  2. rose ,  3. grape  
+1552,koolato,  1. citrus ,  2. flowery ,  3. menthol  
+1553,kosher kush,  1. earthy ,  2. pungent ,  3. pine  
+1554,kosher tangie,  1. orange ,  2. citrus ,  3. earthy  
+1555,kraken,  1. earthy ,  2. tea ,  3. pepper  
+1556,krishna kush,  1. berry ,  2. spicy/herbal ,  3. diesel  
+1557,kritikal k,  1. sweet ,  2. cheese ,  3. pungent  
+1558,kryptonite,  1. earthy ,  2. flowery ,  3. sweet  
+1559,kuato,  1. orange ,  2. pungent ,  3. sweet  
+1560,kubbie kush,  1. berry ,  2. sweet ,  3. earthy  
+1561,kuchi,  1. earthy ,  2. cheese ,  3. lemon  
+1562,kurple fantasy,  1. berry ,  2. grape ,  3. sweet  
+1563,kush cleaner,  1. woody ,  2. pine ,  3. earthy  
+1564,kush hemp,  1. coffee ,  2. earthy ,  3. pungent  
+1565,kush rise,  1. earthy ,  2. pungent ,  3. sweet  
+1566,kush n cheese,  1. sweet ,  2. apple ,  3. butter  
+1567,kushadelic,  1. earthy ,  2. pungent ,  3. pine  
+1568,kushage,  1. spicy/herbal ,  2. woody ,  3. earthy  
+1569,kushashima,  1. pine ,  2. pungent ,  3. nutty  
+1570,kushberry,  1. earthy ,  2. berry ,  3. blueberry  
+1571,leagle eagle,  1. sweet ,  2. pungent ,  3. lemon  
+1572,la sunshine,  1. citrus ,  2. earthy ,  3. nutty  
+1573,lak federal reserve,  1. earthy ,  2. woody ,  3. nutty  
+1574,la chocolat,  1. coffee ,  2. earthy ,  3. sweet  
+1575,la confidential,  1. earthy ,  2. pine ,  3. woody  
+1576,la jack,  1. apple ,  2. berry ,  3. tropical  
+1577,la kookies,  1. sweet ,  2. lemon ,  3. pungent  
+1578,la kush,  1. pine ,  2. nutty ,  3. pungent  
+1579,la og,  1. earthy ,  2. sweet ,  3. pungent  
+1580,la ultra,  1. chemical ,  2. lemon ,  3. lime  
+1581,la woman,  1. pine ,  2. sweet ,  3. earthy  
+1582,lapd,  1. diesel ,  2. pepper ,  3. pungent  
+1583,lsd,  1. earthy ,  2. citrus ,  3. sweet  
+1584,lvpk,  1. sweet ,  2. earthy ,  3. vanilla  
+1585,la blanca,  1. woody ,  2. earthy ,  3. pepper  
+1586,la blanca gold,  1. coffee ,  2. earthy  ,
+1587,la nina,  1. earthy ,  2. sweet  ,
+1588,la reina de africa,  1. flowery ,  2. lavender ,  3. spicy/herbal  
+1589,lady liberty,  1. sweet  ,,
+1590,ladyburn 1974,  1. earthy ,  2. pepper ,  3. citrus  
+1591,lsd,  1. earthy ,  2. citrus ,  3. sweet  
+1592,lvpk,  1. sweet ,  2. earthy ,  3. vanilla  
+1593,la blanca,  1. woody ,  2. earthy ,  3. pepper  
+1594,la blanca gold,  1. coffee ,  2. earthy  ,
+1595,la nina,  1. earthy ,  2. sweet  ,
+1596,la reina de africa,  1. flowery ,  2. lavender ,  3. spicy/herbal  
+1597,lady liberty,  1. sweet  ,,
+1598,ladyburn 1974,  1. earthy ,  2. pepper ,  3. citrus  
+1599,lake of fire,  1. pine ,  2. diesel ,  3. pungent  
+1600,lamb s bread,  1. earthy ,  2. woody ,  3. pungent  
+1601,lambo og,  1. citrus ,  2. earthy ,  3. pine  
+1602,lamborghini,  1. citrus ,  2. diesel ,  3. pine  
+1603,lambs in space,  1. citrus ,  2. mango ,  3. peach  
+1604,larry bird kush,  1. orange ,  2. earthy ,  3. mint  
+1605,larry og,  1. lemon ,  2. pine ,  3. earthy  
+1606,las vegas purple kush bx,  1. berry ,  2. pungent ,  3. citrus  
+1607,lashkar gah,  1. earthy ,  2. sweet ,  3. berry  
+1608,laughing buddha,  1. pungent ,  2. earthy ,  3. spicy/herbal  
+1609,laughing gas,  1. diesel ,  2. pine ,  3. pungent  
+1610,lavender,  1. lavender ,  2. flowery ,  3. spicy/herbal  
+1611,lavender haze,  1. lavender ,  2. earthy ,  3. blueberry  
+1612,lavender jones,  1. earthy ,  2. lavender ,  3. flowery  
+1613,le silver royale,  1. cheese ,  2. pine ,  3. skunk  
+1614,lee roy,  1. earthy ,  2. citrus ,  3. pungent  
+1615,legalized og,  1. diesel ,  2. pungent ,  3. pine  
+1616,legend og,  1. woody ,  2. diesel ,  3. pungent  
+1617,legend of nigeria,  1. earthy ,  2. diesel ,  3. woody  
+1618,legendary lemon,  1. apricot ,  2. chemical ,  3. blueberry  
+1619,lem chem,  1. diesel ,  2. earthy ,  3. lemon  
+1620,lemon alien dawg,  1. lemon ,  2. sweet ,  3. earthy  
+1621,lemon banana sherbet,  1. sweet ,  2. lemon ,  3. citrus  
+1622,lemon bananas,  1. sweet ,  2. flowery ,  3. tree fruit  
+1623,lemon bubble,  1. lemon ,  2. sweet ,  3. pine  
+1624,lemon cake,  1. lemon ,  2. cheese ,  3. citrus  
+1625,lemon cookies,  1. lemon ,  2. citrus ,  3. lime  
+1626,lemon crme,  1. lemon  ,,
+1627,lemon daddy,  1. citrus ,  2. earthy ,  3. skunk  
+1628,lemon diesel,  1. lemon ,  2. diesel ,  3. citrus  
+1629,lemon drop,  1. lemon ,  2. citrus ,  3. earthy  
+1630,lemon fire,  1. lemon ,  2. apple ,  3. lime  
+1631,lemon g,  1. lemon ,  2. citrus ,  3. earthy  
+1632,lemon garlic og,  1. lemon ,  2. cheese ,  3. earthy  
+1633,lemon haze,  1. lemon ,  2. citrus ,  3. sweet  
+1634,lemon ice,  1. lemon ,  2. lime ,  3. diesel  
+1635,lemon jack,  1. lemon ,  2. citrus ,  3. spicy/herbal  
+1636,lemon jeffery,  1. lemon ,  2. citrus ,  3. ammonia  
+1637,lemon kush,  1. lemon ,  2. citrus ,  3. earthy  
+1638,lemon kush headband,  1. citrus ,  2. lemon  ,
+1639,lemon larry lavender,  1. lemon ,  2. citrus ,  3. lavender  
+1640,lemon marmalade,  1. lemon ,  2. sweet ,  3. citrus  
+1641,lemon meringue,  1. lemon ,  2. sweet ,  3. citrus  
+1642,lemon og haze,  1. lemon ,  2. citrus ,  3. earthy  
+1643,lemon jack,  1. lemon ,  2. citrus ,  3. spicy/herbal  
+1644,lemon jeffery,  1. lemon ,  2. citrus ,  3. ammonia  
+1645,lemon kush,  1. lemon ,  2. citrus ,  3. earthy  
+1646,lemon kush headband,  1. citrus ,  2. lemon  ,
+1647,lemon larry lavender,  1. lemon ,  2. citrus ,  3. lavender  
+1648,lemon marmalade,  1. lemon ,  2. sweet ,  3. citrus  
+1649,lemon meringue,  1. lemon ,  2. sweet ,  3. citrus  
+1650,lemon og haze,  1. lemon ,  2. citrus ,  3. earthy  
+1651,lemon og,  1. lemon ,  2. citrus ,  3. earthy  
+1652,lemon pie,  1. lemon ,  2. citrus ,  3. sweet  
+1653,lemon sativa,  1. lemon ,  2. citrus ,  3. sweet  
+1654,lemon skunk,  1. lemon ,  2. skunk ,  3. citrus  
+1655,lemon sorbet 3,  1. earthy ,  2. lemon ,  3. spicy/herbal  
+1656,lemon tangie,  1. lemon ,  2. citrus ,  3. woody  
+1657,lemon thai,  1. lemon ,  2. citrus ,  3. sweet  
+1658,lemon thai kush,  1. apricot ,  2. citrus ,  3. earthy  
+1659,lemon tree,  1. lemon ,  2. citrus ,  3. diesel  
+1660,lemon walker og,  1. citrus ,  2. lemon ,  3. spicy/herbal  
+1661,lemon wreck,  1. lemon ,  2. sweet ,  3. earthy  
+1662,lemon zest,  1. lemon ,  2. pungent ,  3. spicy/herbal  
+1663,lemonberry,  1. lemon ,  2. berry ,  3. blueberry  
+1664,lemonchello 28,  1. citrus ,  2. lemon ,  3. grape  
+1665,lemonder,  1. lemon ,  2. lavender ,  3. citrus  
+1666,lemonhead og,  1. lemon ,  2. citrus ,  3. earthy  
+1667,lennon,  1. vanilla ,  2. honey ,  3. flowery  
+1668,leonidas,  1. grape ,  2. lavender ,  3. violet  
+1669,lethal purple,  1. flowery ,  2. grape ,  3. sweet  
+1670,lifesaver,  1. sweet ,  2. flowery ,  3. earthy  
+1671,lifestar,  1. mint ,  2. ammonia ,  3. apricot  
+1672,lifter,  1. earthy ,  2. woody ,  3. diesel  
+1673,light of jah,  1. pepper ,  2. spicy/herbal ,  3. woody  
+1674,lil sebastian,  1. berry ,  2. blueberry ,  3. earthy  
+1675,lime green skunk,  1. citrus ,  2. sweet ,  3. lime  
+1676,key lime haze,  1. lime ,  2. citrus ,  3. sweet  
+1677,lime purple mist,  1. berry ,  2. lime ,  3. blueberry  
+1678,lime skunk,  1. lime ,  2. skunk ,  3. citrus  
+1679,lime sorbet,  1. lime ,  2. citrus ,  3. sweet  
+1680,lime tart,  1. apple ,  2. blue cheese ,  3. blueberry  
+1681,limon,  1. lemon ,  2. citrus ,  3. diesel  
+1682,lions gate,  1. citrus ,  2. sage ,  3. menthol  
+1683,liquid butter,  1. butter ,  2. sweet ,  3. earthy  
+1684,little devil,  1. lemon ,  2. pine ,  3. pungent  
+1685,little dragon,  1. citrus ,  2. woody ,  3. flowery  
+1686,locktite,  1. diesel ,  2. earthy ,  3. citrus  
+1687,locomotion,  1. earthy ,  2. diesel ,  3. pungent  
+1688,lodi dodi,  1. citrus ,  2. sweet ,  3. flowery  
+1689,logic diesel,  1. diesel ,  2. skunk ,  3. chemical  
+1690,longbottom leaf,  1. citrus ,  2. diesel ,  3. pine  
+1691,loopy fruit,  1. chemical ,  2. diesel ,  3. spicy/herbal  
+1692,lost coast hash plant,  1. flowery ,  2. pine ,  3. spicy/herbal  
+1693,locktite,  1. diesel ,  2. earthy ,  3. citrus  
+1694,locomotion,  1. earthy ,  2. diesel ,  3. pungent  
+1695,lodi dodi,  1. citrus ,  2. sweet ,  3. flowery  
+1696,logic diesel,  1. diesel ,  2. skunk ,  3. chemical  
+1697,longbottom leaf,  1. citrus ,  2. diesel ,  3. pine  
+1698,loopy fruit,  1. chemical ,  2. diesel ,  3. spicy/herbal  
+1699,lost coast hash plant,  1. flowery ,  2. pine ,  3. spicy/herbal  
+1700,lost coast og,  1. lemon ,  2. citrus ,  3. sweet  
+1701,lost sierra night nurse,  1. chemical ,  2. diesel ,  3. sweet  
+1702,loud dream,  1. sweet ,  2. citrus ,  3. pine  
+1703,loud lemonade,  1. lemon  ,,
+1704,loud scout,  1. grape ,  2. sweet ,  3. tropical  
+1705,love boat,  1. flowery  ,,
+1706,love potion,  1. lemon ,  2. sweet ,  3. spicy/herbal  
+1707,love potion 9,  1. flowery ,  2. earthy ,  3. citrus  
+1708,love triangle,  1. coffee ,  2. earthy ,  3. woody  
+1709,lowryder,  1. earthy ,  2. pine ,  3. spicy/herbal  
+1710,loyality,  1. pungent ,  2. citrus ,  3. earthy  
+1711,luca brasi x sour diesel,  1. earthy ,  2. pungent ,  3. lemon  
+1712,lucid bolt,  1. berry ,  2. pine ,  3. citrus  
+1713,lucid dream,  1. spicy/herbal ,  2. blueberry ,  3. skunk  
+1714,lucifer og,  1. diesel ,  2. earthy ,  3. nutty  
+1715,lucky charms,  1. sweet ,  2. grapefruit ,  3. citrus  
+1716,lucy,  1. earthy ,  2. woody ,  3. citrus  
+1717,m 39,  1. spicy/herbal ,  2. earthy ,  3. citrus  
+1718,mac,  1. diesel ,  2. citrus ,  3. earthy  
+1719,mc1,  1. diesel ,  2. pine ,  3. berry  
+1720,milf,  1. earthy ,  2. sweet ,  3. sage  
+1721,mk ultra,  1. earthy ,  2. woody ,  3. pungent  
+1722,mad dawg,  1. earthy ,  2. sweet ,  3. pine  
+1723,mad scientist,  1. earthy ,  2. woody ,  3. pungent  
+1724,madagascar,  1. earthy ,  2. skunk ,  3. sweet  
+1725,madcow,  1. earthy ,  2. sweet ,  3. nutty  
+1726,madman og,  1. earthy ,  2. pine ,  3. coffee  
+1727,madzilla,  1. berry ,  2. earthy ,  3. pine  
+1728,mag 91,  1. chemical ,  2. pine  ,
+1729,mag landrace,  1. earthy ,  2. sweet ,  3. spicy/herbal  
+1730,magellan,  1. pungent ,  2. diesel ,  3. woody  
+1731,magic beans og,  1. lemon ,  2. pine ,  3. woody  
+1732,magic jordan,  1. citrus ,  2. mint ,  3. sage  
+1733,magic melon,  1. apple ,  2. strawberry ,  3. tree fruit  
+1734,magnificent mile,  1. tobacco ,  2. berry ,  3. diesel  
+1735,magnum,  1. woody ,  2. pine ,  3. lemon  
+1736,magnum opus,  1. diesel ,  2. earthy ,  3. lemon  
+1737,magnum pi,  1. citrus ,  2. pungent ,  3. apricot  
+1738,mai tai cookies,  1. tree fruit ,  2. tea ,  3. orange  
+1739,majestic 12,  1. earthy ,  2. berry ,  3. lavender  
+1740,mako haze,  1. earthy ,  2. spicy/herbal ,  3. cheese  
+1741,malakoff,  1. sweet ,  2. earthy ,  3. tobacco  
+1742,malawi,  1. earthy ,  2. spicy/herbal ,  3. woody  
+1743,malawi gold,  1. citrus ,  2. tropical ,  3. lemon  
+1744,magnum opus,  1. diesel ,  2. earthy ,  3. lemon  
+1745,magnum pi,  1. citrus ,  2. pungent ,  3. apricot  
+1746,mai tai cookies,  1. tree fruit ,  2. tea ,  3. orange  
+1747,majestic 12,  1. earthy ,  2. berry ,  3. lavender  
+1748,mako haze,  1. earthy ,  2. spicy/herbal ,  3. cheese  
+1749,malakoff,  1. sweet ,  2. earthy ,  3. tobacco  
+1750,malawi,  1. earthy ,  2. spicy/herbal ,  3. woody  
+1751,malawi gold,  1. citrus ,  2. tropical ,  3. lemon  
+1752,mammoth,  1. honey ,  2. earthy ,  3. woody  
+1753,mandala 1,  1. apple ,  2. earthy ,  3. berry  
+1754,mandarin cookies,  1. citrus ,  2. orange ,  3. sweet  
+1755,mandarin dreams,  1. sweet ,  2. tropical ,  3. citrus  
+1756,mandarin sunset,  1. orange ,  2. sweet ,  3. citrus  
+1757,mandarin zkittlez,  1. citrus ,  2. grapefruit ,  3. lemon  
+1758,mango,  1. mango ,  2. sweet ,  3. tropical  
+1759,mango dream,  1. mango ,  2. citrus ,  3. sweet  
+1760,mango habanero,  1. spicy/herbal ,  2. butter ,  3. coffee  
+1761,mango kush,  1. mango ,  2. tropical ,  3. sweet  
+1762,mango sapphire,  1. sweet ,  2. citrus ,  3. mango  
+1763,mango sherbert,  1. mango ,  2. skunk ,  3. citrus  
+1764,mango tango,  1. mango ,  2. sweet ,  3. peach  
+1765,mangolicious,  1. mango ,  2. pineapple ,  3. sweet  
+1766,manitoba poison,  1. earthy ,  2. cheese ,  3. woody  
+1767,maple leaf indica,  1. woody ,  2. honey ,  3. spicy/herbal  
+1768,maramota 10,  1. berry ,  2. earthy ,  3. sweet  
+1769,marcosus marshmellow,  1. mint ,  2. orange ,  3. tropical  
+1770,margaret cho g,  1. grapefruit ,  2. honey ,  3. sweet  
+1771,marionberry kush,  1. berry ,  2. earthy ,  3. woody  
+1772,marionberry pie,  1. berry ,  2. pungent ,  3. sweet  
+1773,marleys collie,  1. citrus ,  2. lemon ,  3. menthol  
+1774,marmalade,  1. sweet ,  2. skunk ,  3. earthy  
+1775,mars og,  1. earthy ,  2. woody ,  3. pungent  
+1776,martian candy,  1. earthy ,  2. sweet ,  3. woody  
+1777,martian mean green,  1. lemon ,  2. lime ,  3. citrus  
+1778,martian muffins,  1. nutty ,  2. plum ,  3. skunk  
+1779,master bubba,  1. earthy ,  2. pungent ,  3. skunk  
+1780,master jedi,  1. pine ,  2. earthy ,  3. pungent  
+1781,master kush,  1. earthy ,  2. pungent ,  3. pine  
+1782,master og,  1. earthy ,  2. pine ,  3. woody  
+1783,master skunk,  1. skunk ,  2. pungent ,  3. earthy  
+1784,master yoda,  1. earthy ,  2. pungent ,  3. woody  
+1785,matanuska thunder fuck,  1. nutty ,  2. sweet ,  3. flowery  
+1786,mataro blue,  1. berry ,  2. sweet ,  3. citrus  
+1787,maui,  1. tropical ,  2. citrus ,  3. skunk  
+1788,maui berry,  1. berry ,  2. citrus ,  3. pungent  
+1789,maui bubble gift,  1. sweet ,  2. earthy ,  3. woody  
+1790,maui citrus punch,  1. citrus ,  2. earthy ,  3. spicy/herbal  
+1791,maui haole,  1. pungent ,  2. tropical ,  3. earthy  
+1792,maui mango diesel,  1. mango ,  2. citrus ,  3. sweet  
+1793,maui wowie,  1. pineapple ,  2. tropical ,  3. sweet  
+1794,maui,  1. tropical ,  2. citrus ,  3. skunk  
+1795,maui berry,  1. berry ,  2. citrus ,  3. pungent  
+1796,maui bubble gift,  1. sweet ,  2. earthy ,  3. woody  
+1797,maui citrus punch,  1. citrus ,  2. earthy ,  3. spicy/herbal  
+1798,maui haole,  1. pungent ,  2. tropical ,  3. earthy  
+1799,maui mango diesel,  1. mango ,  2. citrus ,  3. sweet  
+1800,maui wowie,  1. pineapple ,  2. tropical ,  3. sweet  
+1801,mazar i sharif,  1. earthy ,  2. pepper ,  3. woody  
+1802,mazar kush,  1. earthy ,  2. flowery ,  3. rose  
+1803,mazar x blueberry,  1. blueberry ,  2. earthy ,  3. sweet  
+1804,mazar x blueberry,  1. blueberry ,  2. earthy ,  3. sweet  
+1805,mazari,  1. blueberry ,  2. skunk ,  3. spicy/herbal  
+1806,mean misty,  1. flowery ,  2. sweet  ,
+1807,medihaze,  1. earthy ,  2. sweet ,  3. woody  
+1808,medibud,  1. sweet ,  2. flowery ,  3. tea  
+1809,medicine man,  1. earthy ,  2. flowery ,  3. citrus  
+1810,medicine woman,  1. earthy ,  2. diesel ,  3. citrus  
+1811,medusa,  1. sweet ,  2. earthy ,  3. blueberry  
+1812,mega jackpot,  1. berry ,  2. flowery ,  3. apple  
+1813,megalodon,  1. earthy ,  2. spicy/herbal ,  3. pepper  
+1814,mekamika haze,  1. flowery ,  2. mango ,  3. pineapple  
+1815,melon gum,  1. lavender ,  2. pungent ,  3. woody  
+1816,member berry,  1. berry ,  2. sweet ,  3. apricot  
+1817,memory loss,  1. earthy ,  2. woody ,  3. citrus  
+1818,mendo afgoo,  1. earthy ,  2. sweet ,  3. pungent  
+1819,mendo breath,  1. earthy ,  2. sweet ,  3. vanilla  
+1820,mendo queen,  1. earthy ,  2. tobacco ,  3. woody  
+1821,mendocino madness,  1. chestnut ,  2. earthy  ,
+1822,mendocino purps,  1. berry ,  2. woody ,  3. earthy  
+1823,mercury og,  1. earthy ,  2. woody ,  3. pungent  
+1824,merlot og,  1. butter ,  2. earthy ,  3. woody  
+1825,mexican,  1. earthy ,  2. pungent ,  3. woody  
+1826,mexican sativa,  1. earthy ,  2. pine ,  3. woody  
+1827,michael phelps og,  1. pine ,  2. pungent ,  3. diesel  
+1828,mickey kush,  1. earthy ,  2. sweet ,  3. lemon  
+1829,middlefork,  1. sweet ,  2. berry ,  3. citrus  
+1830,middlefork x pineapple express,  1. pineapple ,  2. grape ,  3. honey  
+1831,midnight,  1. earthy ,  2. sweet ,  3. pungent  
+1832,mighty glue,  1. woody ,  2. earthy ,  3. butter  
+1833,milky way,  1. sweet ,  2. flowery ,  3. lavender  
+1834,millennium,  1. blueberry ,  2. earthy ,  3. berry  
+1835,mimosa,  1. citrus ,  2. sweet ,  3. orange  
+1836,mint chocolate chip,  1. mint ,  2. diesel ,  3. pungent  
+1837,mission kush,  1. pine  ,,
+1838,misty kush,  1. earthy ,  2. citrus ,  3. sweet  
+1839,milky way,  1. sweet ,  2. flowery ,  3. lavender  
+1840,millennium,  1. blueberry ,  2. earthy ,  3. berry  
+1841,mimosa,  1. citrus ,  2. sweet ,  3. orange  
+1842,mint chocolate chip,  1. mint ,  2. diesel ,  3. pungent  
+1843,mission kush,  1. pine  ,,
+1844,misty kush,  1. earthy ,  2. citrus ,  3. sweet  
+1845,misty morning,  1. earthy ,  2. flowery ,  3. pungent  
+1846,mob boss,  1. earthy ,  2. pungent ,  3. citrus  
+1847,moby dick,  1. earthy ,  2. citrus ,  3. sweet  
+1848,mochi,  1. sweet ,  2. flowery ,  3. pungent  
+1849,molokai frost,  1. tropical ,  2. earthy ,  3. pungent  
+1850,molokai purpz,  1. berry ,  2. grape ,  3. flowery  
+1851,money maker,  1. earthy ,  2. spicy/herbal ,  3. woody  
+1852,monkey paw,  1. earthy ,  2. citrus ,  3. skunk  
+1853,monolith,  1. pungent ,  2. earthy ,  3. pine  
+1854,monster cookies,  1. earthy ,  2. woody ,  3. grape  
+1855,monster og,  1. citrus ,  2. pungent ,  3. tropical  
+1856,montana silvertip,  1. earthy ,  2. pungent ,  3. lavender  
+1857,moon cookies,  1. earthy ,  2. citrus ,  3. blueberry  
+1858,moon drops,  1. grape ,  2. skunk ,  3. sweet  
+1859,moonbeam,  1. earthy ,  2. sweet ,  3. flowery  
+1860,moondance,  1. citrus ,  2. earthy ,  3. flowery  
+1861,moonshine haze,  1. earthy ,  2. flowery ,  3. woody  
+1862,moonwalker kush,  1. earthy ,  2. tropical ,  3. pine  
+1863,moose and lobsta,  1. diesel ,  2. sweet ,  3. cheese  
+1864,more cowbell,  1. berry ,  2. nutty ,  3. spicy/herbal  
+1865,morning glory,  1. citrus ,  2. mango ,  3. nutty  
+1866,morning star,  1. citrus ,  2. pine ,  3. lime  
+1867,mossad,  1. earthy ,  2. lemon ,  3. sweet  
+1868,mossimo og,  1. honey ,  2. mint ,  3. lemon  
+1869,motavation,  1. pungent ,  2. flowery ,  3. sweet  
+1870,mother tongue,  1. pungent ,  2. sweet ,  3. earthy  
+1871,mother of all cherries,  1. berry ,  2. blueberry ,  3. grapefruit  
+1872,mother of berries,  1. berry ,  2. sweet ,  3. blueberry  
+1873,mothers milk,  1. cheese ,  2. earthy ,  3. sweet  
+1874,mothers finest,  1. earthy ,  2. lemon ,  3. pine  
+1875,mothers helper,  1. earthy ,  2. sweet ,  3. citrus  
+1876,motorbreath,  1. diesel ,  2. pungent ,  3. citrus  
+1877,mountain girl,  1. earthy ,  2. sage ,  3. pungent  
+1878,mountain thunder,  1. earthy ,  2. pepper ,  3. woody  
+1879,mozambique poison,  1. earthy ,  2. pine ,  3. sweet  
+1880,mr nice,  1. earthy ,  2. pungent ,  3. spicy/herbal  
+1881,mr tusk,  1. citrus ,  2. flowery ,  3. sweet  
+1882,ms universe,  1. vanilla ,  2. pineapple ,  3. sweet  
+1883,mt cook,  1. ammonia ,  2. citrus ,  3. diesel  
+1884,mt hood magic,  1. flowery ,  2. earthy ,  3. sage  
+1885,mt rainier,  1. earthy ,  2. woody ,  3. skunk  
+1886,mountain thunder,  1. earthy ,  2. pepper ,  3. woody  
+1887,mozambique poison,  1. earthy ,  2. pine ,  3. sweet  
+1888,mr nice,  1. earthy ,  2. pungent ,  3. spicy/herbal  
+1889,mr tusk,  1. citrus ,  2. flowery ,  3. sweet  
+1890,ms universe,  1. vanilla ,  2. pineapple ,  3. sweet  
+1891,mt cook,  1. ammonia ,  2. citrus ,  3. diesel  
+1892,mt hood magic,  1. flowery ,  2. earthy ,  3. sage  
+1893,mt rainier,  1. earthy ,  2. woody ,  3. skunk  
+1894,mud bite,  1. mint ,  2. apple ,  3. blue cheese  
+1895,murkle,  1. earthy ,  2. pungent ,  3. skunk  
+1896,mystery 98,  1. earthy ,  2. berry ,  3. citrus  
+1897,mystery jazz,  1. diesel ,  2. pungent ,  3. sweet  
+1898,nl5 haze mist,  1. berry ,  2. nutty ,  3. woody  
+1899,ny cheese,  1. earthy ,  2. pine ,  3. cheese  
+1900,ny 47,  1. citrus ,  2. diesel ,  3. earthy  
+1901,nyc diesel,  1. diesel ,  2. earthy ,  3. pungent  
+1902,nypd,  1. diesel ,  2. pungent ,  3. woody  
+1903,nanas fix,  1. flowery ,  2. diesel ,  3. tea  
+1904,narnia,  1. citrus ,  2. sweet ,  3. pine  
+1905,nebula,  1. sweet ,  2. honey ,  3. chemical  
+1906,nebula ii cbd,  1. woody ,  2. earthy ,  3. sweet  
+1907,nectarine lips,  1. orange ,  2. citrus ,  3. mango  
+1908,negra 44,  1. sweet ,  2. earthy ,  3. citrus  
+1909,neil haze,  1. tropical ,  2. earthy ,  3. pungent  
+1910,nepalese,  1. earthy ,  2. flowery ,  3. citrus  
+1911,nepalese jam,  1. earthy ,  2. pine ,  3. tropical  
+1912,neptune kush,  1. honey ,  2. sweet ,  3. apple  
+1913,neptune og,  1. berry ,  2. pungent ,  3. earthy  
+1914,nevils wreck,  1. earthy ,  2. pine ,  3. sage  
+1915,nevilles haze,  1. citrus ,  2. sweet ,  3. diesel  
+1916,new glue,  1. diesel ,  2. earthy ,  3. flowery  
+1917,nexus og,  1. berry ,  2. earthy ,  3. pungent  
+1918,nice cherry,  1. berry ,  2. pine ,  3. pungent  
+1919,nicole kush,  1. pungent ,  2. earthy ,  3. sweet  
+1920,night nurse,  1. sage ,  2. spicy/herbal ,  3. sweet  
+1921,night terror og,  1. grape ,  2. pine ,  3. sweet  
+1922,night train,  1. pungent ,  2. woody ,  3. nutty  
+1923,nightfire og,  1. sweet ,  2. lemon ,  3. pungent  
+1924,nightmare cookies,  1. citrus ,  2. sweet ,  3. earthy  
+1925,nightmare og,  1. blueberry ,  2. berry ,  3. citrus  
+1926,nina limone,  1. lemon ,  2. lime ,  3. pineapple  
+1927,ninja fruit,  1. sweet ,  2. grape ,  3. pine  
+1928,nor cal purps,  1. woody  ,,
+1929,nordle,  1. earthy ,  2. sweet ,  3. pine  
+1930,north american,  1. earthy ,  2. woody ,  3. spicy/herbal  
+1931,north american sativa,  1. pine ,  2. ammonia ,  3. earthy  
+1932,north indian,  1. earthy ,  2. tropical ,  3. woody  
+1933,northernberry,  1. berry ,  2. sweet ,  3. earthy  
+1934,northern cross,  1. flowery ,  2. sweet ,  3. tea  
+1935,northern lights,  1. earthy ,  2. sweet ,  3. pine  
+1936,northern lights  5,  1. earthy ,  2. pine ,  3. flowery  
+1937,northern lights 5 x haze,  1. earthy ,  2. spicy/herbal ,  3. pungent  
+1938,northern skunk,  1. skunk ,  2. pepper ,  3. earthy  
+1939,north american sativa,  1. pine ,  2. ammonia ,  3. earthy  
+1940,north indian,  1. earthy ,  2. tropical ,  3. woody  
+1941,northernberry,  1. berry ,  2. sweet ,  3. earthy  
+1942,northern cross,  1. flowery ,  2. sweet ,  3. tea  
+1943,northern lights,  1. earthy ,  2. sweet ,  3. pine  
+1944,northern lights  5,  1. earthy ,  2. pine ,  3. flowery  
+1945,northern lights 5 x haze,  1. earthy ,  2. spicy/herbal ,  3. pungent  
+1946,northern skunk,  1. skunk ,  2. pepper ,  3. earthy  
+1947,northern wreck,  1. earthy ,  2. sweet ,  3. flowery  
+1948,northwest pineapple,  1. pineapple ,  2. sweet  ,
+1949,nova,  1. pine ,  2. citrus ,  3. woody  
+1950,nuclear cookies,  1. earthy ,  2. citrus ,  3. pungent  
+1951,nuggetry og,  1. earthy ,  2. pungent  ,
+1952,nukeheads,  1. earthy ,  2. woody ,  3. citrus  
+1953,nuken,  1. earthy ,  2. woody ,  3. flowery  
+1954,nurse jackie,  1. earthy ,  2. lemon ,  3. woody  
+1955,oca gold,  1. earthy ,  2. flowery ,  3. spicy/herbal  
+1956,ocas cloud 9,  1. citrus ,  2. sweet ,  3. flowery  
+1957,ocd,  1. tar  ,,
+1958,og 18,  1. earthy ,  2. diesel ,  3. pungent  
+1959,og 1 kenobi,  1. tropical ,  2. citrus ,  3. grape  
+1960,og cheese,  1. cheese ,  2. earthy ,  3. pungent  
+1961,og chem,  1. pine ,  2. chemical ,  3. diesel  
+1962,og diesel kush,  1. strawberry ,  2. diesel ,  3. skunk  
+1963,og eddy lepp,  1. tropical  ,,
+1964,og glue sniffer,  1. diesel ,  2. sweet ,  3. pungent  
+1965,og kush,  1. earthy ,  2. woody ,  3. pine  
+1966,og la affie,  1. sweet ,  2. earthy ,  3. coffee  
+1967,og lime killer,  1. lime  ,,
+1968,og los angeles kush,  1. earthy ,  2. citrus ,  3. pungent  
+1969,og poison,  1. earthy ,  2. sweet ,  3. pine  
+1970,og ringo,  1. pine ,  2. earthy ,  3. sweet  
+1971,og shark,  1. earthy ,  2. woody ,  3. spicy/herbal  
+1972,og skunk,  1. skunk ,  2. pungent ,  3. diesel  
+1973,og sour diesel,  1. pine ,  2. diesel ,  3. pungent  
+1974,og strawberry,  1. sweet ,  2. strawberry ,  3. berry  
+1975,og tonic,  1. earthy ,  2. pungent ,  3. woody  
+1976,og wreck,  1. sweet ,  2. skunk ,  3. earthy  
+1977,ogs pearl,  1. earthy ,  2. pungent ,  3. sweet  
+1978,ogkb,  1. earthy ,  2. pine ,  3. diesel  
+1979,ogkz,  1. grape ,  2. sweet ,  3. berry  
+1980,ogiesel,  1. diesel ,  2. pungent ,  3. citrus  
+1981,obama kush,  1. earthy ,  2. sweet ,  3. grape  
+1982,ocean view,  1. sage ,  2. berry ,  3. earthy  
+1983,odyssey,  1. orange ,  2. sweet ,  3. pine  
+1984,ogre,  1. citrus ,  2. skunk ,  3. tea  
+1985,ogre berry,  1. sweet ,  2. mint ,  3. cheese  
+1986,ol betsy,  1. pungent ,  2. skunk ,  3. sweet  
+1987,old lyme connecticut og,  1. pine ,  2. pungent ,  3. tree fruit  
+1988,old mother sativa,  1. pine ,  2. tree fruit ,  3. tropical  
+1989,old school og,  1. pungent ,  2. skunk ,  3. earthy  
+1990,old toby,  1. lime ,  2. pine ,  3. chemical  
+1991,oldtimers haze,  1. citrus ,  2. pine  ,
+1992,ogre berry,  1. sweet ,  2. mint ,  3. cheese  
+1993,ol betsy,  1. pungent ,  2. skunk ,  3. sweet  
+1994,old lyme connecticut og,  1. pine ,  2. pungent ,  3. tree fruit  
+1995,old mother sativa,  1. pine ,  2. tree fruit ,  3. tropical  
+1996,old school og,  1. pungent ,  2. skunk ,  3. earthy  
+1997,old toby,  1. lime ,  2. pine ,  3. chemical  
+1998,oldtimers haze,  1. citrus ,  2. pine  ,
+1999,omega,  1. earthy ,  2. pine ,  3. spicy/herbal  
+2000,omega dawg,  1. skunk ,  2. diesel ,  3. pine  
+2001,one to one,  1. woody ,  2. earthy ,  3. lemon  
+2002,opal og kush,  1. earthy ,  2. pine ,  3. sweet  
+2003,opium,  1. earthy ,  2. sweet ,  3. pungent  
+2004,or,  1. earthy ,  2. flowery ,  3. berry  
+2005,orange afghani,  1. orange ,  2. citrus ,  3. earthy  
+2006,orange blossom,  1. orange ,  2. citrus ,  3. sweet  
+2007,orange bud,  1. orange ,  2. sweet ,  3. citrus  
+2008,orange cream,  1. citrus ,  2. flowery ,  3. orange  
+2009,orange creamsicle,  1. orange ,  2. citrus ,  3. vanilla  
+2010,orange crush,  1. orange ,  2. citrus ,  3. sweet  
+2011,orange diesel,  1. orange ,  2. diesel ,  3. citrus  
+2012,orange dream,  1. orange ,  2. vanilla ,  3. citrus  
+2013,orange durban,  1. orange ,  2. pine ,  3. citrus  
+2014,orange haze,  1. earthy ,  2. citrus ,  3. woody  
+2015,orange hill special,  1. orange ,  2. citrus ,  3. sweet  
+2016,orange juice,  1. orange ,  2. citrus ,  3. diesel  
+2017,orange kush,  1. orange ,  2. citrus ,  3. earthy  
+2018,orange kush breath,  1. earthy ,  2. citrus ,  3. orange  
+2019,orange romulan,  1. citrus ,  2. orange ,  3. grapefruit  
+2020,orange skunk,  1. orange ,  2. skunk ,  3. citrus  
+2021,orange snow cone,  1. tar ,  2. citrus ,  3. earthy  
+2022,orange turbo,  1. citrus ,  2. orange ,  3. earthy  
+2023,orange velvet,  1. orange ,  2. citrus ,  3. sweet  
+2024,orange wreck,  1. orange ,  2. citrus ,  3. grapefruit  
+2025,orangutang,  1. citrus ,  2. earthy ,  3. diesel  
+2026,oregon diesel,  1. berry ,  2. diesel ,  3. earthy  
+2027,oregon pineapple,  1. pineapple ,  2. pine ,  3. sweet  
+2028,oregon pinot noir,  1. grape ,  2. sweet ,  3. berry  
+2029,organic diesel,  1. pungent ,  2. flowery ,  3. diesel  
+2030,orient express,  1. nutty ,  2. pine ,  3. lemon  
+2031,original glue,  1. earthy ,  2. pungent ,  3. pine  
+2032,ortega,  1. spicy/herbal ,  2. earthy ,  3. pepper  
+2033,oteils egyptian kush,  1. earthy ,  2. pungent ,  3. woody  
+2034,outer space,  1. sweet ,  2. citrus ,  3. earthy  
+2035,outlaw,  1. earthy ,  2. sweet ,  3. citrus  
+2036,p 51,  1. earthy ,  2. pine ,  3. citrus  
+2037,p 91,  1. sweet ,  2. citrus ,  3. pineapple  
+2038,pb souffl,  1. earthy ,  2. pungent ,  3. nutty  
+2039,pacific blue,  1. earthy ,  2. flowery ,  3. woody  
+2040,outlaw,  1. earthy ,  2. sweet ,  3. citrus  
+2041,p 51,  1. earthy ,  2. pine ,  3. citrus  
+2042,p 91,  1. sweet ,  2. citrus ,  3. pineapple  
+2043,pb souffl,  1. earthy ,  2. pungent ,  3. nutty  
+2044,pacific blue,  1. earthy ,  2. flowery ,  3. woody  
+2045,pacific frost,  1. berry ,  2. grape ,  3. rose  
+2046,pagoda,  1. citrus ,  2. earthy ,  3. grapefruit  
+2047,pakistan valley kush,  1. spicy/herbal ,  2. woody ,  3. sage  
+2048,pakistani chitral kush,  1. earthy ,  2. sweet ,  3. berry  
+2049,palm tree cbd,  1. earthy ,  2. citrus ,  3. woody  
+2050,pamelina,  1. earthy ,  2. pepper ,  3. spicy/herbal  
+2051,pan jam,  1. earthy ,  2. chemical ,  3. pepper  
+2052,panama punch,  1. strawberry ,  2. tree fruit ,  3. orange  
+2053,panama red,  1. spicy/herbal ,  2. woody ,  3. earthy  
+2054,panda og,  1. berry ,  2. pungent ,  3. chemical  
+2055,pandoras box,  1. citrus ,  2. woody ,  3. diesel  
+2056,papas og,  1. pungent ,  2. sweet ,  3. earthy  
+2057,paris og,  1. earthy ,  2. pungent ,  3. tree fruit  
+2058,paris xxx,  1. pungent ,  2. citrus ,  3. earthy  
+2059,patti cake,  1. earthy ,  2. nutty ,  3. sweet  
+2060,peach cobbler,  1. peach ,  2. sweet ,  3. vanilla  
+2061,peach crescendo f 1,  1. peach ,  2. cheese ,  3. citrus  
+2062,peach puree,  1. citrus ,  2. flowery ,  3. menthol  
+2063,peaches and cream,  1. peach ,  2. skunk ,  3. sweet  
+2064,peachy mack,  1. peach ,  2. apricot ,  3. berry  
+2065,pearl scout cookies,  1. flowery ,  2. citrus ,  3. earthy  
+2066,peles fire og,  1. earthy ,  2. citrus ,  3. flowery  
+2067,pennywise,  1. earthy ,  2. sweet ,  3. woody  
+2068,peppermint cookies,  1. mint ,  2. earthy ,  3. woody  
+2069,perfect purple,  1. tropical  ,,
+2070,permafrost,  1. earthy ,  2. pine ,  3. sweet  
+2071,pestilence,  1. earthy ,  2. pine ,  3. pungent  
+2072,petrolia headstash,  1. pungent ,  2. earthy ,  3. tar  
+2073,peyote cookies,  1. earthy ,  2. sweet ,  3. woody  
+2074,peyton manning,  1. earthy  ,,
+2075,pez,  1. berry ,  2. citrus ,  3. sweet  
+2076,phantom arrow,  1. tree fruit ,  2. earthy ,  3. menthol  
+2077,phantom cookies,  1. sweet ,  2. earthy ,  3. pungent  
+2078,phantom og,  1. earthy ,  2. pine ,  3. flowery  
+2079,phatt frutty,  1. lemon ,  2. lime ,  3. citrus  
+2080,pheno 51,  1. pine ,  2. earthy ,  3. woody  
+2081,phishhead kush,  1. berry ,  2. sweet  ,
+2082,pie face og,  1. sweet ,  2. vanilla ,  3. earthy  
+2083,pie hoe,  1. grape ,  2. berry ,  3. flowery  
+2084,pine cone,  1. blue cheese ,  2. pine ,  3. woody  
+2085,pine queen dream,  1. pine ,  2. woody ,  3. blueberry  
+2086,pine tar kush,  1. pine ,  2. earthy ,  3. woody  
+2087,pineapple,  1. pineapple ,  2. tropical ,  3. sweet  
+2088,pineapple cookies,  1. pineapple ,  2. citrus ,  3. earthy  
+2089,pie hoe,  1. grape ,  2. berry ,  3. flowery  
+2090,pine cone,  1. blue cheese ,  2. pine ,  3. woody  
+2091,pine queen dream,  1. pine ,  2. woody ,  3. blueberry  
+2092,pine tar kush,  1. pine ,  2. earthy ,  3. woody  
+2093,pineapple,  1. pineapple ,  2. tropical ,  3. sweet  
+2094,pineapple cookies,  1. pineapple ,  2. citrus ,  3. earthy  
+2095,pineapple diesel,  1. pineapple ,  2. diesel ,  3. sweet  
+2096,pineapple dog shit,  1. pineapple ,  2. citrus ,  3. tar  
+2097,pineapple express,  1. pineapple ,  2. sweet ,  3. tropical  
+2098,pineapple fields,  1. tropical ,  2. pineapple ,  3. sweet  
+2099,pineapple haze,  1. pineapple ,  2. citrus ,  3. tropical  
+2100,pineapple jack,  1. pine ,  2. citrus ,  3. earthy  
+2101,pineapple kush,  1. pineapple ,  2. sweet ,  3. earthy  
+2102,pineapple mayhem,  1. citrus ,  2. pineapple  ,
+2103,pineapple og,  1. pine ,  2. woody ,  3. orange  
+2104,pineapple punch,  1. pineapple ,  2. tropical ,  3. sweet  
+2105,pineapple purple skunk,  1. citrus ,  2. pineapple ,  3. skunk  
+2106,pineapple purps,  1. earthy ,  2. pineapple ,  3. sweet  
+2107,pineapple sage,  1. sage ,  2. pineapple ,  3. citrus  
+2108,pineapple skunk,  1. sweet ,  2. pineapple ,  3. skunk  
+2109,pineapple super silver haze,  1. pineapple ,  2. citrus ,  3. diesel  
+2110,pineapple thai,  1. pineapple ,  2. tropical ,  3. citrus  
+2111,pineapple trainwreck,  1. pineapple ,  2. sweet ,  3. tropical  
+2112,pineapple upside down cake,  1. pineapple ,  2. sweet ,  3. tropical  
+2113,pineberry,  1. berry ,  2. pine ,  3. earthy  
+2114,pinewarp,  1. pine ,  2. pungent ,  3. tree fruit  
+2115,pink berry,  1. sweet ,  2. flowery ,  3. berry  
+2116,pink bubba,  1. sweet ,  2. earthy ,  3. pungent  
+2117,pink champagne,  1. berry ,  2. sweet ,  3. earthy  
+2118,pink cookies,  1. spicy/herbal ,  2. berry ,  3. flowery  
+2119,pink death star,  1. earthy ,  2. pungent ,  3. pepper  
+2120,pink hawaiian,  1. sweet ,  2. tropical ,  3. honey  
+2121,pink kush,  1. sweet ,  2. flowery ,  3. earthy  
+2122,pink lemonade,  1. lemon ,  2. citrus ,  3. sweet  
+2123,pink mango,  1. mango ,  2. earthy ,  3. tropical  
+2124,pink panther,  1. sweet ,  2. flowery ,  3. citrus  
+2125,pink panties,  1. sweet ,  2. flowery ,  3. chemical  
+2126,pink pez,  1. citrus ,  2. grapefruit ,  3. sweet  
+2127,pink starburst,  1. flowery ,  2. sweet ,  3. earthy  
+2128,pink sunset,  1. sweet ,  2. berry ,  3. flowery  
+2129,pinkman goo,  1. sweet ,  2. berry ,  3. mint  
+2130,pinot green,  1. earthy ,  2. citrus ,  3. flowery  
+2131,pitbull,  1. pungent ,  2. skunk ,  3. berry  
+2132,pia collision,  1. orange ,  2. pineapple ,  3. sweet  
+2133,placenta,  1. earthy ,  2. nutty ,  3. pungent  
+2134,platinum bubba kush,  1. earthy ,  2. flowery ,  3. sweet  
+2135,platinum calyx,  1. berry ,  2. coffee ,  3. grape  
+2136,platinum gsc,  1. earthy ,  2. sweet ,  3. pungent  
+2137,platinum huckleberry cookies,  1. spicy/herbal ,  2. earthy ,  3. sweet  
+2138,platinum kush,  1. earthy ,  2. sweet ,  3. spicy/herbal  
+2139,platinum og,  1. earthy ,  2. pungent ,  3. pine  
+2140,pia collision,  1. orange ,  2. pineapple ,  3. sweet  
+2141,placenta,  1. earthy ,  2. nutty ,  3. pungent  
+2142,platinum bubba kush,  1. earthy ,  2. flowery ,  3. sweet  
+2143,platinum calyx,  1. berry ,  2. coffee ,  3. grape  
+2144,platinum gsc,  1. earthy ,  2. sweet ,  3. pungent  
+2145,platinum huckleberry cookies,  1. spicy/herbal ,  2. earthy ,  3. sweet  
+2146,platinum kush,  1. earthy ,  2. sweet ,  3. spicy/herbal  
+2147,platinum og,  1. earthy ,  2. pungent ,  3. pine  
+2148,platinum purple kush,  1. grape ,  2. earthy ,  3. pungent  
+2149,platinum sour diesel,  1. sweet ,  2. diesel ,  3. grape  
+2150,platinum wreck,  1. sweet ,  2. earthy ,  3. citrus  
+2151,plushberry,  1. berry ,  2. sweet ,  3. flowery  
+2152,pluto kush,  1. earthy ,  2. skunk ,  3. berry  
+2153,poison haze,  1. earthy ,  2. nutty ,  3. citrus  
+2154,pokie,  1. butter ,  2. earthy ,  3. sweet  
+2155,poochie love,  1. earthy ,  2. pungent ,  3. skunk  
+2156,pop rox,  1. sweet ,  2. grape ,  3. citrus  
+2157,popcorn kush,  1. earthy ,  2. pine ,  3. butter  
+2158,pot of gold,  1. earthy ,  2. woody ,  3. pine  
+2159,powderhound,  1. pine ,  2. pungent  ,
+2160,power kush,  1. skunk ,  2. sweet ,  3. citrus  
+2161,power plant,  1. earthy ,  2. pungent ,  3. sweet  
+2162,pre 98 bubba kush,  1. coffee ,  2. earthy ,  3. woody  
+2163,predator pink,  1. earthy ,  2. sweet ,  3. pungent  
+2164,presidential og,  1. earthy ,  2. pine ,  3. sweet  
+2165,prevention,  1. earthy ,  2. sweet ,  3. flowery  
+2166,primus,  1. tropical ,  2. violet ,  3. woody  
+2167,princess,  1. earthy ,  2. woody ,  3. flowery  
+2168,princesss tiara,  1. earthy ,  2. sweet  ,
+2169,professor chaos,  1. citrus ,  2. sweet ,  3. berry  
+2170,project blue book,  1. sweet ,  2. berry ,  3. earthy  
+2171,puna buddaz,  1. sweet ,  2. tropical ,  3. pungent  
+2172,puna budder,  1. pine ,  2. sweet ,  3. butter  
+2173,punky lion,  1. lime ,  2. earthy ,  3. sweet  
+2174,punto rojo tierra adentro,  1. pine ,  2. skunk ,  3. sweet  
+2175,punxsy punch,  1. blueberry  ,,
+2176,pura vida,  1. flowery ,  2. citrus ,  3. grape  
+2177,pure afghan,  1. earthy ,  2. woody ,  3. pungent  
+2178,pure kush,  1. earthy ,  2. pungent ,  3. skunk  
+2179,pure love,  1. flowery ,  2. mango ,  3. grape  
+2180,pure og,  1. pine ,  2. sweet ,  3. lemon  
+2181,pure power plant,  1. earthy ,  2. pungent ,  3. skunk  
+2182,purple ak 47,  1. woody ,  2. vanilla ,  3. grape  
+2183,purple afghani,  1. earthy ,  2. sweet ,  3. woody  
+2184,purple alien og,  1. earthy ,  2. flowery ,  3. sweet  
+2185,purple arrow,  1. earthy ,  2. sweet ,  3. pungent  
+2186,purple aurora,  1. berry ,  2. flowery ,  3. grape  
+2187,purple berry,  1. spicy/herbal ,  2. earthy ,  3. sweet  
+2188,purple berry skunk,  1. berry ,  2. cheese ,  3. grape  
+2189,purple ak 47,  1. woody ,  2. vanilla ,  3. grape  
+2190,purple afghani,  1. earthy ,  2. sweet ,  3. woody  
+2191,purple alien og,  1. earthy ,  2. flowery ,  3. sweet  
+2192,purple arrow,  1. earthy ,  2. sweet ,  3. pungent  
+2193,purple aurora,  1. berry ,  2. flowery ,  3. grape  
+2194,purple berry,  1. spicy/herbal ,  2. earthy ,  3. sweet  
+2195,purple berry skunk,  1. berry ,  2. cheese ,  3. grape  
+2196,purple bubba,  1. berry ,  2. sweet ,  3. citrus  
+2197,purple bud,  1. sweet ,  2. spicy/herbal ,  3. blueberry  
+2198,purple buddha,  1. berry ,  2. sweet ,  3. grape  
+2199,purple bush,  1. berry ,  2. sweet ,  3. flowery  
+2200,purple candy,  1. grape ,  2. sweet ,  3. flowery  
+2201,purple champagne,  1. grape ,  2. berry ,  3. sweet  
+2202,purple cheddar,  1. flowery ,  2. earthy ,  3. grape  
+2203,purple cheese,  1. pungent ,  2. cheese ,  3. sweet  
+2204,purple chemdawg,  1. grape ,  2. earthy ,  3. pungent  
+2205,purple cotton candy,  1. sweet ,  2. grape ,  3. sage  
+2206,purple cow,  1. flowery ,  2. berry ,  3. mango  
+2207,purple crack,  1. sweet ,  2. earthy ,  3. citrus  
+2208,purple cream,  1. pungent ,  2. sweet ,  3. earthy  
+2209,purple diesel,  1. diesel ,  2. sweet ,  3. grape  
+2210,purple dog shit,  1. berry ,  2. earthy ,  3. grape  
+2211,purple dragon,  1. grape ,  2. pine ,  3. blueberry  
+2212,purple dream,  1. grape ,  2. sweet ,  3. earthy  
+2213,purple elephant,  1. earthy ,  2. flowery ,  3. citrus  
+2214,purple frost,  1. skunk ,  2. earthy ,  3. sweet  
+2215,purple glue,  1. earthy ,  2. grape ,  3. sweet  
+2216,purple goat,  1. sweet ,  2. berry ,  3. earthy  
+2217,purple goo,  1. sweet ,  2. earthy ,  3. pungent  
+2218,purple gorilla,  1. berry ,  2. sweet ,  3. grape  
+2219,purple happy rancher,  1. grape ,  2. flowery ,  3. berry  
+2220,purple hashplant,  1. pungent ,  2. earthy ,  3. flowery  
+2221,purple haze,  1. flowery ,  2. earthy ,  3. sweet  
+2222,purple headband,  1. berry ,  2. sweet ,  3. grape  
+2223,purple hindu kush,  1. grape ,  2. woody ,  3. berry  
+2224,purple ice,  1. berry ,  2. sweet ,  3. grape  
+2225,purple jack,  1. earthy ,  2. berry ,  3. tree fruit  
+2226,purple killer,  1. tree fruit ,  2. sweet ,  3. earthy  
+2227,purple kush,  1. earthy ,  2. grape ,  3. berry  
+2228,purple martian kush,  1. sweet ,  2. grape ,  3. berry  
+2229,purple maui,  1. sweet ,  2. grape ,  3. pine  
+2230,purple monkey balls,  1. citrus ,  2. earthy ,  3. diesel  
+2231,purple mr nice,  1. earthy ,  2. grape ,  3. berry  
+2232,purple nepal,  1. sweet ,  2. grape ,  3. pungent  
+2233,purple og kush,  1. earthy ,  2. sweet ,  3. woody  
+2234,purple panty dropper,  1. pungent ,  2. lavender ,  3. grape  
+2235,purple paralysis,  1. honey ,  2. sweet ,  3. lavender  
+2236,purple passion,  1. grape ,  2. pungent ,  3. earthy  
+2237,purple people eater,  1. grape ,  2. berry ,  3. tropical  
+2238,purple pie,  1. diesel ,  2. sweet ,  3. berry  
+2239,purple pinecone,  1. citrus ,  2. diesel ,  3. earthy  
+2240,purple power,  1. berry ,  2. pungent ,  3. woody  
+2241,purple panty dropper,  1. pungent ,  2. lavender ,  3. grape  
+2242,purple paralysis,  1. honey ,  2. sweet ,  3. lavender  
+2243,purple passion,  1. grape ,  2. pungent ,  3. earthy  
+2244,purple people eater,  1. grape ,  2. berry ,  3. tropical  
+2245,purple pie,  1. diesel ,  2. sweet ,  3. berry  
+2246,purple pinecone,  1. citrus ,  2. diesel ,  3. earthy  
+2247,purple power,  1. berry ,  2. pungent ,  3. woody  
+2248,purple princess,  1. berry ,  2. sweet ,  3. pungent  
+2249,purple punch,  1. grape ,  2. berry ,  3. sweet  
+2250,purple raine,  1. sweet ,  2. grape ,  3. berry  
+2251,purple rhino,  1. sweet ,  2. skunk ,  3. berry  
+2252,purple sage,  1. sage ,  2. lemon ,  3. sweet  
+2253,purple skunk,  1. skunk ,  2. earthy ,  3. pine  
+2254,purple sour diesel,  1. diesel ,  2. grape ,  3. pungent  
+2255,purple star,  1. berry ,  2. grape ,  3. earthy  
+2256,purple swish,  1. berry ,  2. earthy ,  3. pungent  
+2257,purple tangie,  1. citrus ,  2. grape ,  3. sweet  
+2258,purple tears,  1. berry ,  2. diesel ,  3. earthy  
+2259,purple thai,  1. lemon ,  2. flowery ,  3. woody  
+2260,purple tide,  1. nutty  ,,
+2261,purple tonic,  1. blueberry ,  2. nutty ,  3. tree fruit  
+2262,purple trainwreck,  1. berry ,  2. sweet ,  3. grape  
+2263,purple urkle,  1. grape ,  2. berry ,  3. earthy  
+2264,purple voodoo,  1. sweet ,  2. pungent ,  3. earthy  
+2265,purple widow,  1. woody ,  2. sweet ,  3. berry  
+2266,purple wreck,  1. grape ,  2. berry ,  3. sweet  
+2267,q3,  1. tree fruit ,  2. orange ,  3. citrus  
+2268,qleaner,  1. ammonia ,  2. tar ,  3. citrus  
+2269,qrazy train,  1. sweet ,  2. skunk ,  3. lemon  
+2270,quad dawg,  1. lemon  ,,
+2271,quantum kush,  1. earthy ,  2. pine ,  3. lemon  
+2272,quebec gold,  1. citrus ,  2. lemon ,  3. pine  
+2273,queen mother goji,  1. berry ,  2. woody ,  3. earthy  
+2274,queens panties,  1. sweet ,  2. berry ,  3. blueberry  
+2275,querkle,  1. earthy ,  2. woody ,  3. coffee  
+2276,quin n tonic,  1. blueberry ,  2. sweet ,  3. pungent  
+2277,qush,  1. sweet ,  2. flowery ,  3. earthy  
+2278,r 4,  1. earthy ,  2. nutty ,  3. butter  
+2279,race fuel og,  1. diesel ,  2. earthy ,  3. pine  
+2280,rafael,  1. peach  ,,
+2281,rainbow,  1. sweet ,  2. tropical ,  3. citrus  
+2282,rainbow jones,  1. spicy/herbal ,  2. grape ,  3. blueberry  
+2283,raindance,  1. earthy ,  2. woody ,  3. lemon  
+2284,ramses,  1. flowery ,  2. spicy/herbal ,  3. sweet  
+2285,rare dankness 1,  1. berry ,  2. pungent ,  3. earthy  
+2286,rare darkness,  1. earthy ,  2. sweet ,  3. flowery  
+2287,raskal og,  1. sweet ,  2. pine ,  3. earthy  
+2288,raspberry cough,  1. berry ,  2. sweet ,  3. strawberry  
+2289,raspberry diesel,  1. berry ,  2. diesel ,  3. flowery  
+2290,raspberry kush,  1. berry ,  2. earthy ,  3. spicy/herbal  
+2291,ramses,  1. flowery ,  2. spicy/herbal ,  3. sweet  
+2292,rare dankness 1,  1. berry ,  2. pungent ,  3. earthy  
+2293,rare darkness,  1. earthy ,  2. sweet ,  3. flowery  
+2294,raskal og,  1. sweet ,  2. pine ,  3. earthy  
+2295,raspberry cough,  1. berry ,  2. sweet ,  3. strawberry  
+2296,raspberry diesel,  1. berry ,  2. diesel ,  3. flowery  
+2297,raspberry kush,  1. berry ,  2. earthy ,  3. spicy/herbal  
+2298,raw diesel,  1. earthy ,  2. diesel ,  3. woody  
+2299,ray charles,  1. earthy ,  2. pine ,  3. diesel  
+2300,rebel berry og,  1. blueberry ,  2. berry ,  3. cheese  
+2301,rebel god smoke,  1. citrus ,  2. earthy ,  3. grapefruit  
+2302,rebel tangie kandy,  1. citrus  ,,
+2303,reclining buddha,  1. citrus ,  2. flowery ,  3. berry  
+2304,recon,  1. sweet ,  2. earthy ,  3. pungent  
+2305,red cherry berry,  1. berry ,  2. earthy ,  3. sweet  
+2306,red congolese,  1. spicy/herbal ,  2. earthy ,  3. woody  
+2307,red diesel,  1. woody ,  2. earthy ,  3. sweet  
+2308,red dragon,  1. sweet ,  2. earthy ,  3. tropical  
+2309,red dwarf,  1. pine ,  2. earthy ,  3. orange  
+2310,red eye og,  1. earthy ,  2. pungent ,  3. pine  
+2311,red haze,  1. woody ,  2. earthy ,  3. tobacco  
+2312,red headed stranger,  1. spicy/herbal ,  2. sweet ,  3. earthy  
+2313,red poison,  1. earthy ,  2. citrus ,  3. woody  
+2314,red rhino,  1. earthy ,  2. mint ,  3. spicy/herbal  
+2315,red velvet pie,  1. sweet  ,,
+2316,red widow,  1. earthy ,  2. butter ,  3. skunk  
+2317,redd cross,  1. chemical ,  2. earthy  ,
+2318,redwood kush,  1. woody ,  2. earthy ,  3. pine  
+2319,remedy,  1. flowery ,  2. skunk ,  3. earthy  
+2320,remo chemo,  1. pepper ,  2. spicy/herbal ,  3. earthy  
+2321,rene,  1. earthy ,  2. sweet ,  3. rose  
+2322,rene mist,  1. earthy ,  2. flowery ,  3. rose  
+2323,richie rich,  1. sweet ,  2. lemon ,  3. mango  
+2324,riddler og,  1. earthy ,  2. flowery ,  3. pungent  
+2325,ridge berry,  1. earthy ,  2. chemical ,  3. flowery  
+2326,ringos gift,  1. earthy ,  2. citrus ,  3. nutty  
+2327,rip city purps,  1. earthy ,  2. flowery ,  3. grape  
+2328,ripped bubba,  1. earthy ,  2. citrus ,  3. lemon  
+2329,rise n shine,  1. citrus ,  2. mango ,  3. berry  
+2330,road dawg,  1. diesel ,  2. chemical ,  3. ammonia  
+2331,rob ford kush,  1. lemon ,  2. strawberry ,  3. sweet  
+2332,robert plant,  1. earthy ,  2. woody ,  3. pine  
+2333,rockbud,  1. skunk ,  2. pungent ,  3. blue cheese  
+2334,rocket fuel,  1. diesel ,  2. earthy ,  3. woody  
+2335,rocklock,  1. sweet ,  2. woody ,  3. earthy  
+2336,rockstar,  1. earthy ,  2. woody ,  3. diesel  
+2337,rockstar kush,  1. earthy ,  2. skunk ,  3. woody  
+2338,rockstar master kush,  1. earthy ,  2. pine ,  3. sweet  
+2339,rocky dennis,  1. earthy ,  2. citrus ,  3. flowery  
+2340,rocky mountain blueberry,  1. blueberry ,  2. berry ,  3. sweet  
+2341,rocky mountain high,  1. earthy ,  2. skunk ,  3. citrus  
+2342,rocket fuel,  1. diesel ,  2. earthy ,  3. woody  
+2343,rocklock,  1. sweet ,  2. woody ,  3. earthy  
+2344,rockstar,  1. earthy ,  2. woody ,  3. diesel  
+2345,rockstar kush,  1. earthy ,  2. skunk ,  3. woody  
+2346,rockstar master kush,  1. earthy ,  2. pine ,  3. sweet  
+2347,rocky dennis,  1. earthy ,  2. citrus ,  3. flowery  
+2348,rocky mountain blueberry,  1. blueberry ,  2. berry ,  3. sweet  
+2349,rocky mountain high,  1. earthy ,  2. skunk ,  3. citrus  
+2350,rollex og kush,  1. earthy ,  2. sweet ,  3. pine  
+2351,rolls choice,  1. diesel ,  2. pungent ,  3. earthy  
+2352,romping goddess,  1. earthy ,  2. pine ,  3. tree fruit  
+2353,romulan,  1. earthy ,  2. pine ,  3. sweet  
+2354,romulan grapefruit,  1. grapefruit ,  2. citrus ,  3. earthy  
+2355,romulan haze,  1. pungent ,  2. citrus ,  3. skunk  
+2356,root beer kush,  1. vanilla ,  2. berry ,  3. sweet  
+2357,rose bud,  1. peach ,  2. rose ,  3. flowery  
+2358,royal chemdawg,  1. lemon ,  2. citrus ,  3. diesel  
+2359,royal dwarf,  1. pine ,  2. skunk ,  3. lemon  
+2360,royal haze,  1. citrus ,  2. woody ,  3. earthy  
+2361,royal highness,  1. sweet ,  2. pineapple ,  3. diesel  
+2362,royal kush,  1. earthy ,  2. skunk ,  3. tree fruit  
+2363,royal tree sherbet,  1. tropical ,  2. berry ,  3. earthy  
+2364,roz,  1. lemon ,  2. lime ,  3. orange  
+2365,rubicon,  1. flowery ,  2. sage ,  3. pungent  
+2366,rudeboi og,  1. pine ,  2. pungent ,  3. sweet  
+2367,rug burn og,  1. earthy ,  2. citrus ,  3. diesel  
+2368,russian assassin,  1. earthy ,  2. diesel ,  3. woody  
+2369,russian doll,  1. tree fruit ,  2. flowery ,  3. rose  
+2370,russian rocket fuel,  1. diesel ,  2. earthy ,  3. spicy/herbal  
+2371,russian roulette,  1. earthy ,  2. skunk  ,
+2372,sage,  1. sage ,  2. woody ,  3. flowery  
+2373,sage walker,  1. menthol ,  2. sage  ,
+2374,sfv dog,  1. pine ,  2. woody ,  3. diesel  
+2375,sfv og,  1. earthy ,  2. pungent ,  3. lemon  
+2376,sfv og kush,  1. earthy ,  2. pine ,  3. lemon  
+2377,safety meeting,  1. berry ,  2. flowery ,  3. skunk  
+2378,sage n sour,  1. sage ,  2. earthy ,  3. spicy/herbal  
+2379,salmon river og,  1. berry ,  2. spicy/herbal ,  3. flowery  
+2380,santa maria,  1. sweet ,  2. grapefruit ,  3. earthy  
+2381,santa sativa,  1. blueberry ,  2. berry ,  3. earthy  
+2382,sapphire scout,  1. sweet ,  2. berry ,  3. blueberry  
+2383,sapphire star,  1. grape ,  2. lavender ,  3. blueberry  
+2384,sasquatch sap,  1. sage ,  2. skunk ,  3. pine  
+2385,satellite og,  1. pungent ,  2. earthy ,  3. sweet  
+2386,satori,  1. woody ,  2. earthy ,  3. citrus  
+2387,satsuma,  1. apricot ,  2. berry ,  3. flowery  
+2388,saturn og,  1. earthy ,  2. pungent ,  3. citrus  
+2389,savage citrus sunshine,  1. chemical ,  2. citrus ,  3. earthy  
+2390,savants grail,  1. chemical ,  2. earthy ,  3. flowery  
+2391,schrom,  1. lemon ,  2. citrus ,  3. lime  
+2392,scooby snack,  1. sweet ,  2. earthy ,  3. pine  
+2393,scotts og,  1. earthy ,  2. lemon ,  3. pungent  
+2394,satori,  1. woody ,  2. earthy ,  3. citrus  
+2395,satsuma,  1. apricot ,  2. berry ,  3. flowery  
+2396,saturn og,  1. earthy ,  2. pungent ,  3. citrus  
+2397,savage citrus sunshine,  1. chemical ,  2. citrus ,  3. earthy  
+2398,savants grail,  1. chemical ,  2. earthy ,  3. flowery  
+2399,schrom,  1. lemon ,  2. citrus ,  3. lime  
+2400,scooby snack,  1. sweet ,  2. earthy ,  3. pine  
+2401,scotts og,  1. earthy ,  2. lemon ,  3. pungent  
+2402,scouts honor,  1. earthy ,  2. pungent ,  3. flowery  
+2403,scroopy noopers,  1. coffee ,  2. pungent ,  3. butter  
+2404,seattle blue,  1. sweet ,  2. flowery ,  3. berry  
+2405,seattle cough,  1. pine ,  2. citrus ,  3. grapefruit  
+2406,seattle summer,  1. butter ,  2. orange ,  3. sweet  
+2407,seattlesoda,  1. earthy ,  2. berry ,  3. blueberry  
+2408,secret garden og,  1. flowery ,  2. honey ,  3. lavender  
+2409,secret recipe,  1. earthy ,  2. diesel ,  3. sweet  
+2410,sensi skunk,  1. citrus ,  2. skunk ,  3. earthy  
+2411,sensi star,  1. earthy ,  2. sweet ,  3. pungent  
+2412,sequoia strawberry,  1. sweet ,  2. berry ,  3. strawberry  
+2413,serious 6,  1. woody ,  2. spicy/herbal ,  3. chemical  
+2414,serious happiness,  1. sweet ,  2. pepper ,  3. earthy  
+2415,sexxpot,  1. coffee ,  2. pungent ,  3. earthy  
+2416,shaman,  1. sweet ,  2. flowery ,  3. earthy  
+2417,shangri la,  1. earthy ,  2. woody ,  3. citrus  
+2418,shark attack,  1. earthy ,  2. spicy/herbal ,  3. pungent  
+2419,shark bite,  1. pungent ,  2. tropical ,  3. sweet  
+2420,shark shock,  1. earthy ,  2. woody ,  3. sweet  
+2421,sharks breath,  1. pungent ,  2. skunk ,  3. earthy  
+2422,sunset sherbert,  1. sweet ,  2. citrus ,  3. berry  
+2423,shiatsu kush,  1. sweet ,  2. earthy ,  3. nutty  
+2424,shining silver haze,  1. pine ,  2. citrus ,  3. apple  
+2425,shipwreck,  1. skunk ,  2. sweet ,  3. earthy  
+2426,shishkaberry,  1. berry ,  2. sweet ,  3. earthy  
+2427,shiskaquine,  1. berry ,  2. earthy ,  3. sweet  
+2428,shiva skunk,  1. skunk ,  2. woody ,  3. berry  
+2429,shoreline,  1. sweet ,  2. earthy ,  3. woody  
+2430,shurman,  1. earthy ,  2. pine ,  3. pungent  
+2431,sidetracked,  1. earthy ,  2. chemical ,  3. pungent  
+2432,sierra mist,  1. citrus ,  2. butter ,  3. diesel  
+2433,silver back,  1. earthy ,  2. pine ,  3. sweet  
+2434,silver bubble,  1. flowery ,  2. earthy ,  3. sweet  
+2435,silver calyx,  1. lemon ,  2. pine ,  3. tree fruit  
+2436,silver haze,  1. earthy ,  2. sweet ,  3. woody  
+2437,silver kush,  1. earthy ,  2. citrus ,  3. woody  
+2438,silver mountain,  1. citrus ,  2. mint ,  3. flowery  
+2439,silver pearl,  1. skunk ,  2. honey ,  3. citrus  
+2440,silver surfer,  1. spicy/herbal ,  2. sweet ,  3. citrus  
+2441,silver train,  1. pine ,  2. spicy/herbal ,  3. sweet  
+2442,silverback gorilla,  1. earthy ,  2. pungent ,  3. berry  
+2443,silverfalls kush,  1. sweet ,  2. spicy/herbal ,  3. strawberry  
+2444,silverhawks og,  1. earthy ,  2. citrus ,  3. diesel  
+2445,silver mountain,  1. citrus ,  2. mint ,  3. flowery  
+2446,silver pearl,  1. skunk ,  2. honey ,  3. citrus  
+2447,silver surfer,  1. spicy/herbal ,  2. sweet ,  3. citrus  
+2448,silver train,  1. pine ,  2. spicy/herbal ,  3. sweet  
+2449,silverback gorilla,  1. earthy ,  2. pungent ,  3. berry  
+2450,silverfalls kush,  1. sweet ,  2. spicy/herbal ,  3. strawberry  
+2451,silverhawks og,  1. earthy ,  2. citrus ,  3. diesel  
+2452,sin city kush,  1. grape ,  2. pine ,  3. sweet  
+2453,sin valley og,  1. earthy ,  2. lemon ,  3. citrus  
+2454,sinmint cookies,  1. mint ,  2. earthy ,  3. pungent  
+2455,sinai,  1. menthol ,  2. pepper ,  3. spicy/herbal  
+2456,sirius black,  1. grape ,  2. blueberry ,  3. lavender  
+2457,sister glue,  1. earthy ,  2. pine ,  3. pungent  
+2458,six shooter,  1. skunk ,  2. sweet ,  3. citrus  
+2459,sizzurp,  1. pungent ,  2. tropical ,  3. earthy  
+2460,skins skunk,  1. lemon ,  2. strawberry ,  3. sweet  
+2461,skunk 47,  1. earthy ,  2. skunk ,  3. pungent  
+2462,skunk dawg,  1. skunk ,  2. earthy ,  3. sweet  
+2463,skunk haze,  1. spicy/herbal ,  2. vanilla ,  3. butter  
+2464,skunk 1,  1. pungent ,  2. skunk ,  3. earthy  
+2465,skunk plus,  1. woody ,  2. earthy ,  3. spicy/herbal  
+2466,skunkberry,  1. skunk ,  2. berry ,  3. blueberry  
+2467,skunky diesel,  1. skunk ,  2. diesel ,  3. earthy  
+2468,sky lotus,  1. woody ,  2. earthy ,  3. lemon  
+2469,sky master,  1. blueberry ,  2. flowery ,  3. cheese  
+2470,skydog,  1. earthy ,  2. lemon ,  3. sweet  
+2471,skywalker alien,  1. citrus ,  2. earthy ,  3. woody  
+2472,slazerbeam,  1. earthy ,  2. lemon ,  3. skunk  
+2473,sleeskunk,  1. skunk ,  2. pine ,  3. spicy/herbal  
+2474,sleestack,  1. diesel ,  2. earthy ,  3. citrus  
+2475,slice of heaven,  1. berry ,  2. skunk ,  3. tropical  
+2476,slimer og,  1. citrus ,  2. earthy ,  3. pine  
+2477,smelliot,  1. citrus ,  2. pungent ,  3. sweet  
+2478,smooth operator,  1. earthy ,  2. flowery ,  3. pungent  
+2479,snoop dogg og,  1. chemical ,  2. lemon ,  3. pungent  
+2480,snoop s dream,  1. sweet ,  2. woody ,  3. berry  
+2481,snow bud,  1. earthy ,  2. pine ,  3. skunk  
+2482,snow diesel,  1. diesel ,  2. pungent ,  3. sweet  
+2483,snow goddess,  1. woody ,  2. pine ,  3. sweet  
+2484,snow leopard,  1. earthy ,  2. woody ,  3. pine  
+2485,snow lotus,  1. earthy ,  2. lemon ,  3. chemical  
+2486,snow monster,  1. earthy ,  2. sweet ,  3. blue cheese  
+2487,snow mountain,  1. flowery  ,,
+2488,snow ryder,  1. earthy ,  2. mint ,  3. pepper  
+2489,snow white,  1. earthy ,  2. woody ,  3. sweet  
+2490,snowland,  1. lemon ,  2. earthy ,  3. woody  
+2491,snowcap,  1. lemon ,  2. citrus ,  3. earthy  
+2492,sojay haze,  1. citrus ,  2. flowery ,  3. lemon  
+2493,somango,  1. mango ,  2. sweet ,  3. tropical  
+2494,sonic screwdriver,  1. citrus ,  2. spicy/herbal ,  3. pungent  
+2495,sonoma coma,  1. citrus ,  2. tropical ,  3. earthy  
+2496,snowcap,  1. lemon ,  2. citrus ,  3. earthy  
+2497,sojay haze,  1. citrus ,  2. flowery ,  3. lemon  
+2498,somango,  1. mango ,  2. sweet ,  3. tropical  
+2499,sonic screwdriver,  1. citrus ,  2. spicy/herbal ,  3. pungent  
+2500,sonoma coma,  1. citrus ,  2. tropical ,  3. earthy  
+2501,sorbetto,  1. lemon ,  2. diesel ,  3. flowery  
+2502,sorcerers apprentice,  1. sweet ,  2. tropical  ,
+2503,soul assassin og,  1. flowery ,  2. citrus ,  3. spicy/herbal  
+2504,soulshine aloha,  1. earthy ,  2. sweet ,  3. nutty  
+2505,sour alien,  1. diesel ,  2. pungent ,  3. earthy  
+2506,sour amnesia,  1. diesel ,  2. citrus ,  3. sweet  
+2507,sour ape,  1. diesel ,  2. sweet ,  3. grape  
+2508,sour apple,  1. apple ,  2. sweet ,  3. earthy  
+2509,sour banana sherbet,  1. sweet ,  2. diesel ,  3. earthy  
+2510,sour blueberry,  1. berry ,  2. blueberry ,  3. pine  
+2511,sour breath,  1. pine ,  2. earthy ,  3. woody  
+2512,sour bubba,  1. spicy/herbal ,  2. diesel ,  3. sweet  
+2513,sour bubble,  1. sweet ,  2. earthy ,  3. pungent  
+2514,sour candy,  1. sweet ,  2. earthy ,  3. pine  
+2515,sour chees,  1. cheese ,  2. diesel ,  3. skunk  
+2516,sour cherry sherbert,  1. lemon ,  2. sweet ,  3. diesel  
+2517,sour chocolate,  1. diesel ,  2. earthy ,  3. sweet  
+2518,sour chunk,  1. sweet ,  2. earthy ,  3. berry  
+2519,sour cookies,  1. diesel ,  2. berry ,  3. grape  
+2520,sour cream,  1. diesel ,  2. earthy ,  3. sweet  
+2521,sour diesel,  1. diesel ,  2. earthy ,  3. pungent  
+2522,sour dream,  1. skunk ,  2. berry ,  3. woody  
+2523,sour dubble,  1. diesel ,  2. woody ,  3. spicy/herbal  
+2524,sour flower,  1. earthy ,  2. skunk ,  3. citrus  
+2525,sour grape,  1. grape ,  2. earthy ,  3. sweet  
+2526,sour haze,  1. citrus ,  2. earthy ,  3. diesel  
+2527,sour headband,  1. diesel ,  2. pungent ,  3. citrus  
+2528,sour jack,  1. citrus ,  2. diesel ,  3. lemon  
+2529,sour jilly,  1. berry ,  2. tropical ,  3. sweet  
+2530,sour joker,  1. citrus ,  2. diesel ,  3. sweet  
+2531,sour kush,  1. diesel ,  2. earthy ,  3. pungent  
+2532,sour lsd,  1. pungent ,  2. skunk ,  3. chemical  
+2533,sour lemon og,  1. lemon ,  2. citrus ,  3. lime  
+2534,sour maui,  1. pineapple ,  2. citrus ,  3. tropical  
+2535,sour og,  1. earthy ,  2. diesel ,  3. pungent  
+2536,sour patch kiss,  1. citrus ,  2. sweet ,  3. strawberry  
+2537,sour pebbles,  1. berry ,  2. sweet ,  3. earthy  
+2538,sour poison,  1. citrus ,  2. diesel ,  3. grapefruit  
+2539,sour power,  1. earthy ,  2. citrus ,  3. sweet  
+2540,sour power og,  1. earthy ,  2. lemon ,  3. ammonia  
+2541,sour maui,  1. pineapple ,  2. citrus ,  3. tropical  
+2542,sour og,  1. earthy ,  2. diesel ,  3. pungent  
+2543,sour patch kiss,  1. citrus ,  2. sweet ,  3. strawberry  
+2544,sour pebbles,  1. berry ,  2. sweet ,  3. earthy  
+2545,sour poison,  1. citrus ,  2. diesel ,  3. grapefruit  
+2546,sour power,  1. earthy ,  2. citrus ,  3. sweet  
+2547,sour power og,  1. earthy ,  2. lemon ,  3. ammonia  
+2548,sour space candy,  1. citrus ,  2. diesel ,  3. earthy  
+2549,sour spyder,  1. lemon ,  2. earthy ,  3. pungent  
+2550,sour star head,  1. sweet ,  2. citrus ,  3. tropical  
+2551,sour strawberry,  1. earthy ,  2. strawberry ,  3. diesel  
+2552,sour strawberry diesel,  1. strawberry ,  2. diesel ,  3. sweet  
+2553,sour sunset,  1. sweet ,  2. berry ,  3. grapefruit  
+2554,sour tangie,  1. citrus ,  2. orange ,  3. diesel  
+2555,sour tsunami,  1. citrus ,  2. diesel ,  3. earthy  
+2556,sour urkle,  1. citrus ,  2. berry ,  3. diesel  
+2557,sour willie,  1. pungent ,  2. citrus ,  3. sweet  
+2558,sourlope,  1. sweet ,  2. tropical ,  3. pungent  
+2559,south american,  1. earthy ,  2. woody ,  3. ammonia  
+2560,south asian,  1. sweet  ,,
+2561,south asian sativa,  1. diesel ,  2. earthy  ,
+2562,south central la,  1. sweet ,  2. berry ,  3. blueberry  
+2563,south indian,  1. skunk ,  2. earthy ,  3. mango  
+2564,southern lights,  1. lemon ,  2. pungent  ,
+2565,space bomb,  1. citrus ,  2. diesel ,  3. woody  
+2566,space cake,  1. nutty ,  2. spicy/herbal ,  3. berry  
+2567,space candy,  1. sweet ,  2. earthy ,  3. apple  
+2568,space cream,  1. sweet ,  2. citrus ,  3. earthy  
+2569,space dawg,  1. pine ,  2. spicy/herbal ,  3. tobacco  
+2570,space monster,  1. chemical ,  2. pear ,  3. ammonia  
+2571,space needle,  1. pungent ,  2. pine ,  3. chemical  
+2572,space queen,  1. sweet ,  2. earthy ,  3. flowery  
+2573,special k,  1. flowery ,  2. earthy ,  3. sweet  
+2574,special kush 1,  1. earthy ,  2. woody ,  3. sweet  
+2575,special sauce,  1. sweet ,  2. earthy ,  3. flowery  
+2576,spicy disco,  1. citrus ,  2. earthy ,  3. spicy/herbal  
+2577,spiked punch,  1. grape ,  2. mango ,  3. sweet  
+2578,spirit of 76,  1. flowery ,  2. earthy ,  3. pine  
+2579,spliffs strawberry,  1. berry ,  2. strawberry ,  3. sweet  
+2580,spoetnik 1,  1. pine ,  2. sage ,  3. woody  
+2581,spumoni,  1. sweet  ,,
+2582,sputnik,  1. flowery ,  2. sweet ,  3. tea  
+2583,spyder mon,  1. citrus ,  2. earthy ,  3. flowery  
+2584,star 47,  1. earthy ,  2. berry ,  3. citrus  
+2585,star berry,  1. berry ,  2. citrus ,  3. sweet  
+2586,star killer,  1. earthy ,  2. citrus ,  3. sweet  
+2587,star master kush,  1. pungent ,  2. earthy ,  3. citrus  
+2588,star pupil,  1. skunk ,  2. lime ,  3. pine  
+2589,star tonic,  1. woody ,  2. earthy ,  3. lavender  
+2590,starbud,  1. menthol ,  2. earthy ,  3. chemical  
+2591,stardawg,  1. earthy ,  2. diesel ,  3. pine  
+2592,stardawg 91,  1. diesel ,  2. chemical ,  3. chestnut  
+2593,star berry,  1. berry ,  2. citrus ,  3. sweet  
+2594,star killer,  1. earthy ,  2. citrus ,  3. sweet  
+2595,star master kush,  1. pungent ,  2. earthy ,  3. citrus  
+2596,star pupil,  1. skunk ,  2. lime ,  3. pine  
+2597,star tonic,  1. woody ,  2. earthy ,  3. lavender  
+2598,starbud,  1. menthol ,  2. earthy ,  3. chemical  
+2599,stardawg,  1. earthy ,  2. diesel ,  3. pine  
+2600,stardawg 91,  1. diesel ,  2. chemical ,  3. chestnut  
+2601,stardawg guava,  1. tropical ,  2. flowery ,  3. pungent  
+2602,starfighter,  1. sweet ,  2. citrus ,  3. flowery  
+2603,starman,  1. spicy/herbal  ,,
+2604,starry night,  1. tropical ,  2. pungent ,  3. cheese  
+2605,stella blue,  1. blueberry ,  2. pungent ,  3. pine  
+2606,stephen hawking kush,  1. earthy ,  2. woody ,  3. mint  
+2607,stevie wonder,  1. earthy ,  2. pine ,  3. flowery  
+2608,stinky pete,  1. earthy ,  2. pungent ,  3. woody  
+2609,straight as haze,  1. sweet ,  2. pungent ,  3. citrus  
+2610,strawberry,  1. strawberry ,  2. berry ,  3. sweet  
+2611,strawberry alien kush,  1. strawberry ,  2. citrus ,  3. earthy  
+2612,strawberry amnesia,  1. strawberry ,  2. flowery ,  3. sweet  
+2613,strawberry banana,  1. strawberry ,  2. sweet ,  3. berry  
+2614,strawberry blonde,  1. lemon ,  2. flowery ,  3. strawberry  
+2615,strawberry blondie,  1. strawberry ,  2. sweet ,  3. tropical  
+2616,strawberry blue,  1. berry ,  2. sweet ,  3. tropical  
+2617,strawberry cheesecake,  1. strawberry ,  2. sweet ,  3. cheese  
+2618,strawberry cough,  1. strawberry ,  2. sweet ,  3. berry  
+2619,strawberry diesel,  1. diesel ,  2. strawberry ,  3. sweet  
+2620,strawberry dream,  1. sweet ,  2. strawberry ,  3. berry  
+2621,strawberry durban diesel,  1. strawberry ,  2. diesel ,  3. sweet  
+2622,strawberry fields,  1. strawberry ,  2. sweet ,  3. berry  
+2623,strawberry frost,  1. sweet ,  2. strawberry ,  3. vanilla  
+2624,strawberry ice,  1. strawberry ,  2. sweet ,  3. earthy  
+2625,strawberry kush,  1. strawberry ,  2. sweet ,  3. earthy  
+2626,strawberry lemonade,  1. lemon ,  2. strawberry ,  3. rose  
+2627,strawberry milkshake,  1. strawberry ,  2. sweet ,  3. berry  
+2628,strawberry og,  1. strawberry ,  2. diesel ,  3. flowery  
+2629,strawberry satori,  1. strawberry ,  2. sweet ,  3. grape  
+2630,strawberry shortcake,  1. strawberry ,  2. sweet ,  3. flowery  
+2631,strawberry snow cone,  1. strawberry ,  2. diesel ,  3. pungent  
+2632,sublime,  1. spicy/herbal ,  2. woody ,  3. pine  
+2633,sugar black rose,  1. earthy ,  2. flowery ,  3. rose  
+2634,sugar cookie,  1. vanilla ,  2. sweet ,  3. skunk  
+2635,sugar kush,  1. sweet ,  2. earthy ,  3. woody  
+2636,sugar mama,  1. sweet ,  2. grapefruit ,  3. pungent  
+2637,sugar pine,  1. citrus ,  2. pine ,  3. sweet  
+2638,sugar plum,  1. berry ,  2. earthy ,  3. sweet  
+2639,joliet jake,  1. earthy ,  2. sweet ,  3. flowery  
+2640,sugar punch,  1. lemon ,  2. sweet ,  3. berry  
+2641,sugar cookie,  1. vanilla ,  2. sweet ,  3. skunk  
+2642,sugar kush,  1. sweet ,  2. earthy ,  3. woody  
+2643,sugar mama,  1. sweet ,  2. grapefruit ,  3. pungent  
+2644,sugar pine,  1. citrus ,  2. pine ,  3. sweet  
+2645,sugar plum,  1. berry ,  2. earthy ,  3. sweet  
+2646,joliet jake,  1. earthy ,  2. sweet ,  3. flowery  
+2647,sugar punch,  1. lemon ,  2. sweet ,  3. berry  
+2648,sugar shack,  1. sweet ,  2. pine ,  3. woody  
+2649,suicide girl,  1. violet ,  2. citrus ,  3. sweet  
+2650,summer breeze,  1. flowery ,  2. citrus ,  3. diesel  
+2651,summertime squeeze,  1. earthy ,  2. tea ,  3. flowery  
+2652,sumo grande,  1. citrus ,  2. pine ,  3. sweet  
+2653,sumo og kush,  1. earthy ,  2. pine ,  3. diesel  
+2654,sun ra,  1. tropical ,  2. orange ,  3. citrus  
+2655,sunburn,  1. citrus ,  2. lemon ,  3. sweet  
+2656,sundae driver,  1. berry ,  2. diesel ,  3. grape  
+2657,sunny d,  1. citrus ,  2. orange ,  3. lemon  
+2658,sunset,  1. spicy/herbal ,  2. earthy ,  3. pungent  
+2659,sunset haze,  1. citrus ,  2. flowery ,  3. sweet  
+2660,sunshine,  1. sweet ,  2. tree fruit ,  3. citrus  
+2661,sunshine 4,  1. citrus ,  2. lemon ,  3. tropical  
+2662,sunshine daydream,  1. earthy ,  2. berry ,  3. sweet  
+2663,supa don,  1. apricot ,  2. flowery ,  3. spicy/herbal  
+2664,super chronic,  1. earthy ,  2. diesel ,  3. sweet  
+2665,super blue dream,  1. tea ,  2. pineapple ,  3. berry  
+2666,super bud,  1. citrus ,  2. flowery ,  3. chemical  
+2667,super cat piss,  1. coffee ,  2. lemon  ,
+2668,super cheese,  1. woody ,  2. cheese ,  3. earthy  
+2669,super g,  1. earthy ,  2. pine ,  3. pungent  
+2670,super glu,  1. earthy ,  2. coffee ,  3. diesel  
+2671,super green crack,  1. citrus ,  2. earthy ,  3. apple  
+2672,super jack,  1. earthy ,  2. sweet ,  3. pungent  
+2673,super kush,  1. earthy ,  2. mint ,  3. pungent  
+2674,super lemon haze,  1. lemon ,  2. citrus ,  3. sweet  
+2675,super lemon og,  1. lemon ,  2. citrus ,  3. diesel  
+2676,super silver hash plant,  1. earthy ,  2. sweet  ,
+2677,super silver haze,  1. citrus ,  2. earthy ,  3. sweet  
+2678,super silver lights,  1. sweet ,  2. pine ,  3. flowery  
+2679,super snow dog,  1. citrus ,  2. earthy ,  3. lemon  
+2680,super snow lotus,  1. earthy ,  2. chemical ,  3. citrus  
+2681,super sour diesel,  1. diesel ,  2. citrus ,  3. pungent  
+2682,super sour lemon,  1. lemon ,  2. earthy ,  3. orange  
+2683,super sour og,  1. blueberry ,  2. citrus ,  3. diesel  
+2684,super sour skunk,  1. flowery ,  2. spicy/herbal ,  3. citrus  
+2685,super sour widow,  1. sweet ,  2. spicy/herbal ,  3. citrus  
+2686,super sweet,  1. sweet ,  2. flowery ,  3. honey  
+2687,supergirl,  1. earthy ,  2. spicy/herbal ,  3. pine  
+2688,superglue,  1. earthy ,  2. pine ,  3. pungent  
+2689,superman og,  1. skunk ,  2. woody ,  3. earthy  
+2690,supermax og,  1. citrus ,  2. pine ,  3. flowery  
+2691,supernatural,  1. citrus ,  2. earthy ,  3. flowery  
+2692,super sour skunk,  1. flowery ,  2. spicy/herbal ,  3. citrus  
+2693,super sour widow,  1. sweet ,  2. spicy/herbal ,  3. citrus  
+2694,super sweet,  1. sweet ,  2. flowery ,  3. honey  
+2695,supergirl,  1. earthy ,  2. spicy/herbal ,  3. pine  
+2696,superglue,  1. earthy ,  2. pine ,  3. pungent  
+2697,superman og,  1. skunk ,  2. woody ,  3. earthy  
+2698,supermax og,  1. citrus ,  2. pine ,  3. flowery  
+2699,supernatural,  1. citrus ,  2. earthy ,  3. flowery  
+2700,supernova,  1. citrus ,  2. earthy ,  3. sweet  
+2701,superstar,  1. citrus ,  2. earthy ,  3. flowery  
+2702,suver haze,  1. citrus ,  2. earthy ,  3. sweet  
+2703,suzy q,  1. earthy ,  2. pine ,  3. spicy/herbal  
+2704,swazi gold,  1. earthy ,  2. spicy/herbal ,  3. citrus  
+2705,sweet  sour cindy,  1. citrus ,  2. diesel ,  3. lemon  
+2706,sweet amnesia haze,  1. earthy ,  2. sweet ,  3. woody  
+2707,sweet baby jane,  1. sage ,  2. citrus ,  3. sweet  
+2708,sweet berry,  1. berry ,  2. sweet ,  3. blueberry  
+2709,sweet black angel,  1. berry ,  2. sweet ,  3. pine  
+2710,sweet cheese,  1. cheese ,  2. sweet ,  3. pungent  
+2711,sweet deep grapefruit,  1. citrus ,  2. sweet ,  3. berry  
+2712,sweet diesel,  1. diesel ,  2. sweet ,  3. earthy  
+2713,sweet dream,  1. earthy ,  2. berry ,  3. chemical  
+2714,sweet dreams,  1. skunk ,  2. pungent ,  3. sweet  
+2715,sweet dreams b44e9f5d217a4d5eba9365ffa0047a94,  1. ammonia ,  2. berry ,  3. chemical  
+2716,sweet harlem diesel,  1. pear ,  2. citrus ,  3. diesel  
+2717,sweet hawaiian tangie banana,  1. citrus ,  2. sweet ,  3. tropical  
+2718,sweet jane,  1. rose ,  2. citrus ,  3. sweet  
+2719,sweet jesus,  1. tropical  ,,
+2720,sweet kush,  1. sweet ,  2. lemon ,  3. pine  
+2721,sweet lafayette,  1. chestnut ,  2. earthy ,  3. pine  
+2722,sweet nina,  1. diesel ,  2. skunk ,  3. tar  
+2723,sweet pebbles,  1. sweet ,  2. berry ,  3. citrus  
+2724,sweet pure cbd,  1. berry ,  2. blueberry ,  3. sweet  
+2725,sweet skunk,  1. citrus ,  2. earthy ,  3. lemon  
+2726,sweet tooth,  1. sweet ,  2. flowery ,  3. earthy  
+2727,sweet valley kush,  1. earthy ,  2. sweet  ,
+2728,sweet and sour widow,  1. pine ,  2. citrus ,  3. earthy  
+2729,sweeties,  1. flowery ,  2. lavender ,  3. spicy/herbal  
+2730,swiss bliss,  1. earthy ,  2. citrus ,  3. grapefruit  
+2731,swiss gold,  1. citrus ,  2. diesel ,  3. earthy  
+2732,swiss,  1. pungent ,  2. woody ,  3. berry  
+2733,swiss tsunami,  1. citrus ,  2. earthy ,  3. orange  
+2734,thc bomb,  1. pine ,  2. spicy/herbal ,  3. citrus  
+2735,tjs cbd,  1. earthy ,  2. pine ,  3. flowery  
+2736,tahoe alien,  1. earthy ,  2. woody ,  3. pine  
+2737,tahoe hydro champagne,  1. flowery ,  2. butter ,  3. cheese  
+2738,tahoe hydro og,  1. lemon ,  2. earthy ,  3. diesel  
+2739,tahoe purps,  1. earthy ,  2. woody ,  3. citrus  
+2740,taliban poison,  1. diesel ,  2. pine ,  3. skunk  
+2741,tangelo,  1. orange ,  2. citrus ,  3. sweet  
+2742,tangelo kush,  1. peach ,  2. citrus ,  3. orange  
+2743,tahoe hydro champagne,  1. flowery ,  2. butter ,  3. cheese  
+2744,tahoe hydro og,  1. lemon ,  2. earthy ,  3. diesel  
+2745,tahoe purps,  1. earthy ,  2. woody ,  3. citrus  
+2746,taliban poison,  1. diesel ,  2. pine ,  3. skunk  
+2747,tangelo,  1. orange ,  2. citrus ,  3. sweet  
+2748,tangelo kush,  1. peach ,  2. citrus ,  3. orange  
+2749,tangerine,  1. orange ,  2. citrus ,  3. sweet  
+2750,tangerine dream,  1. citrus ,  2. orange ,  3. sweet  
+2751,tangerine haze,  1. citrus ,  2. sweet ,  3. orange  
+2752,tangerine kush,  1. citrus ,  2. earthy ,  3. sweet  
+2753,tangerine man,  1. citrus ,  2. orange ,  3. grapefruit  
+2754,tangerine power,  1. citrus ,  2. apricot ,  3. orange  
+2755,tangerine sunrise,  1. citrus ,  2. pineapple ,  3. sweet  
+2756,tangerine trainwreck haze,  1. citrus ,  2. earthy ,  3. flowery  
+2757,tangie,  1. citrus ,  2. orange ,  3. sweet  
+2758,tangie biscotti,  1. citrus ,  2. sweet ,  3. pungent  
+2759,tangie cookies,  1. orange ,  2. citrus ,  3. sweet  
+2760,tangie dream,  1. citrus ,  2. orange ,  3. sweet  
+2761,tangie ghost train,  1. citrus ,  2. lemon ,  3. chemical  
+2762,tangie sunrise,  1. citrus ,  2. orange ,  3. earthy  
+2763,tangier chilly,  1. citrus ,  2. orange ,  3. pine  
+2764,tangilope,  1. earthy ,  2. orange ,  3. citrus  
+2765,tango kush,  1. citrus ,  2. mango ,  3. sweet  
+2766,tardis,  1. sweet ,  2. diesel ,  3. earthy  
+2767,tarmonster,  1. chemical ,  2. grape ,  3. lavender  
+2768,tembo kush,  1. sweet ,  2. berry ,  3. earthy  
+2769,terminator og,  1. pine ,  2. sweet ,  3. pungent  
+2770,tesla,  1. pepper ,  2. chestnut ,  3. nutty  
+2771,tesla tower,  1. sweet ,  2. berry ,  3. blueberry  
+2772,thai,  1. sweet ,  2. berry ,  3. blueberry  
+2773,thai fantasy,  1. pungent ,  2. skunk ,  3. sweet  
+2774,thai girl,  1. sweet ,  2. tropical ,  3. citrus  
+2775,thai haze,  1. pine ,  2. citrus ,  3. pepper  
+2776,thai lights,  1. earthy ,  2. spicy/herbal ,  3. pine  
+2777,thai tanic,  1. woody ,  2. earthy ,  3. flowery  
+2778,the big dirty,  1. earthy ,  2. lemon  ,
+2779,the black,  1. berry ,  2. grape ,  3. citrus  
+2780,the blintz,  1. earthy ,  2. lavender ,  3. pungent  
+2781,the blood,  1. earthy ,  2. sweet ,  3. pungent  
+2782,the brotherhood,  1. earthy ,  2. flowery ,  3. lemon  
+2783,the cough,  1. pungent ,  2. earthy ,  3. diesel  
+2784,the doctor,  1. earthy ,  2. pungent ,  3. sweet  
+2785,the flav,  1. pine ,  2. woody ,  3. earthy  
+2786,the fuzz,  1. earthy  ,,
+2787,the gift,  1. citrus ,  2. pineapple ,  3. tree fruit  
+2788,the grunk,  1. grape ,  2. skunk ,  3. pungent  
+2789,the guice,  1. citrus ,  2. orange ,  3. sweet  
+2790,the doctor,  1. earthy ,  2. pungent ,  3. sweet  
+2791,the flav,  1. pine ,  2. woody ,  3. earthy  
+2792,the fuzz,  1. earthy  ,,
+2793,the gift,  1. citrus ,  2. pineapple ,  3. tree fruit  
+2794,the grunk,  1. grape ,  2. skunk ,  3. pungent  
+2795,the guice,  1. citrus ,  2. orange ,  3. sweet  
+2796,hog,  1. earthy ,  2. pungent ,  3. woody  
+2797,the lime,  1. citrus ,  2. lemon ,  3. lime  
+2798,the loops,  1. berry ,  2. grape ,  3. sweet  
+2799,the ox,  1. earthy ,  2. coffee ,  3. berry  
+2800,the one,  1. sweet ,  2. pine ,  3. pungent  
+2801,the ooze,  1. apple ,  2. spicy/herbal ,  3. sweet  
+2802,the original lemonnade,  1. citrus ,  2. lemon ,  3. tree fruit  
+2803,the real mccoy,  1. berry ,  2. citrus ,  3. pungent  
+2804,the sauce,  1. earthy ,  2. lime ,  3. citrus  
+2805,the sheriff,  1. earthy ,  2. woody  ,
+2806,the sister,  1. sweet ,  2. citrus ,  3. diesel  
+2807,the third dimension,  1. citrus ,  2. lemon ,  3. sweet  
+2808,the truth,  1. earthy ,  2. citrus ,  3. woody  
+2809,the vision,  1. citrus ,  2. earthy ,  3. spicy/herbal  
+2810,the void,  1. earthy ,  2. sweet ,  3. skunk  
+2811,the white angel,  1. pepper ,  2. pungent ,  3. citrus  
+2812,the wife,  1. tea ,  2. flowery ,  3. earthy  
+2813,the wills,  1. pine ,  2. pungent ,  3. woody  
+2814,thelonious skunk,  1. citrus ,  2. earthy ,  3. skunk  
+2815,think different,  1. spicy/herbal ,  2. orange ,  3. menthol  
+2816,thors hammer,  1. sweet ,  2. sage ,  3. pungent  
+2817,three blue kings,  1. berry ,  2. blueberry ,  3. diesel  
+2818,throwback kush,  1. earthy ,  2. woody  ,
+2819,thunderbird rose,  1. rose ,  2. berry ,  3. woody  
+2820,thunderstruck,  1. earthy ,  2. spicy/herbal ,  3. sweet  
+2821,tickle kush,  1. apple ,  2. berry ,  3. apricot  
+2822,tiger woods,  1. sweet ,  2. flowery ,  3. pungent  
+2823,tigers milk,  1. earthy ,  2. spicy/herbal ,  3. woody  
+2824,tigermelon,  1. chestnut ,  2. citrus ,  3. spicy/herbal  
+2825,tillamook strawberry,  1. strawberry ,  2. earthy ,  3. sweet  
+2826,timewreck,  1. woody ,  2. earthy ,  3. citrus  
+2827,tina,  1. pungent ,  2. tar ,  3. diesel  
+2828,tina danza,  1. nutty ,  2. earthy ,  3. citrus  
+2829,titans haze,  1. pungent ,  2. skunk ,  3. spicy/herbal  
+2830,tokyo og,  1. pine ,  2. lemon ,  3. sweet  
+2831,tommys home grown,  1. earthy ,  2. nutty ,  3. spicy/herbal  
+2832,tora bora,  1. woody ,  2. diesel ,  3. earthy  
+2833,toxic,  1. earthy ,  2. flowery ,  3. pungent  
+2834,toxic punch,  1. berry ,  2. pine ,  3. lemon  
+2835,training day,  1. earthy ,  2. woody ,  3. pine  
+2836,trainwreck,  1. earthy ,  2. lemon ,  3. pine  
+2837,tranquil elephantizer remix,  1. earthy ,  2. sweet ,  3. berry  
+2838,trap star,  1. earthy ,  2. pine ,  3. spicy/herbal  
+2839,trash,  1. chemical ,  2. mint ,  3. spicy/herbal  
+2840,toxic,  1. earthy ,  2. flowery ,  3. pungent  
+2841,toxic punch,  1. berry ,  2. pine ,  3. lemon  
+2842,training day,  1. earthy ,  2. woody ,  3. pine  
+2843,trainwreck,  1. earthy ,  2. lemon ,  3. pine  
+2844,tranquil elephantizer remix,  1. earthy ,  2. sweet ,  3. berry  
+2845,trap star,  1. earthy ,  2. pine ,  3. spicy/herbal  
+2846,trash,  1. chemical ,  2. mint ,  3. spicy/herbal  
+2847,travel joint,  1. earthy ,  2. lime ,  3. lemon  
+2848,treasure island,  1. spicy/herbal ,  2. earthy ,  3. pine  
+2849,tree of life,  1. earthy ,  2. woody ,  3. spicy/herbal  
+2850,tres dawg,  1. diesel ,  2. earthy ,  3. pine  
+2851,triangle kush,  1. earthy ,  2. pungent ,  3. sweet  
+2852,trident,  1. citrus ,  2. woody ,  3. pine  
+2853,trifecta,  1. skunk  ,,
+2854,trinity,  1. sweet ,  2. pungent ,  3. earthy  
+2855,triple cheese,  1. cheese ,  2. berry ,  3. blue cheese  
+2856,triple diesel,  1. diesel ,  2. sweet ,  3. earthy  
+2857,trix,  1. strawberry ,  2. rose ,  3. sweet  
+2858,tropic thunder,  1. pineapple ,  2. tropical ,  3. mango  
+2859,tropical tang,  1. citrus ,  2. apricot ,  3. skunk  
+2860,tropicali,  1. pineapple ,  2. tropical ,  3. sweet  
+2861,tropicana cookies,  1. citrus ,  2. orange ,  3. tropical  
+2862,tropicana punch,  1. berry ,  2. blueberry ,  3. cheese  
+2863,true face,  1. diesel ,  2. earthy ,  3. pungent  
+2864,true og,  1. earthy ,  2. pine ,  3. citrus  
+2865,true x,  1. earthy ,  2. nutty ,  3. pine  
+2866,trueberry,  1. citrus ,  2. berry ,  3. lime  
+2867,truffle butter,  1. butter ,  2. flowery ,  3. chestnut  
+2868,truffula tree,  1. sweet  ,,
+2869,truth serum,  1. spicy/herbal ,  2. citrus ,  3. earthy  
+2870,tuna kush,  1. earthy ,  2. pungent ,  3. woody  
+2871,turbo mind warp,  1. earthy ,  2. flowery ,  3. diesel  
+2872,tutankhamon,  1. skunk ,  2. citrus ,  3. flowery  
+2873,tutti frutti,  1. tropical ,  2. mango ,  3. sweet  
+2874,twista,  1. sweet ,  2. flowery ,  3. sage  
+2875,twisted citrus,  1. citrus ,  2. orange ,  3. tropical  
+2876,tyson,  1. diesel ,  2. earthy ,  3. woody  
+2877,u2 kush,  1. lavender ,  2. sweet ,  3. skunk  
+2878,uk cheese,  1. cheese ,  2. skunk ,  3. earthy  
+2879,uw,  1. berry ,  2. grape ,  3. flowery  
+2880,ultimate trainwreck,  1. tropical ,  2. mint ,  3. coffee  
+2881,ultra banana,  1. pine ,  2. spicy/herbal ,  3. ammonia  
+2882,ultra sonja,  1. cheese ,  2. tree fruit ,  3. earthy  
+2883,ultra sour,  1. lemon ,  2. pine ,  3. diesel  
+2884,ultraviolet og,  1. violet ,  2. flowery ,  3. citrus  
+2885,urkle train haze,  1. diesel ,  2. skunk ,  3. sweet  
+2886,vcdc,  1. berry ,  2. earthy ,  3. citrus  
+2887,az super sour og,  1. earthy ,  2. pungent ,  3. diesel  
+2888,vader og,  1. flowery ,  2. earthy ,  3. sweet  
+2889,ultra banana,  1. pine ,  2. spicy/herbal ,  3. ammonia  
+2890,ultra sonja,  1. cheese ,  2. tree fruit ,  3. earthy  
+2891,ultra sour,  1. lemon ,  2. pine ,  3. diesel  
+2892,ultraviolet og,  1. violet ,  2. flowery ,  3. citrus  
+2893,urkle train haze,  1. diesel ,  2. skunk ,  3. sweet  
+2894,vcdc,  1. berry ,  2. earthy ,  3. citrus  
+2895,az super sour og,  1. earthy ,  2. pungent ,  3. diesel  
+2896,vader og,  1. flowery ,  2. earthy ,  3. sweet  
+2897,valentine x,  1. earthy ,  2. citrus ,  3. pine  
+2898,valley ghash,  1. skunk ,  2. sweet ,  3. woody  
+2899,valley girl,  1. pine ,  2. sweet ,  3. lemon  
+2900,vanilla frosting,  1. vanilla ,  2. butter ,  3. chemical  
+2901,vanilla gorilla,  1. diesel ,  2. pungent ,  3. vanilla  
+2902,vanilla kush,  1. vanilla ,  2. sweet ,  3. lavender  
+2903,vanilluna,  1. blueberry ,  2. honey ,  3. lavender  
+2904,velvet bud,  1. sweet ,  2. blueberry ,  3. menthol  
+2905,velvet purps,  1. lavender ,  2. earthy ,  3. berry  
+2906,venice og,  1. pine ,  2. citrus ,  3. pungent  
+2907,venom og,  1. pine ,  2. earthy ,  3. diesel  
+2908,venus og,  1. citrus ,  2. berry ,  3. lemon  
+2909,verde electric,  1. earthy ,  2. pungent ,  3. sweet  
+2910,versace,  1. flowery ,  2. earthy ,  3. sweet  
+2911,very berry haze,  1. berry ,  2. blueberry ,  3. citrus  
+2912,very cherry,  1. berry ,  2. flowery ,  3. lemon  
+2913,violator kush,  1. earthy ,  2. pungent ,  3. woody  
+2914,violet delight,  1. sweet ,  2. berry ,  3. strawberry  
+2915,violeta,  1. earthy ,  2. chemical ,  3. citrus  
+2916,viper,  1. sweet ,  2. citrus ,  3. flowery  
+2917,voodoo,  1. tropical ,  2. pungent ,  3. nutty  
+2918,vortex,  1. citrus ,  2. sweet ,  3. earthy  
+2919,wmd,  1. berry ,  2. sweet ,  3. earthy  
+2920,wsu,  1. pine ,  2. earthy ,  3. berry  
+2921,wtf,  1. earthy ,  2. pungent ,  3. citrus  
+2922,wabanaki,  1. earthy ,  2. pungent ,  3. spicy/herbal  
+2923,waipi o hapa,  1. lime ,  2. sweet ,  3. earthy  
+2924,wakanda og,  1. apple ,  2. earthy ,  3. pungent  
+2925,waldo,  1. earthy ,  2. pungent ,  3. skunk  
+2926,walker kush,  1. earthy ,  2. citrus ,  3. pungent  
+2927,wally og,  1. earthy ,  2. flowery ,  3. butter  
+2928,walter white,  1. pine ,  2. berry ,  3. earthy  
+2929,wappa,  1. citrus ,  2. tea ,  3. spicy/herbal  
+2930,warlock,  1. earthy ,  2. flowery ,  3. sweet  
+2931,washing machine,  1. cheese ,  2. earthy ,  3. spicy/herbal  
+2932,watermelon,  1. sweet ,  2. tropical ,  3. citrus  
+2933,webster,  1. pineapple ,  2. citrus ,  3. earthy  
+2934,wedding cake,  1. sweet ,  2. vanilla ,  3. earthy  
+2935,wedding crasher,  1. berry ,  2. vanilla ,  3. sweet  
+2936,wellness og,  1. diesel ,  2. pine ,  3. lemon  
+2937,wembley,  1. grape ,  2. lavender ,  3. mango  
+2938,west coast dawg,  1. sweet ,  2. woody ,  3. nutty  
+2939,west og,  1. woody ,  2. spicy/herbal ,  3. lemon  
+2940,webster,  1. pineapple ,  2. citrus ,  3. earthy  
+2941,wedding cake,  1. sweet ,  2. vanilla ,  3. earthy  
+2942,wedding crasher,  1. berry ,  2. vanilla ,  3. sweet  
+2943,wellness og,  1. diesel ,  2. pine ,  3. lemon  
+2944,wembley,  1. grape ,  2. lavender ,  3. mango  
+2945,west coast dawg,  1. sweet ,  2. woody ,  3. nutty  
+2946,west og,  1. woody ,  2. spicy/herbal ,  3. lemon  
+2947,wet dream,  1. earthy ,  2. blue cheese ,  3. blueberry  
+2948,wheres my bike,  1. citrus ,  2. pine ,  3. lime  
+2949,whitaker blues,  1. sweet ,  2. apple ,  3. pear  
+2950,white 99,  1. pine ,  2. flowery ,  3. citrus  
+2951,white bastard,  1. sage ,  2. berry ,  3. blueberry  
+2952,white berry,  1. berry ,  2. sweet ,  3. blueberry  
+2953,white bubblegum,  1. earthy ,  2. sweet ,  3. flowery  
+2954,white buffalo,  1. flowery ,  2. earthy ,  3. woody  
+2955,white caramel cookies,  1. earthy ,  2. flowery ,  3. woody  
+2956,white castle,  1. earthy ,  2. citrus ,  3. pungent  
+2957,white cheese,  1. cheese ,  2. pungent ,  3. earthy  
+2958,white cherry truffle,  1. diesel ,  2. flowery ,  3. sweet  
+2959,white choco,  1. sweet ,  2. earthy ,  3. spicy/herbal  
+2960,white chocolate,  1. coffee ,  2. flowery ,  3. nutty  
+2961,white cookies,  1. sweet ,  2. earthy ,  3. pungent  
+2962,white dawg,  1. earthy ,  2. chemical ,  3. woody  
+2963,white dawg fire og,  1. diesel ,  2. pungent ,  3. pine  
+2964,white diesel,  1. lemon ,  2. flowery ,  3. diesel  
+2965,white domina,  1. pine  ,,
+2966,white dragon,  1. woody ,  2. earthy ,  3. pungent  
+2967,white dream,  1. sweet ,  2. earthy ,  3. flowery  
+2968,white durban,  1. earthy ,  2. sweet ,  3. woody  
+2969,white elephant,  1. sweet ,  2. earthy ,  3. berry  
+2970,white empress,  1. citrus ,  2. earthy ,  3. sweet  
+2971,white fire 43,  1. earthy ,  2. diesel ,  3. woody  
+2972,white fire alien og,  1. sweet ,  2. woody ,  3. mint  
+2973,white girl,  1. berry ,  2. citrus ,  3. tropical  
+2974,white gold,  1. pungent ,  2. earthy ,  3. citrus  
+2975,white gorilla,  1. pungent ,  2. woody ,  3. chemical  
+2976,white haze,  1. earthy ,  2. pine ,  3. lemon  
+2977,white ice,  1. citrus ,  2. lime ,  3. tea  
+2978,white knight,  1. earthy ,  2. sweet ,  3. pine  
+2979,white kryptonite,  1. sweet ,  2. pungent ,  3. berry  
+2980,white kush,  1. vanilla ,  2. earthy ,  3. spicy/herbal  
+2981,white lsd,  1. diesel ,  2. butter ,  3. nutty  
+2982,white lavender,  1. lavender ,  2. flowery ,  3. earthy  
+2983,white lemon,  1. flowery ,  2. lemon ,  3. skunk  
+2984,white lightning,  1. earthy ,  2. flowery ,  3. vanilla  
+2985,white lotus,  1. citrus ,  2. sweet ,  3. lemon  
+2986,white nightmare,  1. sweet ,  2. earthy ,  3. berry  
+2987,white og,  1. earthy ,  2. citrus ,  3. pine  
+2988,white queen,  1. earthy ,  2. sweet ,  3. diesel  
+2989,white rhino,  1. earthy ,  2. woody ,  3. sweet  
+2990,white lightning,  1. earthy ,  2. flowery ,  3. vanilla  
+2991,white lotus,  1. citrus ,  2. sweet ,  3. lemon  
+2992,white nightmare,  1. sweet ,  2. earthy ,  3. berry  
+2993,white og,  1. earthy ,  2. citrus ,  3. pine  
+2994,white queen,  1. earthy ,  2. sweet ,  3. diesel  
+2995,white rhino,  1. earthy ,  2. woody ,  3. sweet  
+2996,white romulan,  1. earthy ,  2. cheese ,  3. pungent  
+2997,white russian,  1. earthy ,  2. flowery ,  3. citrus  
+2998,white sangria,  1. woody ,  2. earthy ,  3. lemon  
+2999,white siberian,  1. woody ,  2. earthy ,  3. sweet  
+3000,white skunk,  1. woody ,  2. flowery ,  3. skunk  
+3001,white slipper,  1. pepper ,  2. blueberry ,  3. spicy/herbal  
+3002,white smurf,  1. mint ,  2. citrus ,  3. earthy  
+3003,white strawberry,  1. sweet ,  2. skunk ,  3. citrus  
+3004,white strawberry skunk,  1. berry ,  2. honey ,  3. sage  
+3005,white tahoe cookies,  1. earthy ,  2. pine ,  3. sweet  
+3006,white tygh dream,  1. earthy ,  2. grapefruit ,  3. spicy/herbal  
+3007,white urkle,  1. earthy ,  2. woody ,  3. citrus  
+3008,white walker kush,  1. earthy ,  2. woody ,  3. pungent  
+3009,white widow,  1. earthy ,  2. flowery ,  3. woody  
+3010,white zombie,  1. chemical ,  2. sweet ,  3. pungent  
+3011,whiteout,  1. citrus ,  2. earthy ,  3. flowery  
+3012,whitewalker og,  1. earthy ,  2. pungent ,  3. woody  
+3013,wild thailand,  1. berry ,  2. sweet ,  3. woody  
+3014,willie nelson,  1. earthy ,  2. pepper ,  3. spicy/herbal  
+3015,willies ghost,  1. flowery ,  2. lavender ,  3. sweet  
+3016,willy wonka,  1. sweet ,  2. earthy ,  3. woody  
+3017,willys wonder,  1. citrus ,  2. flowery ,  3. spicy/herbal  
+3018,wolfberry,  1. berry ,  2. blueberry ,  3. strawberry  
+3019,wonder haze,  1. cheese ,  2. earthy ,  3. honey  
+3020,wonder kid,  1. citrus ,  2. mint ,  3. chemical  
+3021,wonder woman,  1. earthy ,  2. pungent ,  3. sweet  
+3022,wonderwoman og,  1. menthol ,  2. citrus ,  3. woody  
+3023,wonka s bubbilicious,  1. sweet ,  2. berry ,  3. citrus  
+3024,woody kush,  1. woody ,  2. earthy ,  3. pine  
+3025,wookie,  1. citrus ,  2. earthy ,  3. woody  
+3026,wookies,  1. lavender ,  2. earthy ,  3. woody  
+3027,wreckage,  1. earthy ,  2. nutty ,  3. woody  
+3028,x files,  1. earthy ,  2. lavender ,  3. diesel  
+3029,x wing,  1. earthy ,  2. pine ,  3. sweet  
+3030,x tra chz,  1. blue cheese ,  2. cheese ,  3. pungent  
+3031,xj 13,  1. citrus ,  2. pine ,  3. lemon  
+3032,xxx 420,  1. honey ,  2. earthy ,  3. woody  
+3033,xxx og,  1. earthy ,  2. lemon ,  3. woody  
+3034,xanadu,  1. pungent ,  2. berry ,  3. butter  
+3035,x files,  1. earthy ,  2. lavender ,  3. diesel  
+3036,x wing,  1. earthy ,  2. pine ,  3. sweet  
+3037,x tra chz,  1. blue cheese ,  2. cheese ,  3. pungent  
+3038,xj 13,  1. citrus ,  2. pine ,  3. lemon  
+3039,xxx 420,  1. honey ,  2. earthy ,  3. woody  
+3040,xxx og,  1. earthy ,  2. lemon ,  3. woody  
+3041,xanadu,  1. pungent ,  2. berry ,  3. butter  
+3042,y griega,  1. citrus ,  2. earthy ,  3. sweet  
+3043,yeti og,  1. earthy ,  2. diesel ,  3. cheese  
+3044,yoda og,  1. earthy ,  2. citrus ,  3. woody  
+3045,yodas brain,  1. earthy ,  2. pungent ,  3. diesel  
+3046,yogi diesel,  1. diesel ,  2. citrus ,  3. pine  
+3047,yolo berry,  1. blueberry ,  2. grape ,  3. menthol  
+3048,yumboldt,  1. earthy ,  2. lemon ,  3. sweet  
+3049,yummy,  1. pepper ,  2. sweet ,  3. mint  
+3050,zamaldelica,  1. grapefruit ,  2. mint ,  3. sweet  
+3051,zelda,  1. sweet ,  2. citrus ,  3. diesel  
+3052,zellys gift,  1. lemon ,  2. lime ,  3. spicy/herbal  
+3053,zen,  1. lavender ,  2. flowery ,  3. earthy  
+3054,zeta sage,  1. sage ,  2. earthy ,  3. lemon  
+3055,zeus og,  1. earthy ,  2. sweet ,  3. skunk  
+3056,zkittlez,  1. sweet ,  2. grape ,  3. berry  
+3057,zombie kush,  1. earthy ,  2. berry ,  3. grape  
+3058,zombie og,  1. pungent ,  2. woody ,  3. skunk  
+3059,zoom pie,  1. berry ,  2. pungent ,  3. sweet  
+3060,alenuihaha,  1. tropical ,  2. sweet ,  3. pineapple  
