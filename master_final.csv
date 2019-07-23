@@ -128,7 +128,7 @@
 149,hybrid,animal blues, focused, uplifted, euphoric, talkative, relaxed , spasticity, pain, stress, cramps, headaches , dry mouth ,,,,,1. earthy,2. chestnut,3. sweet,9.0,animal cookies,n,n,n,n,n,n
 150,hybrid,animal blues, focused, uplifted, euphoric, talkative, relaxed , spasticity, pain, stress, cramps, headaches , dry mouth ,,,,,1. earthy,2. chestnut,3. sweet,,animal cookies,n,n,n,n,n,n
 151,hybrid,animal gas, euphoric, creative, happy, relaxed, uplifted , depression, fatigue, headaches, insomnia, nausea ,,,,,,1. diesel,2. chemical,3. earthy,4.0,chemdog 91,animal cookies,n,n,n,n,n
-152,hybrid,animal mint,,,,,,,,,,,,,,,,,,,4.0,animal cookies,thin mint gsc,n,n,n,n,n
+152,hybrid,animal mint,euphoric,giggly,happy,relaxed,talkative,,,,,,,,,,,1. mint,2. sweet,,4.0,animal cookies,thin mint gsc,n,n,n,n,n
 153,hybrid,animal sherbert, aroused, energetic, euphoric, focused, giggly ,,,,,, anxious, dizzy, dry eyes, dry mouth, paranoid ,1. earthy,2. nutty,3. pungent,1.0,animal cookies,sherbert,n,n,n,n,n
 154,indica,anonymous og, relaxed, sleepy, happy, euphoric, hungry , eye pressure, insomnia, lack of appetite, nausea, stress , paranoid, dry mouth, dizzy, dry eyes ,,1. earthy,2. citrus,3. diesel,13.0,n,n,n,n,n,n,n
 155,indica,anubis, relaxed, euphoric, uplifted, talkative, happy , stress, depression, pain, insomnia, fatigue , anxious, dry eyes, dry mouth ,,,1. grape,2. lime,3. citrus,7.0,somango,wembley,n,n,n,n,n
@@ -147,7 +147,7 @@
 176,hybrid,arctic sun, creative, relaxed, energetic, euphoric, focused , stress ,,,,,,,,,,1. ammonia,2. skunk,,,skunk no 1,white widow,n,n,n,n,n
 177,hybrid,arcticblue, relaxed, happy, creative, euphoric, aroused , stress, insomnia, pain, depression, inflammation , dry mouth, anxious, dry eyes, dizzy ,,1. blueberry,2. sweet,3. earthy,21.0,dj short blueberry,n,n,n,n,n,n
 178,hybrid,area 51, uplifted, euphoric, happy, focused, creative , stress, depression, pain, headaches, fatigue , dry mouth, dizzy, dry eyes, headache ,,1. pungent,2. sweet,3. lavender,41.0,n,n,n,n,n,n,n
-179,hybrid,argvana heat,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+179,hybrid,argvana heat,,,,,,,,,,,,,,,,,,,,white widow,critical mass cad,n,n,n,n,n
 180,indica,argyle, happy, relaxed, sleepy, uplifted, creative , stress, muscle spasms, insomnia, pain, inflammation , dizzy, dry mouth, dry eyes ,,,1. spicy/herbal,2. earthy,3. woody,29.0,afghani,sensi star,n,n,n,n,n
 181,sativa,arjans strawberry haze, energetic, uplifted, creative, talkative, happy , depression, stress, pain, lack of appetite, fatigue , dry mouth, dry eyes, paranoid, dizzy, headache ,1. strawberry,2. sweet,3. berry,115.0,northern lights 5,haze,kali mist,swiss sativa,n,n,n
 182,sativa,arjans ultra haze 1, euphoric, uplifted, creative, aroused, tingly , stress, lack of appetite, headaches, muscle spasms, fatigue , dry eyes, dry mouth, dizzy, paranoid ,,1. mint,2. pepper,3. earthy,13.0,nevilles haze,south asian sativa,n,n,n,n,n
@@ -170,7 +170,7 @@
 199,hybrid,avalon, focused, aroused, hungry, tingly, giggly , pain, nausea, stress, insomnia ,, dizzy, dry mouth, paranoid, headache ,,1. blueberry,2. earthy,3. nutty,,afghani,blueberry,n,n,n,n,n
 200,hybrid,avi, relaxed, focused, happy, creative, uplifted , depression, fatigue, inflammation, insomnia, muscle spasms , dry mouth, dry eyes, paranoid ,,,1. earthy,2. pungent,,6.0,n,n,n,n,n,n,n
 201,indica,ayahuasca purple, relaxed, sleepy, creative, hungry, happy , stress, pain, depression, insomnia, nausea , dry eyes, dry mouth, dizzy, anxious ,,1. earthy,2. woody,3. nutty,45.0,master kush,n,n,n,n,n,n
-202,hybrid,aymi,,,,,,,,,,,,,,,,,,,,cherry pie kush,n,n,n,n,n,n
+202,hybrid,aymi,,,,,,,,,,,,,,,,,,,,cherry pie kush,mendodawg,n,n,n,n,n
 203,hybrid,azure haze, relaxed, happy, uplifted, euphoric, focused , depression, stress, insomnia, pain, lack of appetite , dry mouth, dizzy, anxious, dry eyes ,,1. sweet,2. blueberry,3. berry,,blueberry,super silver haze,n,n,n,n,n
 204,indica,bb king, relaxed, hungry, euphoric, sleepy, creative , muscle spasms, stress, insomnia, inflammation, headaches , dry mouth, paranoid ,,,,1. berry,2. lemon,3. citrus,16.0,blackberry kush,n,n,n,n,n,n
 205,hybrid,b4, relaxed, uplifted, energetic, euphoric, creative , stress, depression, pain, headaches, muscle spasms , anxious, dry eyes, dry mouth ,,,1. citrus,2. lime,3. lemon,16.0,blue dream,chemdawg 4,n,n,n,n,n
@@ -222,13 +222,13 @@
 258,indica,berry white, relaxed, euphoric, happy, uplifted, creative , stress, depression, pain, lack of appetite, insomnia , dry mouth, dry eyes, anxious, paranoid, dizzy ,1. berry,2. blueberry,3. earthy,1039.0,blueberry,white widow,n,n,n,n,n
 259,hybrid,berts cookie dough, energetic, happy, hungry, uplifted ,,,,,,,,,,,,,,,2.0,girl scout cookies,n,n,n,n,n,n
 260,sativa,bertberry cheesecake, happy, energetic, creative, uplifted, talkative , depression, stress, lack of appetite, headaches, pain , anxious, dry mouth, headache, paranoid ,,1. cheese,2. berry,3. citrus,13.0,uk cheese,n,n,n,n,n,n
-262,hybrid,best friend og,,,,,,,,,,,,,,,,,,,,hells og,purple haze,n,n,n,n,n
+262,hybrid,best friend og,relaxed,sleepy,,,,inflammation,pain,stress,,,paranoid,,,,,,,,2,hells og,purple haze,n,n,n,n,n
 264,hybrid,bettie page, relaxed, happy, aroused, hungry, creative , pain, stress, fatigue, depression, muscle spasms , dry mouth, anxious, dizzy, dry eyes ,,1. cheese,2. berry,3. blueberry,36.0,n,n,n,n,n,n,n
 266,hybrid,bianca, uplifted, sleepy, relaxed, euphoric, happy , insomnia, stress, lack of appetite, depression, muscle spasms , anxious, dry mouth ,,,,1. woody,2. earthy,3. spicy/herbal,8.0,white widow,n,n,n,n,n,n
 268,hybrid,biddy early, relaxed, sleepy, euphoric, happy, creative , stress, insomnia, fatigue, pain, depression , dizzy, anxious ,,,,1. sweet,2. flowery,3. lavender,,warlock,n,n,n,n,n,n
 270,hybrid,big band, relaxed, euphoric, uplifted, happy, tingly , pain, lack of appetite, insomnia, stress, fatigue , dry eyes, dizzy, dry mouth ,,,1. sweet,2. tropical,3. woody,10.0,bubble gum,chronic,n,n,n,n,n
 272,indica,big bang, happy, sleepy, creative, tingly, talkative , pain, depression, muscle spasms, headaches, stress , dry mouth, paranoid, dry eyes, dizzy, anxious ,1. sweet,2. berry,3. lemon,75.0,skunk 1,northern lights,el niño,n,n,n,n
-274,hybrid,big bomb,,,,,,,,,,,,,,,,,,,2.0,n,n,n,n,n,n,n
+274,hybrid,big bomb,,,,,,,,,,,,,,,,,,,2.0,big bud,bomb#1,n,n,n,n,n
 276,indica,big bud, relaxed, sleepy, happy, focused, uplifted , stress, pain, depression, lack of appetite, insomnia , dry mouth, dry eyes, paranoid, dizzy, headache ,1. woody,2. pine,3. earthy,303.0,afghani,northern lights,skunk 1,n,n,n,n
 277,indica,big bull, focused, aroused, relaxed, euphoric, hungry , lack of appetite ,,,,, dry mouth ,,,,,1. earthy,2. woody,3. nutty,3.0,black domina,early pearl,skunk no 1,n,n,n,n
 278,hybrid,big holy nina, relaxed, talkative, creative, euphoric, happy , stress, lack of appetite, depression, fatigue, insomnia , dry mouth ,,,,,1. lime,2. earthy,3. honey,,n,n,n,n,n,n,n
@@ -238,7 +238,7 @@
 282,hybrid,big sky og, euphoric, tingly, energetic, talkative, relaxed , depression, pain, lack of appetite, headaches, inflammation , paranoid, anxious, dry mouth, dry eyes, dizzy ,1. citrus,2. pungent,3. diesel,18.0,n,n,n,n,n,n,n
 283,hybrid,big smooth, relaxed, happy, euphoric, uplifted, hungry , stress, depression, pain, muscle spasms, fatigue , anxious, dry eyes, dry mouth, headache, dizzy ,1. sweet,2. blueberry,3. berry,47.0,cookies and cream,n,n,n,n,n,n
 284,sativa,big sur holy bud, happy, euphoric, uplifted, creative, relaxed , stress, depression, pain, fatigue, muscle spasms , dry mouth, dry eyes ,,,,1. pine,2. earthy,3. spicy/herbal,30.0,n,n,n,n,n,n,n
-285,hybrid,big tooth,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+285,hybrid,big tooth,,,,,,,,,,,,,,,,,,,,afghan,hawaiian sativa,nepalese hash,n,n,n,n
 286,indica,big white, relaxed, uplifted, sleepy, euphoric, happy , pain, stress, lack of appetite, insomnia, headaches , dry eyes, dry mouth, headache, anxious, paranoid ,1. diesel,2. flowery,3. earthy,25.0,the white,big bud,n,n,n,n,n
 287,indica,big wreck, relaxed, sleepy, euphoric, happy, tingly , stress, pain, insomnia, cramps, nausea , dry mouth, dry eyes, dizzy, headache, paranoid ,1. earthy,2. pungent,3. flowery,,big bud,trainwreck,n,n,n,n,n
 288,indica,biker kush, relaxed, happy, euphoric, sleepy, giggly , insomnia, stress, depression, lack of appetite, inflammation , dry mouth, dry eyes, dizzy, headache, paranoid ,1. lemon,2. spicy/herbal,3. earthy,14.0,hells og,lucifer og,n,n,n,n,n
@@ -267,7 +267,7 @@
 311,hybrid,black label, creative, euphoric, relaxed, happy, hungry , eye pressure, lack of appetite, depression, fatigue, stress , dizzy ,,,,,1. diesel,2. earthy,3. pungent,3.0,n,n,n,n,n,n,n
 313,indica,black label kush, happy, relaxed, sleepy, euphoric, uplifted , insomnia, stress, pain, depression, headaches , dry mouth, dry eyes, dizzy, headache, paranoid ,1. woody,2. earthy,3. spicy/herbal,,n,n,n,n,n,n,n
 315,indica,black lime special reserve, relaxed, euphoric, happy, sleepy, hungry , stress, pain, insomnia, depression, cramps , dry mouth, dry eyes, headache, anxious, dizzy ,1. lime,2. earthy,3. citrus,118.0,northern lights,purple kush,n,n,n,n,n
-317,hybrid,black lotus,,,,,,,,,,,,,,,,,,,4.0,snow lotus,n,n,n,n,n,n
+317,hybrid,black lotus,euphoric,happy,relaxed,sleepy,,depression,inflammation,insomnia,pain,,,,,,,,,,4.0,snow lotus,n,n,n,n,n,n
 319,hybrid,black magic, happy, relaxed, euphoric, sleepy, uplifted , depression, pain, cramps, inflammation, insomnia , dry eyes, dry mouth ,,,,1. earthy,,,2.0,buckeye purple,cherry sauce,n,n,n,n,n
 321,indica,black magic kush, relaxed, happy, euphoric, sleepy, creative , insomnia, stress, depression, muscle spasms, headaches , dry mouth, paranoid, dry eyes ,,,1. sweet,2. berry,3. blueberry,16.0,n,n,n,n,n,n,n
 323,indica,black mamba, relaxed, sleepy, happy, euphoric, uplifted , stress, insomnia, pain, depression, lack of appetite , dry mouth, dry eyes, anxious, dizzy, headache ,1. sweet,2. grape,3. pungent,175.0,granddaddy purple,black domina,n,n,n,n,n
@@ -298,7 +298,7 @@
 350,indica,blackberry x blueberry, relaxed, happy, sleepy, euphoric, uplifted , pain, inflammation, stress, depression, insomnia , dry mouth, dry eyes, dizzy, headache, paranoid ,1. blueberry,2. berry,3. skunk,32.0,blackberry,dj short blueberry,n,n,n,n,n
 351,indica,blackwater, relaxed, sleepy, happy, euphoric, uplifted , stress, pain, insomnia, depression, lack of appetite , dry mouth, dry eyes, paranoid, anxious, dizzy ,1. earthy,2. berry,3. woody,542.0,mendocino purps,sfv og kush,n,n,n,n,n
 352,sativa,blaze, euphoric, uplifted, talkative, creative, tingly , stress, depression, inflammation, insomnia, spasticity , dry mouth, anxious, dry eyes, headache ,,1. spicy/herbal,2. earthy,3. woody,14.0,blueberry,haze,n,n,n,n,n
-353,hybrid,blessings og,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+353,hybrid,blessings og,,,,,,,,,,,,,,,,,,,,allure og,joseph og,n,n,n,n,n
 354,hybrid,bleugenius, relaxed, tingly ,,,, headaches ,,,,,,,,,,1. woody,,,1.0,n,n,n,n,n,n,n
 355,hybrid,blissful wizard, relaxed, euphoric, happy, uplifted, focused , pain, depression, stress, muscle spasms, inflammation , dry mouth, paranoid, dry eyes, anxious, headache ,1. earthy,2. sweet,3. pine,85.0,girl scout cookies,n,n,n,n,n,n
 356,hybrid,blizzard bush, creative, energetic, euphoric, focused, happy , depression, fatigue, inflammation, pain, stress , dry eyes, dry mouth ,,,,1. earthy,2. flowery,3. nutty,1.0,stardawg,n,n,n,n,n,n
@@ -366,7 +366,7 @@
 429,hybrid,blue sherbert, euphoric, happy, relaxed, uplifted, creative , depression, stress, insomnia, lack of appetite, fatigue , dry eyes, dry mouth, headache, paranoid ,,1. blueberry,2. citrus,3. sweet,14.0,blue cookies,sherbert,n,n,n,n,n
 431,hybrid,blue sky, happy, euphoric, relaxed, creative, uplifted , insomnia, seizures, depression, headaches, nausea , dry mouth, dizzy, anxious, headache, paranoid ,1. earthy,2. sweet,3. blueberry,38.0,lsd,rocky mountain blueberry,n,n,n,n,n
 433,indica,blue steel, relaxed, euphoric, happy, uplifted, sleepy , pain, stress, nausea, depression, lack of appetite , dizzy, dry mouth, dry eyes ,,,1. blueberry,2. earthy,3. berry,22.0,blueberry og,starfighter,n,n,n,n,n
-435,hybrid,blue tara,,,,,,,,,,,,,,,,,,,,snow lotus,n,n,n,n,n,n
+435,hybrid,blue tara,,,,,,,,,,,,,,,,,,,,snow lotus,bubbashine,n,n,n,n,n
 437,hybrid,blue thai, relaxed, happy, uplifted, energetic, euphoric , fatigue, stress, depression, insomnia, pain , dry mouth ,,,,,1. earthy,2. woody,3. citrus,13.0,blueberry,n,n,n,n,n,n
 438,hybrid,blue trane,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
 439,hybrid,blue treat, relaxed, uplifted, happy, focused, hungry , stress, depression, headaches, insomnia, pain , dry eyes ,,,,,1. blueberry,2. earthy,3. berry,8.0,blueberry,dutch treat,n,n,n,n,n
@@ -418,7 +418,7 @@
 493,hybrid,booger, happy, uplifted, energetic, creative, relaxed , depression, stress, pain, fatigue, inflammation , dry mouth, paranoid, anxious, headache, dry eyes ,1. sweet,2. berry,3. pungent,47.0,strawberry cough,bubba kush,n,n,n,n,n
 494,hybrid,boombaye, aroused, creative, energetic, focused, happy ,,,,,, dizzy, dry eyes, dry mouth ,,,1. tea,2. woody,,2.0,mickey kush,n,n,n,n,n,n
 495,hybrid,bootlegger, happy, relaxed, euphoric, uplifted, aroused , stress, depression, fatigue, headaches, nausea , dry mouth, paranoid, dry eyes, dizzy ,,1. earthy,2. pungent,3. berry,5.0,ak-47,gupta kush,n,n,n,n,n
-496,hybrid,bootylicious, happy, talkative, uplifted ,,,,,,,,,,,,,1. earthy,2. sweet,,7.0,cookies and cream,n,n,n,n,n,n
+496,hybrid,bootylicious, happy, talkative, uplifted ,,,,,,,,,,,,,1. earthy,2. sweet,,7.0,cookies and cream,constantine,n,n,n,n,n
 497,hybrid,bordello, creative, aroused, relaxed, euphoric, sleepy , stress, pain, depression, inflammation, insomnia , dry mouth, paranoid, dry eyes, anxious, dizzy ,1. cheese,2. earthy,3. sweet,84.0,n,n,n,n,n,n,n
 498,hybrid,boss hogg, happy, relaxed, euphoric, giggly, hungry , stress, depression, pain, inflammation, insomnia , dry mouth, dry eyes, paranoid, anxious, headache ,1. earthy,2. pine,3. citrus,65.0,chemdawg 4,n,n,n,n,n,n
 499,hybrid,boss og, relaxed, happy, uplifted, creative, euphoric , depression, stress, pain, headaches, fatigue , dry mouth, anxious, headache, dry eyes, dizzy ,1. diesel,2. earthy,3. pine,55.0,og kush,n,n,n,n,n,n
@@ -429,10 +429,10 @@
 504,indica,brand x, euphoric, talkative, giggly, sleepy, happy , pain, insomnia, stress, depression, lack of appetite , dry eyes, dry mouth, paranoid ,,,1. pine,2. earthy,3. tar,63.0,n,n,n,n,n,n,n
 505,indica,brandywine, relaxed, uplifted, hungry, creative, euphoric , stress, pain, lack of appetite, depression, insomnia , headache, dry eyes, dry mouth, anxious, dizzy ,1. earthy,2. flowery,3. berry,26.0,pink champagne,n,n,n,n,n,n
 506,sativa,brazil amazonia, focused, uplifted, relaxed, energetic, euphoric , depression, stress, eye pressure, headaches, inflammation , dry mouth ,,,,,1. spicy/herbal,2. berry,3. citrus,7.0,n,n,n,n,n,n,n
-507,hybrid,brian berry black currant,,,,,,,,,,,,,,,,,,,,brian berry cough,n,n,n,n,n,n
+507,hybrid,brian berry black currant,,,,,,,,,,,,,,,,,,,,brian berry cough,african queen,tangle banana surprise,lemon sour diesel,n,n,n
 508,hybrid,brian berry citrus blend,,,,,,,,,,,,,,,,,,,1.0,brian berry cough,n,n,n,n,n,n
 509,hybrid,brian berry cough, euphoric, happy, uplifted, focused, relaxed , depression, muscle spasms, fatigue, stress, nausea , anxious, dry mouth, paranoid, dry eyes, dizzy ,1. strawberry,2. berry,3. sweet,35.0,strawberry cough,space queen,n,n,n,n,n
-510,hybrid,brian berry honey lemon,,,,,,,,,,,,,,,,,,,,quantum kush,n,n,n,n,n,n
+510,hybrid,brian berry honey lemon,,,,,,,,,,,,,,,,,,,,quantum kush,brian berry surprise,n,n,n,n,n
 511,indica,bright fire, hungry, relaxed, uplifted, euphoric, creative , stress, depression, pain, nausea, muscle spasms , dry mouth, dizzy, dry eyes ,,,1. pungent,2. earthy,3. chestnut,,fire og,n,n,n,n,n,n
 512,hybrid,bright moments, uplifted, energetic, euphoric, focused, tingly , insomnia, muscle spasms, pain, stress ,, dry mouth, anxious, headache ,,,1. flowery,2. woody,3. earthy,5.0,grape stomper,n,n,n,n,n,n
 513,hybrid,broke diesel, uplifted, happy, relaxed, euphoric, creative , nausea, stress, insomnia, pain ,, dry eyes, headache ,,,,,,,,n,n,n,n,n,n,n
@@ -489,7 +489,7 @@
 572,indica,chr super og, relaxed, giggly, happy, hungry, uplifted , headaches, insomnia, eye pressure, lack of appetite, muscle spasms , paranoid, dizzy, dry eyes, dry mouth, anxious ,1. apple,2. diesel,3. grape,12.0,skywalker og,tahoe og kush,larry og,n,n,n,n
 573,hybrid,csg, uplifted, euphoric, giggly, happy, relaxed , depression, fatigue, headaches, inflammation, nausea , anxious, dizzy, dry mouth ,,,1. citrus,2. diesel,3. lavender,3.0,gsc,n,n,n,n,n,n
 574,hybrid,cabbage patch, energetic, happy, uplifted, creative, focused , stress, depression, muscle spasms, fatigue, pain , anxious ,,,,,1. earthy,2. sweet,3. berry,22.0,cherry pie,durban poison,n,n,n,n,n
-575,hybrid,caboose,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+575,hybrid,caboose,,,,,,,,,,,,,,,,,,,,trainwreck,salmon creek big bud,n,n,n,n,n
 576,hybrid,cackleberry, happy, uplifted, focused, sleepy, euphoric , depression, stress, spasticity, fatigue, inflammation , dry eyes, dry mouth, dizzy ,,,1. grape,2. ammonia,3. chemical,11.0,cherry og,stardawg,n,n,n,n,n
 577,indica,cactus, relaxed, creative, happy, uplifted, sleepy , pain, depression, insomnia, stress, lack of appetite , dry eyes, dry mouth, dizzy, paranoid, anxious ,1. earthy,2. sweet,3. tea,107.0,northern lights,afghani,n,n,n,n,n
 578,hybrid,cactus cooler, happy, uplifted, euphoric, creative, focused , headaches, pain, stress, depression, inflammation , dry mouth, dry eyes, anxious, headache ,,1. citrus,2. earthy,3. orange,18.0,blue dream,og kush,n,n,n,n,n
@@ -553,10 +553,9 @@
 652,hybrid,chem berry diesel, happy, relaxed, uplifted ,,,,,,,, dry mouth ,,,,,1. citrus,2. strawberry,,1.0,n,n,n,n,n,n,n
 653,hybrid,chem beyond diesel cbd, giggly, happy, hungry ,,,,,,,, dry eyes, dry mouth ,,,,,,,,chemdawg,n,n,n,n,n,n
 654,hybrid,chem crush, energetic, happy, talkative, creative, focused , depression, fatigue, stress, lack of appetite, pain , dry mouth ,,,,,1. pungent,2. earthy,3. sweet,,orange crush,n,n,n,n,n,n
-655,indica,chem d.o.g., relaxed, sleepy, happy, euphoric, hungry , insomnia, pain, stress, depression, lack of appetite , dry mouth, dizzy, paranoid, headache, dry eyes ,1. earthy,2. diesel,3. citrus,27.0,chemdawg,og kush,n,n,n,n,n
 656,hybrid,chem jack, creative, happy, talkative, uplifted, aroused , fatigue, depression, inflammation, insomnia, muscle spasms , dry eyes, dry mouth ,,,,1. earthy,2. flowery,3. pine,3.0,chemdawg,jack herer,n,n,n,n,n
 657,hybrid,chem jong ill, uplifted, creative, energetic, euphoric, happy ,,,,,, dry mouth ,,,,,,,,3.0,chemdawg 4,n,n,n,n,n,n
-658,hybrid,chem kesey,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+658,hybrid,chem kesey,,,,,,,,,,,,,,,,,,,,91 skunk va,88 g13 hashplant,n,n,n,n,n
 659,indica,chem scout, relaxed, focused, sleepy, tingly, hungry , stress, depression, lack of appetite, pain, insomnia , dry mouth, dry eyes, dizzy, headache, paranoid ,1. earthy,2. skunk,3. sweet,49.0,chemdawg 91,girl scout cookies,n,n,n,n,n
 660,hybrid,chem valley kush, happy, uplifted, energetic, talkative, hungry , stress, pain, depression, lack of appetite, insomnia , anxious, dry mouth, dry eyes, dizzy, paranoid ,1. earthy,2. woody,3. pine,85.0,chemdawg,sfv og kush,n,n,n,n,n
 661,sativa,chems sister, creative, happy, euphoric, focused, relaxed , depression, lack of appetite, stress, pain, fatigue , anxious, dry mouth, paranoid, dry eyes, dizzy ,1. chemical,2. diesel,3. citrus,18.0,chemdawg,n,n,n,n,n,n
@@ -574,7 +573,7 @@
 673,hybrid,cherry diesel, euphoric, relaxed, happy, uplifted, aroused , depression, stress, pain, lack of appetite, nausea , dry mouth, dry eyes, anxious, paranoid, headache ,1. diesel,2. berry,3. sweet,149.0,cherry kush,n,n,n,n,n,n
 674,hybrid,cherry durban poison, euphoric, creative, happy, energetic, aroused , depression, fatigue, pain, headaches, stress , dry eyes, dry mouth, dizzy, anxious, headache ,1. sweet,2. berry,3. citrus,19.0,durban poison,n,n,n,n,n,n
 675,hybrid,cherry fire, creative, euphoric, happy, hungry, relaxed , depression, lack of appetite, muscle spasms, pain, stress , dry mouth, paranoid ,,,,1. citrus,2. flowery,3. strawberry,3.0,cherry pie,fire og,n,n,n,n,n
-676,hybrid,cherry fuel, happy, relaxed ,,,,,,,,,,,,,,1. citrus,,,1.0,buddhas sister,n,n,n,n,n,n
+676,hybrid,cherry fuel, happy, relaxed ,,,,,,,,,,,,,,1. citrus,,,1.0,buddhas sister,petrol,n,n,n,n,n
 677,hybrid,cherry grapefruit, creative, happy, focused, relaxed, uplifted , lack of appetite, stress, cramps, depression, fatigue , dry mouth ,,,,,1. apple,2. apricot,3. earthy,4.0,cherry kush,grapefruit,n,n,n,n,n
 678,indica,cherry kola, relaxed, sleepy, euphoric, happy, talkative , stress, depression, insomnia, pain, lack of appetite , dry mouth, dry eyes, dizzy, paranoid, anxious ,1. earthy,2. berry,3. tree fruit,60.0,afghani,n,n,n,n,n,n
 679,hybrid,cherry kush, relaxed, happy, focused, sleepy, uplifted , stress, depression, insomnia, fatigue, pain , dry mouth, dizzy, paranoid, anxious, dry eyes ,1. sweet,2. berry,3. earthy,330.0,purple afghani,og kush,n,n,n,n,n
@@ -596,7 +595,7 @@
 703,hybrid,chiquita banana, relaxed, happy, sleepy, euphoric, uplifted , pain, insomnia, stress, lack of appetite, headaches , dry mouth, dry eyes, paranoid ,,,1. tropical,2. sweet,3. tree fruit,40.0,og kush,n,n,n,n,n,n
 704,hybrid,chloe, euphoric, creative, uplifted, energetic, happy , depression, insomnia, pain, stress, inflammation , dry eyes, dizzy ,,,,1. earthy,2. pepper,3. citrus,34.0,n,n,n,n,n,n,n
 705,hybrid,chocoholic, relaxed, sleepy, uplifted, happy, talkative ,,,,,, dry eyes, dry mouth ,,,,1. vanilla,,,,n,n,n,n,n,n,n
-706,hybrid,chocolate cheesecake, relaxed, uplifted ,,,,,,,,,,,,,,1. butter,2. cheese,3. flowery,2.0,n,n,n,n,n,n,n
+706,hybrid,chocolate cheesecake, relaxed, uplifted ,,,,,,,,,,,,,,1. butter,2. cheese,3. flowery,2.0,chocolope,russian ghost ruderalis,legacy skunk,n,n,n,n
 707,indica,chocolate chunk, sleepy, relaxed, euphoric, happy, uplifted , pain, stress, insomnia, headaches, muscle spasms , dry mouth, dry eyes, dizzy, paranoid, anxious ,1. coffee,2. earthy,3. butter,193.0,afghani,n,n,n,n,n,n
 708,sativa,chocolate diesel, happy, energetic, uplifted, euphoric, creative , stress, fatigue, pain, inflammation, depression , dizzy, dry mouth, anxious, dry eyes, paranoid ,1. diesel,2. earthy,3. flowery,55.0,sour diesel,chocolate thai,n,n,n,n,n
 709,hybrid,chocolate drop, euphoric, giggly, happy, relaxed, uplifted , depression, stress, insomnia ,,,,,,,,1. earthy,2. vanilla,,2.0,chocolate kush,lowryder,n,n,n,n,n
@@ -605,7 +604,7 @@
 712,hybrid,chocolate hashberry, relaxed, happy, hungry, sleepy, creative , stress, lack of appetite, pain, inflammation, muscle spasms , dry mouth, headache, dry eyes, paranoid, anxious ,1. berry,2. earthy,3. flowery,98.0,chocolate kush,blackberry kush,n,n,n,n,n
 713,indica,chocolate kush, relaxed, euphoric, hungry, happy, uplifted , stress, lack of appetite, muscle spasms, fatigue, nausea , dry mouth, dizzy, headache, dry eyes, anxious ,1. earthy,2. woody,3. diesel,72.0,mazar i sharif,n,n,n,n,n,n
 714,hybrid,chocolate lava, energetic, focused, happy, talkative ,, cramps, depression, headaches, stress ,,,,,,,1. earthy,,,1.0,chocolate kush,hellfire og,n,n,n,n,n
-715,indica,chocolate meringue,,,,,,,,,,,,,,,,,,,,chocolate kush,n,n,n,n,n,n
+715,indica,chocolate meringue,,,,,,,,,,,,,,,,,,,,chocolate kush,lemon tree,n,n,n,n,n
 716,hybrid,chocolate mint og, relaxed, sleepy, euphoric, happy, tingly , insomnia, pain, depression, stress, headaches , dry mouth, anxious, dizzy ,,,1. mint,2. vanilla,3. earthy,12.0,emerald og,granddaddy purple,n,n,n,n,n
 717,indica,chocolate og, euphoric, relaxed, happy, giggly, uplifted , depression, stress, pain, lack of appetite, fatigue , dry mouth, dry eyes, dizzy ,,,1. earthy,2. nutty,3. sweet,24.0,true og,n,n,n,n,n,n
 718,hybrid,chocolate rain, creative, euphoric, happy, relaxed, uplifted , depression, headaches, lack of appetite, nausea, pain ,,,,,,1. coffee,2. sweet,3. vanilla,4.0,chocolope,n,n,n,n,n,n
@@ -615,7 +614,6 @@
 722,sativa,chocolate thunder, happy, creative, uplifted, focused, energetic , stress, depression, fatigue, headaches, inflammation , dry mouth, paranoid ,,,,1. honey,2. nutty,3. apricot,11.0,chocolope,alaskan thunder fuck,n,n,n,n,n
 723,hybrid,chocolate tonic,,,,,,,,,,,,,,,,,,,1.0,chocolate kush,cannatonic,n,n,n,n,n
 724,hybrid,chocolony,,,,,,,,,,,,,,,,,,,1.0,the one,white choco,n,n,n,n,n
-725,hybrid,chocolony,,,,,,,,,,,,,,,,,,,,the one,white choco,n,n,n,n,n
 726,hybrid,chocolope kush, relaxed, euphoric, creative, happy, uplifted , stress, depression, inflammation, pain, insomnia , dry mouth, dry eyes, dizzy, headache, paranoid ,1. earthy,2. pungent,3. woody,137.0,chocolope,kosher kush,n,n,n,n,n
 727,hybrid,chong star, relaxed, euphoric, focused, tingly, happy , stress, pain, depression, headaches, lack of appetite ,,,,,,1. honey,2. earthy,3. skunk,25.0,n,n,n,n,n,n,n
 728,hybrid,chronic, relaxed, uplifted, happy, euphoric, tingly , stress, depression, seizures, pain, headaches , dry mouth, dry eyes, paranoid, anxious, dizzy ,1. earthy,2. pungent,3. spicy/herbal,173.0,northern lights,ak-47,skunk 1,n,n,n,n
@@ -648,21 +646,21 @@
 763,hybrid,cloudcap, happy, hungry, relaxed, tingly, uplifted , depression, stress ,,,,,,,,,1. berry,2. coffee,3. earthy,3.0,pre-98 bubba kush,3 kings,huckleberry,n,n,n,n
 764,indica,club 69, relaxed, sleepy, hungry ,,, depression, pain, stress ,,, dizzy, dry eyes, dry mouth ,,,1. flowery,2. grape,3. strawberry,,n,n,n,n,n,n,n
 765,hybrid,cluster bomb, focused, euphoric, hungry, uplifted, relaxed , stress, headaches, inflammation, lack of appetite, pain , dizzy, dry eyes, dry mouth ,,,1. citrus,2. sweet,3. tropical,11.0,cinderella 99,skunk 1,n,n,n,n,n
-766,hybrid,cluster funk,,,,,,,,,,,,,,,,,,,1.0,mr nice,n,n,n,n,n,n
-767,hybrid,cobbler,,,,,,,,,,,,,,,,,,,1.0,n,n,n,n,n,n,n
+766,hybrid,cluster funk,,,,,,,,,,,,,,,,,,,1.0,mr nice,91 skunk va,n,n,n,n,n
+767,hybrid,cobbler,,,,,,,,,,,,,,,,,,,1.0,tangistan r4,charlotte’s cherries,n,n,n,n,n
 768,hybrid,cobra lips, creative, focused, talkative, uplifted ,, depression, headaches, muscle spasms, pain, stress ,,,,,,1. chemical,2. pear,,1.0,chemdog,appalachia,n,n,n,n,n
-769,hybrid,cocoa kush,,,,,,,,,,,,,,,,,,,,dj short blueberry,n,n,n,n,n,n
+769,hybrid,cocoa kush,,,,,,,,,,,,,,,,,,,,dj short blueberry,blueberry sativa,n,n,n,n,n
 770,hybrid,coconut oil, aroused, energetic, relaxed, giggly, tingly , depression, fatigue, stress, inflammation, insomnia , dry eyes, dry mouth, headache ,,,1. flowery,2. pungent,3. tropical,6.0,sfv og,n,n,n,n,n,n
 771,hybrid,cold creek kush, happy, relaxed, euphoric, uplifted, sleepy , pain, stress, depression, muscle spasms, insomnia , dry mouth, dry eyes, paranoid, anxious, headache ,1. flowery,2. woody,3. sweet,70.0,mk ultra,chemdawg 91,n,n,n,n,n
 772,hybrid,colin og s1, creative, euphoric, happy, relaxed, focused , depression, headaches, nausea, stress ,, dry eyes, dry mouth ,,,,1. diesel,2. earthy,3. skunk,2.0,the white,sour diesel,flo,n,n,n,n
-773,hybrid,collie man kush,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+773,hybrid,collie man kush,,,,,,,,,,,,,,,,,,,,og kush,asphalt plant,n,n,n,n,n
 774,sativa,colombian gold, happy, euphoric, relaxed, creative, uplifted , stress, depression, pain, fatigue, insomnia , dry mouth, dry eyes, anxious, dizzy, headache ,1. citrus,2. earthy,3. lemon,161.0,south american,n,n,n,n,n,n
 775,sativa,colombian mojito, talkative, relaxed, euphoric, happy, focused , pain, inflammation, depression, stress, fatigue , dry mouth, dry eyes, anxious, dizzy, paranoid ,1. citrus,2. pine,3. mint,14.0,n,n,n,n,n,n,n
 776,indica,colorado bubba, creative, relaxed, happy, sleepy, focused , depression, muscle spasms, pain, stress, lack of appetite , dry mouth, anxious, dry eyes ,,,1. blue cheese,2. nutty,3. pine,10.0,northern lights 5,og kush,n,n,n,n,n
 777,hybrid,colorado chem, uplifted, energetic, happy, creative, focused , pain, stress, depression, nausea, inflammation , anxious, dry mouth, paranoid, dizzy, dry eyes ,1. pine,2. mint,3. menthol,26.0,n,n,n,n,n,n,n
 778,hybrid,colorado chem rbx3,,,,,,,,,,,,,,,,,,,,chemdog 4,chemdog 91,chemdog,i-95,original glue,n,n
 779,indica,colorado clementines, relaxed, euphoric, happy, sleepy, uplifted , stress, depression, pain, insomnia, lack of appetite , dry mouth ,,,,,1. citrus,2. lemon,3. spicy/herbal,11.0,big white,agent orange,n,n,n,n,n
-780,hybrid,comfortably dumb,,,,,,,,,,,,,,,,,,,1.0,n,n,n,n,n,n,n
+780,hybrid,comfortably dumb,,,,,,,,,,,,,,,,,,,1.0,firestorm,dark side of the moon,n,n,n,n,n
 781,indica,commerce city kush, relaxed, happy, euphoric, sleepy, uplifted , stress, depression, insomnia, pain, headaches , dry eyes, dry mouth, dizzy ,,,1. earthy,2. diesel,3. flowery,23.0,chemdawg 4,rare dankness 1,n,n,n,n,n
 782,hybrid,concord cream, euphoric, hungry, talkative, uplifted ,, eye pressure, fatigue, stress ,,, dizzy, dry mouth ,,,,1. earthy,2. flowery,3. grape,1.0,cookies and cream,grape bubba,n,n,n,n,n
 783,hybrid,concord grape blockhead, creative, euphoric, giggly, happy, relaxed , cramps, depression, insomnia, lack of appetite, muscle spasms , dry eyes, dry mouth ,,,,1. grape,2. sweet,,,sweet tooth,n,n,n,n,n,n
@@ -682,7 +680,7 @@
 801,hybrid,cookies and dream, euphoric, happy, relaxed, hungry, tingly , lack of appetite, cramps, stress, depression, pain , dry mouth, dry eyes, anxious ,,,1. citrus,2. pungent,3. sweet,49.0,blue dream,girl scout cookies,n,n,n,n,n
 803,indica,copper kush, relaxed, euphoric, happy, uplifted, tingly , cramps, depression, headaches, insomnia, pain , dizzy, dry eyes, dry mouth ,,,1. earthy,2. pine,3. pungent,9.0,frankenstein,lemon og kush,n,n,n,n,n
 805,indica,corleone kush, relaxed, euphoric, uplifted, tingly, aroused , stress, pain, insomnia, lack of appetite, depression , dry mouth, paranoid, dry eyes, anxious, headache ,1. spicy/herbal,2. earthy,3. pungent,114.0,pre-98 bubba kush,sfv og kush,n,n,n,n,n
-807,hybrid,corleone kush the don cut,,,,,,,,,,,,,,,,,,,,pre-98 bubba kush,sfv og,n,n,n,n,n
+807,hybrid,corleone kush the don cut,happy,aroused,relaxed,sleepy,euphoric,pain,headaches,inflammation,muscle spasms,stress,dizzy,dry mouth,,,,,,,,pre-98 bubba kush,sfv og,n,n,n,n,n
 808,indica,cornbread, relaxed, happy, sleepy, hungry, euphoric , insomnia, stress, pain, depression, lack of appetite , dry mouth, dry eyes, dizzy, anxious, paranoid ,1. spicy/herbal,2. woody,3. earthy,127.0,bubba kush,n,n,n,n,n,n
 809,sativa,cosmic collision, uplifted, talkative, euphoric, giggly, relaxed , depression, stress, fatigue, insomnia, pain , dry eyes, dizzy, dry mouth, anxious ,,1. sweet,2. woody,3. citrus,14.0,n,n,n,n,n,n,n
 810,hybrid,cotton candy kush, relaxed, happy, uplifted, euphoric, creative , stress, depression, pain, insomnia, nausea , dry mouth, dry eyes, paranoid, anxious, dizzy ,1. sweet,2. lavender,3. flowery,825.0,lavender,power plant,n,n,n,n,n
@@ -726,7 +724,7 @@
 850,sativa,dj andy williams, creative, energetic ,,,,,,,,,,,,,,,,,,blue dream,super lemon haze,n,n,n,n,n
 852,indica,dj short blueberry, relaxed, sleepy, happy, euphoric, uplifted , stress, pain, depression, insomnia, inflammation , dry mouth, dry eyes, anxious, dizzy, headache ,1. blueberry,2. sweet,3. berry,272.0,afghani,purple thai,thai,n,n,n,n
 854,hybrid,dj smoke, euphoric, aroused, happy, giggly, relaxed ,,,,,, dry eyes, dry mouth ,,,,1. sweet,2. citrus,3. lavender,3.0,n,n,n,n,n,n,n
-856,hybrid,dagwood,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+856,hybrid,dagwood,,,,,,,,,,,,,,,,,,,,shoreline skunk,whitaker blues,n,n,n,n,n
 858,hybrid,dairy queen, happy, energetic, euphoric, relaxed, focused , stress, depression, pain, lack of appetite, fatigue , anxious, dry mouth, dry eyes, dizzy, headache ,1. cheese,2. sweet,3. berry,186.0,cheese,space queen,n,n,n,n,n
 860,sativa,damn sour, hungry, happy, creative, euphoric, focused , pain, depression, lack of appetite, fatigue, stress , anxious, dizzy, dry eyes, dry mouth, headache ,1. woody,2. citrus,3. diesel,,sage n sour,n,n,n,n,n,n
 861,hybrid,damnesia, relaxed, happy, creative, euphoric, hungry , stress, depression, fatigue, lack of appetite, pain , dry mouth, headache, anxious, paranoid, dry eyes ,1. pepper,2. spicy/herbal,3. earthy,12.0,amnesia haze,n,n,n,n,n,n
@@ -744,14 +742,14 @@
 873,hybrid,dawgfather og, relaxed, sleepy, euphoric, hungry, tingly , insomnia, pain ,,,,,,,,,1. pepper,2. woody,3. chemical,9.0,chemdawg,sin city kush,n,n,n,n,n
 874,hybrid,day tripper, relaxed, euphoric, focused, happy, uplifted , stress, depression, insomnia, nausea, pain , anxious, paranoid, dry mouth, dizzy, dry eyes ,1. citrus,2. sweet,3. blueberry,22.0,sensi star,medicine man,master kush,n,n,n,n
 875,hybrid,daywalker, euphoric, relaxed, sleepy ,,, insomnia, stress ,,,,,,,,,,,,1.0,trainwreck,pre-98 bubba kush,n,n,n,n,n
-876,hybrid,dedutch,,,,,,,,,,,,,,,,,,,,kosher kush,northern lights,n,n,n,n,n
+876,hybrid,dedutch,,,,,,,,,,,,,,,,,,,,kosher kush,northern lights,candy kush,royal cheese,n,n,n
 877,hybrid,deadhead og, relaxed, happy, euphoric, uplifted, focused , stress, depression, pain, insomnia, lack of appetite , dry mouth, dry eyes, dizzy, anxious, headache ,1. earthy,2. pungent,3. pine,504.0,chemdawg 91,sfv og kush,n,n,n,n,n
 878,hybrid,deadlights, uplifted, relaxed, sleepy, focused, happy , inflammation, pain, depression, muscle spasms, stress , dry mouth, dry eyes, dizzy, headache ,,1. chestnut,2. violet,3. woody,9.0,acdc,pennywise,n,n,n,n,n
 879,indica,deadwood, relaxed, happy, uplifted, talkative, focused , stress, muscle spasms, pain ,,, dry mouth, dry eyes, headache ,,,1. berry,2. earthy,3. lavender,9.0,bubba kush,n,n,n,n,n,n
 880,indica,death bubba, relaxed, sleepy, euphoric, happy, uplifted , pain, stress, insomnia, depression, lack of appetite , dry mouth, dizzy, dry eyes, paranoid, headache ,1. earthy,2. sweet,3. pungent,320.0,bubba kush,death star,n,n,n,n,n
 881,hybrid,death by cake og, energetic, euphoric, happy ,,, depression, lack of appetite, stress ,,, dizzy, dry eyes, dry mouth, paranoid ,,1. butter,2. woody,,3.0,ogkb,n,n,n,n,n,n
 882,indica,death star, relaxed, euphoric, happy, sleepy, uplifted , stress, pain, insomnia, depression, headaches , dry mouth, dry eyes, anxious, paranoid, dizzy ,1. earthy,2. diesel,3. pungent,1269.0,sour diesel,sensi star,n,n,n,n,n
-883,hybrid,dedoverde haze,,,,,,,,,,,,,,,,,,,1.0,amnesia,n,n,n,n,n,n
+883,hybrid,dedoverde haze,,,,,,,,,,,,,,,,,,,1.0,amnesia,california haze,n,n,n,n,n
 884,hybrid,deep breath, happy, energetic, creative, euphoric, focused ,,,,,, dry mouth ,,,,,1. berry,2. diesel,3. nutty,,n,n,n,n,n,n,n
 885,hybrid,deep cheese, euphoric, happy, creative, hungry, focused , lack of appetite, nausea, cramps, depression, fatigue , dry mouth, anxious, dry eyes, paranoid ,,1. cheese,2. pungent,3. skunk,,cheese,n,n,n,n,n,n
 886,indica,deep chunk, relaxed, happy, euphoric, sleepy, creative , insomnia, stress, pain, headaches, muscle spasms , dry mouth ,,,,,1. earthy,2. lavender,3. sweet,14.0,afghani,n,n,n,n,n,n
@@ -776,7 +774,7 @@
 913,hybrid,dieseltonic, euphoric, uplifted, happy, energetic, hungry , stress, pain, inflammation, cramps, depression , dry mouth, dry eyes, dizzy ,,,1. diesel,2. citrus,3. tropical,19.0,nyc diesel,cannatonic,n,n,n,n,n
 914,indica,digweed, relaxed, happy, uplifted, sleepy, tingly , pain, stress, inflammation, depression, insomnia , dry mouth, dizzy, dry eyes, anxious, paranoid ,1. earthy,2. chemical,3. sweet,21.0,afghani,sweet tooth,n,n,n,n,n
 915,hybrid,dinachem, relaxed, happy, creative, euphoric, hungry , stress, lack of appetite, fatigue, spasticity, depression , dry eyes, dry mouth ,,,,1. pine,2. pungent,3. skunk,11.0,guava chem,chemdawg 91,n,n,n,n,n
-916,hybrid,dirt nap,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+916,hybrid,dirt nap,,,,,,,,,,,,,,,,,,,,ghost og,do si dos,n,n,n,n,n
 917,sativa,dirty girl, focused, happy, energetic, relaxed, giggly , stress, depression, fatigue, pain, headaches , dry mouth, paranoid, dizzy, dry eyes, anxious ,1. citrus,2. sweet,3. tropical,168.0,cinderella 99,trainwreck,n,n,n,n,n
 918,indica,dirty old bastard, relaxed, uplifted, happy, creative, focused , depression, pain, stress, fatigue, lack of appetite , dry eyes, dry mouth ,,,,1. earthy,2. woody,3. flowery,6.0,og kush,blackberry,n,n,n,n,n
 919,hybrid,dirty widow, uplifted, energetic, euphoric, giggly, happy , depression, fatigue, lack of appetite, stress ,, dry eyes, dry mouth ,,,,1. sweet,2. earthy,3. pungent,,dirty girl,white widow,n,n,n,n,n
@@ -806,7 +804,7 @@
 944,sativa,double diesel, happy, energetic, uplifted, creative, relaxed , depression, stress, pain, fatigue, insomnia , dry mouth, dry eyes, paranoid, headache, dizzy ,1. diesel,2. grapefruit,3. citrus,38.0,nyc diesel,sour diesel,n,n,n,n,n
 945,hybrid,double dream, uplifted, relaxed, happy, euphoric, energetic , depression, stress, pain, fatigue, lack of appetite , dry mouth, dry eyes, paranoid, dizzy, anxious ,1. sweet,2. spicy/herbal,3. lemon,333.0,blue dream,dream star,n,n,n,n,n
 946,hybrid,double dutch, uplifted, euphoric, relaxed, giggly, hungry , stress, depression, insomnia, fatigue, nausea , dry mouth, dizzy, headache ,,,1. tar,2. sweet,3. pungent,19.0,warlock,chronic,n,n,n,n,n
-947,hybrid,double lemon pie,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+947,hybrid,double lemon pie,,,,,,,,,,,,,,,,,,,,lemon meringue,joes lemonade,n,n,n,n,n
 948,indica,double mint, relaxed, uplifted, happy, euphoric, sleepy , stress, pain, fatigue, headaches, insomnia , dry eyes, dry mouth ,,,,1. lemon,2. mint,3. citrus,6.0,sinmint cookies,n,n,n,n,n,n
 949,indica,double og, euphoric, relaxed, sleepy, giggly, happy , fatigue, pain, insomnia, stress, headaches , dry mouth, dry eyes, dizzy, anxious, headache ,1. earthy,2. skunk,3. sweet,28.0,sfv og,big bud,afgoo,n,n,n,n
 950,indica,double purple doja, relaxed, happy, euphoric, creative, hungry , pain, stress, muscle spasms, insomnia, headaches , dry mouth, anxious ,,,,1. earthy,2. grape,3. pungent,23.0,n,n,n,n,n,n,n
@@ -814,7 +812,7 @@
 954,indica,double tap, relaxed, euphoric, sleepy, hungry, happy , depression, headaches, inflammation, insomnia, lack of appetite ,,,,,,1. earthy,2. pine,3. pungent,4.0,monster cookies,yeti og,bloos kloos,n,n,n,n
 956,sativa,dougs varin, energetic, focused, uplifted, euphoric, creative , inflammation, fatigue, stress, depression, nausea ,,,,,,1. woody,2. earthy,3. lemon,19.0,n,n,n,n,n,n,n
 958,hybrid,dr bubbles,,,,,,,,,,,,,,,,,,,,bubble gum,gupta kush,n,n,n,n,n
-960,hybrid,dr clemenstein,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+960,hybrid,dr clemenstein,,,,,,,,,,,,,,,,,,,,clementine,gsc,n,n,n,n,n
 962,hybrid,dr feelgood, euphoric, happy, relaxed, tingly, uplifted , stress, depression, cramps, eye pressure, insomnia , dry mouth ,,,,,1. earthy,2. woody,3. nutty,8.0,harlequin,n,n,n,n,n,n
 964,indica,dr funk, relaxed, happy, euphoric, uplifted, tingly , stress, insomnia, pain, headaches, depression , dry mouth, dry eyes, headache ,,,1. berry,2. blueberry,3. cheese,41.0,blueberry,bubba kush,n,n,n,n,n
 966,sativa,dr grinspoon, energetic, uplifted, euphoric, creative, focused , depression, stress, fatigue, pain, lack of appetite , dry mouth, anxious, dry eyes, dizzy, paranoid ,1. pepper,2. woody,3. pine,66.0,n,n,n,n,n,n,n
@@ -847,7 +845,7 @@
 993,hybrid,dutch 47,,,,,,,,,,, dry mouth ,,,,,,,,2.0,dutch treat,ak-47,n,n,n,n,n
 994,hybrid,dutch crunch, focused, happy, talkative, uplifted, hungry , depression, eye pressure, fatigue, headaches, inflammation , dry mouth, paranoid, anxious, dizzy, dry eyes ,1. citrus,2. pine,3. spicy/herbal,9.0,jack herer,dutch treat,n,n,n,n,n
 995,sativa,dutch dragon, happy, euphoric, talkative, uplifted, energetic , pain, headaches, depression, stress, fatigue , paranoid, anxious, dry mouth, dry eyes, headache ,1. citrus,2. sweet,3. tropical,98.0,african,n,n,n,n,n,n
-996,hybrid,dutch dynasty,,,,,,,,,,, anxious, dizzy, dry mouth, headache, paranoid ,1. chemical,2. tobacco,,,blue dream,n,n,n,n,n,n
+996,hybrid,dutch dynasty,,,,,,,,,,, anxious, dizzy, dry mouth, headache, paranoid ,1. chemical,2. tobacco,,,blue dream,dutch donkey,n,n,n,n,n
 997,sativa,dutch hawaiian, happy, uplifted, creative, euphoric, energetic , pain, stress, depression, nausea, muscle spasms , dry mouth, dry eyes, dizzy, anxious, headache ,1. flowery,2. citrus,3. sweet,146.0,dutch treat,hawaiian sativa,n,n,n,n,n
 998,sativa,dutch hawaiian, happy, uplifted, creative, euphoric, energetic , pain, stress, depression, nausea, muscle spasms , dry mouth, dry eyes, dizzy, anxious, headache ,1. flowery,2. citrus,3. sweet,146.0,dutch treat,hawaiian,n,n,n,n,n
 1001,sativa,dutch haze, uplifted, euphoric, creative, energetic, relaxed , depression, stress, headaches, lack of appetite ,, dry mouth, anxious ,,,,1. citrus,2. lemon,3. pine,11.0,haze,n,n,n,n,n,n
@@ -877,7 +875,7 @@
 1033,hybrid,ed rosenthal super bud, sleepy, happy, relaxed, euphoric, uplifted , insomnia, pain, depression, fatigue, inflammation , dry mouth, dry eyes, anxious, paranoid, dizzy ,1. spicy/herbal,2. nutty,3. earthy,62.0,afghani,south asian,thai,african,mexican,jamaican,n
 1034,indica,edelweiss, happy, relaxed, creative, hungry, focused , inflammation, stress, pain, depression, insomnia , dry eyes, dry mouth, paranoid, anxious, dizzy ,1. mint,2. flowery,3. sweet,37.0,hindu kush,skunk no 1,north indian,n,n,n,n
 1035,hybrid,egyptian musk,,,,,,,,,,,,,,,,,,,,blueberry diesel,bubble gum,n,n,n,n,n
-1036,indica,egyptian royalty 1, relaxed ,,,,, nausea, pain, stress ,,,,,,,,,,,,n,n,n,n,n,n,n
+1036,indica,egyptian royalty 1, relaxed ,,,,, nausea, pain, stress ,,,,,,,,,,,,blackberry kush,elderberry kush,n,n,n,n,n
 1037,hybrid,el chapo, uplifted, energetic, euphoric, focused, aroused , depression, stress ,,,,,,,,,1. sweet,2. chemical,3. diesel,2.0,n,n,n,n,n,n,n
 1038,indica,el chapo og, happy, relaxed, sleepy, hungry, uplifted , pain, insomnia, lack of appetite, eye pressure, stress , dry mouth, dry eyes, dizzy, headache, anxious ,1. earthy,2. pine,3. pungent,61.0,n,n,n,n,n,n,n
 1039,hybrid,el perro, happy, relaxed, uplifted, euphoric, creative , eye pressure, pain, stress, headaches, lack of appetite , dry eyes, anxious, dry mouth, headache ,,1. earthy,2. diesel,3. flowery,9.0,stardawg,true og,n,n,n,n,n
@@ -888,7 +886,7 @@
 1044,sativa,electric lemonade, euphoric, happy, uplifted, relaxed, energetic , depression, stress, fatigue, headaches, insomnia , dry eyes, dry mouth, anxious, paranoid, dizzy ,1. lemon,2. citrus,3. sweet,15.0,tahoe og kush,blue dream,n,n,n,n,n
 1045,hybrid,elektra, relaxed, sleepy, euphoric, talkative, uplifted , depression, pain, stress, inflammation, insomnia ,,,,,,1. earthy,2. chemical,3. citrus,7.0,acdc,n,n,n,n,n,n
 1046,sativa,elephant, happy, euphoric, talkative, energetic, uplifted , eye pressure, pain, spasticity ,,, dry mouth, dizzy, anxious, dry eyes, headache ,1. earthy,2. sweet,3. tropical,18.0,n,n,n,n,n,n,n
-1047,hybrid,elevated og,,,,,,,,,,,,,,,,,,,2.0,n,n,n,n,n,n,n
+1047,hybrid,elevated og,,,,,,,,,,,,,,,,,,,2.0,bty og,face off og bx1,n,n,n,n,n
 1048,hybrid,elmers glue, relaxed, hungry, happy, uplifted, giggly , stress, pain, depression, lack of appetite, inflammation , dry mouth, anxious, paranoid, dizzy, headache ,1. earthy,2. pungent,3. pine,45.0,gorilla glue 4,the white,n,n,n,n,n
 1049,sativa,elphinstone, uplifted, euphoric, energetic, tingly, happy , depression, stress, pain, fatigue, lack of appetite , anxious, dry eyes, dry mouth, dizzy ,,1. citrus,2. pine,3. skunk,6.0,appalachia,n,n,n,n,n,n
 1050,hybrid,elvis, uplifted, relaxed, euphoric, happy, creative , stress, pain, depression, fatigue, headaches , anxious, dizzy, dry mouth, paranoid, dry eyes ,1. skunk,2. sweet,3. earthy,39.0,ak-47,skunk 1,n,n,n,n,n
@@ -899,12 +897,12 @@
 1055,indica,enemy of the state, relaxed, sleepy, hungry, happy, uplifted , fatigue, headaches, pain, cramps, stress , dry mouth, paranoid, dry eyes, anxious, dizzy ,1. earthy,2. woody,3. nutty,24.0,n,n,n,n,n,n,n
 1056,indica,enigma, happy, euphoric, hungry, uplifted, relaxed , insomnia, stress, pain, depression, nausea , dry mouth, dry eyes ,,,,1. citrus,2. pungent,3. earthy,29.0,n,n,n,n,n,n,n
 1057,indica,eran almog, relaxed, uplifted, sleepy, tingly, hungry , stress, insomnia, pain, inflammation, nausea , dry mouth, paranoid, headache, dry eyes, dizzy ,1. woody,2. earthy,3. citrus,35.0,n,n,n,n,n,n,n
-1058,indica,erdpurt,,,,,,,,,,,,,,,,,,,1.0,n,n,n,n,n,n,n
+1058,indica,erdpurt,,,,,,,,,,,,,,,,,,,1.0,erdbeer,purpuera ticinensis,n,n,n,n,n
 1059,indica,erez, focused, relaxed, happy, sleepy, hungry , pain, stress, depression, insomnia, nausea , dry mouth, dry eyes, dizzy ,,,1. spicy/herbal,2. berry,3. blueberry,,n,n,n,n,n,n,n
 1061,indica,ether, relaxed, sleepy, euphoric, happy, hungry , insomnia, depression, headaches, muscle spasms, nausea , dry mouth ,,,,,,,,3.0,alien dawg,n,n,n,n,n,n
 1063,sativa,ethiopian, hungry, happy, euphoric, focused, giggly , cramps, fatigue, headaches, lack of appetite, nausea , dry mouth ,,,,,1. citrus,2. coffee,3. pepper,2.0,n,n,n,n,n,n,n
-1065,hybrid,ethos apex,,,,,,,,,,,,,,,,,,,1.0,mandarin cookies,n,n,n,n,n,n
-1067,hybrid,ethos hash plant bx1, energetic, focused, relaxed ,,,,,,,, anxious ,,,,,,,,,n,n,n,n,n,n,n
+1065,hybrid,ethos apex,,,,,,,,,,,,,,,,,,,1.0,mandarin cookies,lilac diesel bx3,n,n,n,n,n
+1067,hybrid,ethos hash plant bx1, energetic, focused, relaxed ,,,,,,,, anxious ,,,,,,,,,ethos kush ibl 13,california black rose,n,n,n,n,n
 1069,hybrid,eugene cream, relaxed, happy, creative, euphoric, focused , pain, stress, lack of appetite, depression, insomnia , dry mouth, anxious ,,,,1. earthy,2. sweet,3. berry,,hash plant,big bud,n,n,n,n,n
 1071,hybrid,euphoria cookies, euphoric, uplifted, hungry, focused, energetic , eye pressure, depression, fatigue, insomnia, nausea , dry mouth ,,,,,1. coffee,2. sweet,3. citrus,13.0,girl scout cookies,n,n,n,n,n,n
 1073,indica,everlast, relaxed, sleepy, euphoric, happy, focused , stress, pain, insomnia, muscle spasms, inflammation , dry mouth ,,,,,1. flowery,2. earthy,3. spicy/herbal,,n,n,n,n,n,n,n
@@ -925,11 +923,11 @@
 1088,hybrid,fat axl, energetic, focused, tingly, talkative, creative , depression, fatigue, headaches, insomnia, pain ,,,,,,1. earthy,2. pine,3. woody,,n,n,n,n,n,n,n
 1089,hybrid,fat nelson, euphoric, talkative, aroused, relaxed, hungry , stress, fatigue, muscle spasms, pain ,, dry eyes, dry mouth ,,,,1. pungent,2. citrus,3. diesel,,sour willie,gupta kush,n,n,n,n,n
 1090,indica,fat purple, euphoric, relaxed, happy, aroused, giggly , insomnia, depression, pain, nausea, stress , dry mouth, dry eyes, dizzy ,,,1. grape,2. berry,3. sweet,14.0,purple rhino,g13,n,n,n,n,n
-1091,hybrid,fauxsido, euphoric, happy, relaxed ,,,,,,,, dry mouth ,,,,,1. diesel,2. pungent,3. sage,1.0,do-si-dos,n,n,n,n,n,n
+1091,hybrid,fauxsido, euphoric, happy, relaxed ,,,,,,,, dry mouth ,,,,,1. diesel,2. pungent,3. sage,1.0,do-si-dos,f cut og,n,n,n,n,n
 1092,indica,faygo red pop, happy, giggly, uplifted, talkative, relaxed , stress, depression, pain, muscle spasms, fatigue , dry mouth, anxious, dry eyes, headache ,,1. strawberry,2. sweet,3. berry,12.0,afghani,n,n,n,n,n,n
 1093,sativa,fighting buddha, creative, energetic, focused, happy, euphoric ,,,,,,,,,,,,,,3.0,blueberry,n,n,n,n,n,n
 1094,hybrid,fire alien kush, relaxed, euphoric, happy, uplifted, focused , eye pressure, headaches, depression, stress, pain , dry eyes, dry mouth, anxious, paranoid ,,1. lime,2. earthy,3. woody,58.0,fire og,alien kush,n,n,n,n,n
-1095,hybrid,fire alien master,,,,,,,,,,,,,,,,,,,,fire alien kush,n,n,n,n,n,n
+1095,hybrid,fire alien master,,,,,,,,,,,,,,,,,,,,fire alien kush,purple master kush,n,n,n,n,n
 1096,hybrid,fire alien romulan,,,,,,,,,,,,,,,,,,,,romulan,fire alien kush,n,n,n,n,n
 1097,hybrid,fire alien strawberry, hungry, giggly, uplifted, energetic, focused , depression, stress, fatigue ,,, dry mouth, anxious, paranoid ,,,1. sweet,2. spicy/herbal,3. earthy,3.0,strawberry cough,fire alien kush,n,n,n,n,n
 1098,hybrid,fire alien urkle,,,,,,,,,,,,,,,,,,,,purple urkle,fire alien kush,n,n,n,n,n
@@ -948,7 +946,7 @@
 1111,hybrid,flowers for algernon, creative, uplifted, aroused, energetic, happy , depression, headaches, insomnia, lack of appetite, muscle spasms ,,,,,,1. diesel,2. citrus,3. lemon,4.0,sour diesel,n,n,n,n,n,n
 1113,indica,focaccia,,,,,,,,,,,,,,,,,,,,fire og,sour amnesia,sunshine daydream,n,n,n,n
 1115,indica,forbidden fruit, relaxed, happy, euphoric, sleepy, uplifted , stress, pain, depression, insomnia, muscle spasms , dry mouth, dry eyes, dizzy, headache, paranoid ,1. citrus,2. grapefruit,3. tropical,466.0,n,n,n,n,n,n,n
-1117,hybrid,forbidden zkittlez, creative, euphoric ,,,,,,,,,,,,,,,,,4.0,forbidden fruit,n,n,n,n,n,n
+1117,hybrid,forbidden zkittlez, creative, euphoric ,,,,,,,,,,,,,,,,,4.0,forbidden fruit,mendo royal,california black rose,n,n,n,n
 1119,hybrid,formula one, creative, energetic, euphoric, focused ,, depression, insomnia, lack of appetite, muscle spasms, pain , dry eyes, dry mouth ,,,,1. citrus,2. diesel,3. flowery,1.0,n,n,n,n,n,n,n
 1121,hybrid,fortune cookies, happy, relaxed, sleepy, euphoric, uplifted , depression, stress, pain, lack of appetite, nausea , dry mouth, dry eyes, paranoid, dizzy, anxious ,1. honey,2. flowery,3. skunk,131.0,girl scout cookies,og kush,n,n,n,n,n
 1123,hybrid,forum cut cookies s1, happy, euphoric, uplifted, energetic, creative , stress, depression, eye pressure, headaches, insomnia , dry eyes, dry mouth, headache ,,,1. sweet,2. pungent,3. pine,13.0,gsc,n,n,n,n,n,n
@@ -968,7 +966,7 @@
 1139,hybrid,frosted freak, euphoric, focused, energetic, creative, happy , stress, fatigue, depression, pain, insomnia , dry eyes, dry mouth ,,,,1. mint,2. citrus,3. orange,74.0,brand x,n,n,n,n,n,n
 1140,indica,frosty, happy, creative, energetic, euphoric, uplifted , stress, depression, lack of appetite, muscle spasms, headaches , dry mouth, paranoid, anxious, dry eyes, dizzy ,1. pungent,2. earthy,3. sweet,39.0,n,n,n,n,n,n,n
 1141,hybrid,frosty jesus, creative, euphoric, focused, happy, relaxed , depression, fatigue, insomnia, pain, stress ,,,,,,1. diesel,2. earthy,3. pungent,,og kush,jesus og,n,n,n,n,n
-1142,hybrid,frozen tangerines,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+1142,hybrid,frozen tangerines,,,,,,,,,,,,,,,,,,,,agent orange,white nightmare,n,n,n,n,n
 1143,hybrid,fruit crusher, energetic, happy, relaxed, euphoric, hungry , fatigue, headaches, depression, pain, stress , dry eyes, dry mouth, headache ,,,1. cheese,2. citrus,3. earthy,2.0,lemon skunk,lsd,n,n,n,n,n
 1144,hybrid,fruit loop og,,,,,,,,,,,,,,,,1. berry,2. sage,3. sweet,1.0,irene og,face off og,n,n,n,n,n
 1145,hybrid,fruit loops, happy, relaxed, uplifted, talkative, euphoric , stress, depression, pain, fatigue, headaches , dry mouth, dizzy, dry eyes, anxious, headache ,1. sweet,2. berry,3. grapefruit,88.0,blue dream,white widow,grapefruit,blueberry,n,n,n
@@ -1077,14 +1075,14 @@
 1263,indica,grand hindu, uplifted, relaxed, euphoric, happy, sleepy , pain, stress, inflammation, fatigue, muscle spasms , dry mouth, dizzy, dry eyes, paranoid ,,1. grape,2. earthy,3. flowery,21.0,granddaddy purple,hindu kush,n,n,n,n,n
 1264,hybrid,grand hustle, uplifted, creative, relaxed, euphoric, focused , stress, depression, pain, fatigue, lack of appetite , dry mouth, dry eyes, paranoid, dizzy ,,1. earthy,2. citrus,3. honey,35.0,afgoo,green crack,n,n,n,n,n
 1265,indica,granddaddy purple, relaxed, sleepy, euphoric, happy, hungry , stress, insomnia, pain, depression, lack of appetite , dry mouth, dry eyes, dizzy, anxious, paranoid ,1. grape,2. berry,3. sweet,4533.0,purple urkle,big bud,n,n,n,n,n
-1266,hybrid,granddaddy wonder,,,,,,,,,,,,,,,,,,,,granddaddy purple,n,n,n,n,n,n
+1266,hybrid,granddaddy wonder,,,,,,,,,,,,,,,,,,,,granddaddy purple,60 day wonder,n,n,n,n,n
 1267,indica,grandpa larry og, euphoric, happy, creative, uplifted, relaxed , stress, depression, fatigue, pain, inflammation , dry mouth, dizzy, dry eyes, anxious, headache ,1. sweet,2. sage,3. grapefruit,,granddaddy purple,larry og,n,n,n,n,n
 1268,hybrid,granola funk, euphoric, happy, energetic, relaxed, uplifted , depression, stress, headaches, pain, eye pressure , dry eyes, anxious, dry mouth, dizzy, paranoid ,1. flowery,2. diesel,3. earthy,12.0,gsc,wookie,n,n,n,n,n
 1270,indica,grape ape, relaxed, sleepy, happy, euphoric, hungry , stress, insomnia, pain, depression, lack of appetite , dry mouth, dry eyes, dizzy, headache, paranoid ,1. grape,2. sweet,3. berry,1886.0,afghani,mendocino purps,skunk no 1,n,n,n,n
 1272,hybrid,grape bubba, euphoric, happy, relaxed, talkative ,, depression, headaches ,,,,,,,,,,,,1.0,purple urkle,bubba kush,n,n,n,n,n
 1274,hybrid,grape cake,,,,,,,,,,,,,,,,,,,,grape stomper,cherry pie,wedding cake,n,n,n,n
 1276,hybrid,grape calyx, euphoric, happy, hungry, creative, relaxed , lack of appetite, stress, depression, spasticity, fatigue , dry mouth ,,,,,1. grape,2. earthy,3. flowery,,pineapple purple skunk,n,n,n,n,n,n
-1278,hybrid,grape candy,,,,,,,,,,,,,,,,,,,,purple pantera,n,n,n,n,n,n
+1278,hybrid,grape candy,,,,,,,,,,,,,,,,,,,,purple pantera,white lemon,n,n,n,n,n
 1280,indica,grape cookies, relaxed, happy, euphoric, aroused, uplifted , stress, insomnia, pain, muscle spasms, depression , dry mouth, dizzy, dry eyes, paranoid, anxious ,1. grape,2. woody,3. berry,32.0,girl scout cookies,grape kush,n,n,n,n,n
 1282,hybrid,grape dawg, relaxed, sleepy, uplifted, euphoric, happy ,,,,,, dry mouth, anxious, dizzy, dry eyes ,,1. grape,2. citrus,3. earthy,4.0,lemon kush,alien dawg,n,n,n,n,n
 1283,indica,grape drink, sleepy, hungry, happy, giggly, relaxed , pain, headaches, depression, stress, insomnia , dry eyes, paranoid ,,,,1. grape,2. flowery,3. sweet,8.0,kimbo kush,grape god,n,n,n,n,n
@@ -1139,7 +1137,7 @@
 1340,indica,guard dawg, relaxed, focused, sleepy, happy, tingly , lack of appetite, stress, insomnia, depression, inflammation , dizzy, dry mouth ,,,,1. earthy,2. sweet,3. woody,17.0,abusive og,n,n,n,n,n,n
 1341,hybrid,guava cake, euphoric, tingly, happy, relaxed, creative , depression, headaches ,,,, dizzy, dry eyes, dry mouth ,,,1. sweet,2. citrus,3. lemon,3.0,wedding cake,n,n,n,n,n,n
 1342,hybrid,guava chem, happy, uplifted, relaxed, euphoric, creative , depression, pain, stress, lack of appetite, muscle spasms , dry mouth, dry eyes, paranoid, dizzy, anxious ,1. sweet,2. citrus,3. chemical,41.0,stardawg,tres dawg,n,n,n,n,n
-1343,hybrid,guava dub star,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+1343,hybrid,guava dub star,,,,,,,,,,,,,,,,,,,,bubba  kush,guava,n,n,n,n,n
 1344,hybrid,guava gelato, euphoric, creative, uplifted, happy, relaxed , cramps, fatigue, eye pressure, headaches, pain , dry mouth, dry eyes, paranoid ,,,1. sweet,2. grapefruit,3. tropical,27.0,gelato,n,n,n,n,n,n
 1345,hybrid,guava kush, happy, relaxed, euphoric, uplifted, energetic , depression, pain, headaches, fatigue, stress , dry mouth, dry eyes, paranoid, headache, anxious ,1. tropical,2. citrus,3. sweet,94.0,n,n,n,n,n,n,n
 1346,hybrid,gucci og, relaxed, uplifted, giggly, happy, energetic , depression, stress, fatigue, pain, lack of appetite , dry mouth, paranoid, dry eyes, anxious ,,1. spicy/herbal,2. pine,3. sweet,63.0,og kush,n,n,n,n,n,n
@@ -1173,7 +1171,7 @@
 1374,indica,hashbar og, relaxed, euphoric, happy, focused, aroused , lack of appetite, stress, headaches, pain, insomnia , dry mouth, dry eyes ,,,,1. sweet,2. earthy,3. skunk,19.0,hash plant,face off og,n,n,n,n,n
 1376,indica,hashberry, relaxed, happy, euphoric, sleepy, uplifted , stress, pain, insomnia, depression, lack of appetite , dry mouth, dry eyes, paranoid, anxious, dizzy ,1. berry,2. sweet,3. earthy,104.0,north indian,n,n,n,n,n,n
 1378,sativa,hashplant haze, happy, relaxed, sleepy, hungry, uplifted , pain, depression, stress, inflammation, nausea , dry mouth, paranoid, dry eyes, anxious ,,1. blueberry,2. pepper,3. sweet,29.0,hash plant,cannalope haze,n,n,n,n,n
-1380,hybrid,havarra wedding,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+1380,hybrid,havarra wedding,,,,,,,,,,,,,,,,,,,,indica blitz,power plant,n,n,n,n,n
 1382,sativa,hawaiian, happy, relaxed, focused, euphoric, uplifted , stress, pain, depression, fatigue, lack of appetite , dizzy, dry mouth, dry eyes, paranoid, anxious ,1. tropical,2. sweet,3. citrus,153.0,n,n,n,n,n,n,n
 1384,hybrid,hawaiian cookies, euphoric, relaxed, energetic, focused, happy , stress, depression, pain, lack of appetite, muscle spasms , dry mouth, dry eyes, paranoid, dizzy, headache ,1. flowery,2. sweet,3. earthy,30.0,hawaiian snow,girl scout cookies,n,n,n,n,n
 1386,indica,hawaiian delight, uplifted, relaxed, euphoric, creative, tingly , pain, stress, nausea, depression, fatigue , dry mouth, dry eyes, headache, paranoid, dizzy ,1. earthy,2. diesel,3. flowery,11.0,n,n,n,n,n,n,n
@@ -1201,7 +1199,7 @@
 1410,hybrid,head cheese, relaxed, euphoric, uplifted, focused, tingly , stress, muscle spasms, pain, depression, headaches , dry mouth, dry eyes, anxious, dizzy, headache ,1. pungent,2. cheese,3. skunk,193.0,707 headband,uk cheese,n,n,n,n,n
 1411,hybrid,head trip, relaxed, happy, uplifted, focused, euphoric , stress, pain, headaches, depression, insomnia , dry eyes, dry mouth, paranoid ,,,1. earthy,2. coffee,3. pine,28.0,snow lotus,n,n,n,n,n,n
 1412,hybrid,headband, relaxed, happy, uplifted, euphoric, creative , stress, depression, pain, headaches, lack of appetite , dry mouth, dry eyes, headache, paranoid, dizzy ,1. diesel,2. earthy,3. lemon,2440.0,og kush,sour diesel,n,n,n,n,n
-1413,hybrid,headband cookies bx1,,,,,,,,,,,,,,,,,,,,i-95,mandarin cookies,n,n,n,n,n
+1413,hybrid,headband cookies bx1,,,,,,,,,,,,,,,,,,,,i-95,mandarin cookies,chemd,headband,california black rose,n,n
 1414,hybrid,headbanger, relaxed, euphoric, sleepy, uplifted, happy , depression, pain, stress, nausea, fatigue , dry mouth, dry eyes, anxious, dizzy, headache ,1. earthy,2. citrus,3. diesel,83.0,n,n,n,n,n,n,n
 1415,hybrid,heatwave, happy, relaxed, energetic, hungry, uplifted , depression, stress ,,,, dry mouth ,,,,,1. diesel,2. citrus,3. earthy,4.0,n,n,n,n,n,n,n
 1416,hybrid,heaven scent, creative, energetic, euphoric, focused, happy ,,,,,, dry mouth ,,,,,1. flowery,2. mint,3. pungent,4.0,gods gift,green crack,n,n,n,n,n
@@ -1235,7 +1233,7 @@
 1452,hybrid,hollywood og, energetic, relaxed, uplifted, euphoric, creative , cramps, stress, insomnia, pain, depression , dry mouth, dry eyes, anxious, headache, dizzy ,1. tree fruit,2. blue cheese,3. earthy,52.0,n,n,n,n,n,n,n
 1453,hybrid,holy ghost, euphoric, happy, relaxed, giggly, hungry , depression, stress, headaches, muscle spasms, pain , dry mouth, dizzy, dry eyes, headache ,,1. pine,2. spicy/herbal,3. diesel,,satori,amnesia haze,pitbull,durban poison,n,n,n
 1454,hybrid,holy grail kush, relaxed, happy, euphoric, uplifted, focused , stress, pain, depression, lack of appetite, headaches , dry mouth, dry eyes, paranoid, dizzy, anxious ,1. earthy,2. pine,3. woody,670.0,og 18,kosher kush,n,n,n,n,n
-1455,hybrid,holy punch,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+1455,hybrid,holy punch,,,,,,,,,,,,,,,,,,,,the church,grape,n,n,n,n,n
 1456,hybrid,holy roller, euphoric, focused, happy, relaxed ,,,,,,,,,,,,1. citrus,2. earthy,,3.0,do-si-dos,n,n,n,n,n,n
 1457,sativa,honduras,,,,,,,,,,,,,,,,,,,1.0,n,n,n,n,n,n,n
 1458,hybrid,honey bananas, uplifted, giggly, creative, relaxed, happy , stress, pain, headaches, muscle spasms, fatigue , dry mouth, dry eyes, anxious, dizzy, paranoid ,1. honey,2. sweet,3. flowery,145.0,strawberry banana,n,n,n,n,n,n
@@ -1248,7 +1246,7 @@
 1465,hybrid,huckleberries, aroused, euphoric, giggly, happy, hungry , depression, eye pressure, headaches, insomnia, lack of appetite , dry mouth ,,,,,1. berry,2. grape,3. honey,1.0,zkittlez,n,n,n,n,n,n
 1466,hybrid,huckleberry, happy, relaxed, euphoric, energetic, uplifted , pain, depression, inflammation, stress, insomnia , dry eyes, dry mouth, paranoid, dizzy, anxious ,1. sweet,2. berry,3. earthy,154.0,n,n,n,n,n,n,n
 1467,hybrid,huckleberry cough, happy, relaxed, sleepy, euphoric, focused , cramps, depression, fatigue, headaches, inflammation , dry eyes, dry mouth ,,,,1. berry,2. menthol,3. blueberry,3.0,n,n,n,n,n,n,n
-1468,hybrid,huckleberry desstar,,,,,,,,,,,,,,,,,,,1.0,n,n,n,n,n,n,n
+1468,hybrid,huckleberry desstar,,,,,,,,,,,,,,,,,,,1.0,destar,oregon huckleberry,n,n,n,n,n
 1469,hybrid,huckleberry diesel, happy, relaxed, euphoric, giggly, creative , pain, depression, inflammation, muscle spasms, stress , dry eyes, dry mouth ,,,,1. berry,2. earthy,3. diesel,4.0,sour diesel,n,n,n,n,n,n
 1470,hybrid,huckleberry hound, euphoric, happy, relaxed, giggly, hungry , headaches, lack of appetite, pain, stress ,, dry eyes, dry mouth ,,,,1. berry,2. earthy,3. flowery,3.0,chemdawg,blueberry,n,n,n,n,n
 1471,hybrid,huckleberry soda,,,,,,,,,,,,,,,,,,,,black cherry soda,huckleberry hound,n,n,n,n,n
@@ -1257,13 +1255,13 @@
 1474,indica,humboldt dream, relaxed, happy, uplifted, tingly, euphoric , stress, depression, insomnia, pain, fatigue , dry eyes, dry mouth, dizzy ,,,1. diesel,2. lemon,3. tropical,9.0,n,n,n,n,n,n,n
 1475,hybrid,humboldt hawaiian, aroused, euphoric, happy, relaxed, uplifted ,,,,,,,,,,,1. berry,2. pine,3. plum,,purple champagne,platinum gsc,n,n,n,n,n
 1476,indica,humboldt headband, euphoric, relaxed, happy, sleepy, focused , stress, depression, insomnia, lack of appetite, pain , dizzy, dry mouth, anxious, dry eyes ,,1. berry,2. grape,3. sweet,9.0,n,n,n,n,n,n,n
-1477,hybrid,humboldt sour diesel,,,,,,,,,,,,,,,,,,,,humboldt headband,n,n,n,n,n,n
+1477,hybrid,humboldt sour diesel,,,,,,,,,,,,,,,,,,,,humboldt headband,sour diesel bx3,n,n,n,n,n
 1478,indica,humdinger og, creative, euphoric, focused, relaxed ,, depression, headaches, inflammation, pain, stress ,,,,,,1. apple,2. sweet,3. woody,1.0,sour bubble,n,n,n,n,n,n
 1479,hybrid,hurkle, relaxed, happy, sleepy, uplifted, tingly , stress, pain, insomnia, inflammation, headaches , dry mouth, dry eyes, dizzy ,,,1. earthy,2. coffee,3. woody,65.0,harlequin,querkle,n,n,n,n,n
 1480,sativa,hurricane, uplifted, happy, energetic, euphoric, relaxed , depression, nausea, stress, pain, headaches , dry mouth, anxious, dry eyes, dizzy, paranoid ,1. sweet,2. orange,3. vanilla,58.0,la confidential,n,n,n,n,n,n
 1481,hybrid,hustler kush, happy, uplifted, energetic, euphoric, relaxed , lack of appetite, stress, depression, fatigue, insomnia , dry mouth, paranoid, anxious, dizzy, dry eyes ,1. sweet,2. earthy,3. pine,14.0,n,n,n,n,n,n,n
 1482,hybrid,iced grapefruit, uplifted, giggly, relaxed, energetic, creative , pain, depression, headaches, insomnia, cramps , dry mouth, headache, dry eyes, anxious, dizzy ,1. grapefruit,2. citrus,3. sweet,56.0,ice,grapefruit,n,n,n,n,n
-1483,indica,ifc og,,,,,,,,,,,,,,,,,,,,og kush,n,n,n,n,n,n
+1483,indica,ifc og,,,,,,,,,,,,,,,,,,,,og kush,stardust og,n,n,n,n,n
 1485,hybrid,ig kush, happy, relaxed, sleepy, hungry, tingly , insomnia, lack of appetite, pain, stress, headaches , dry eyes, dry mouth ,,,,1. sweet,2. earthy,3. orange,,deadhead og,og kush,n,n,n,n,n
 1487,hybrid,ice, happy, euphoric, giggly, relaxed, talkative , eye pressure, stress, pain, depression, insomnia , dry mouth, dizzy, dry eyes, paranoid, headache ,1. woody,2. chemical,3. earthy,228.0,afghani,shiva skunk,northern lights,skunk no 1,n,n,n
 1489,hybrid,ice cream, relaxed, happy, sleepy, euphoric, creative , stress, depression, pain, insomnia, eye pressure , dry mouth, dizzy, paranoid, dry eyes, anxious ,1. vanilla,2. sweet,3. earthy,163.0,n,n,n,n,n,n,n
@@ -1285,7 +1283,7 @@
 1510,hybrid,iron triangle, happy, relaxed, giggly, tingly, euphoric , pain, insomnia, depression, stress, muscle spasms , dizzy, paranoid, dry mouth, dry eyes ,,1. diesel,2. lemon,3. earthy,17.0,n,n,n,n,n,n,n
 1511,sativa,island haze, creative, uplifted, relaxed, energetic, euphoric , depression, fatigue, stress ,,, dry mouth ,,,,,1. sweet,2. berry,3. blueberry,6.0,atomical haze,blueberry,cannalope kush,n,n,n,n
 1512,sativa,island maui haze, relaxed, happy, talkative, euphoric, tingly , stress, depression, pain, headaches, inflammation , anxious, dry mouth, paranoid ,,,1. citrus,2. mango,3. tropical,15.0,n,n,n,n,n,n,n
-1513,hybrid,island poison,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+1513,hybrid,island poison,,,,,,,,,,,,,,,,,,,,durban poison,trainwreck,afghan,n,n,n,n
 1514,sativa,island sweet skunk, happy, energetic, uplifted, focused, euphoric , depression, stress, pain, fatigue, headaches , dry mouth, dry eyes, anxious, dizzy, paranoid ,1. sweet,2. skunk,3. tropical,813.0,skunk no 1,n,n,n,n,n,n
 1515,hybrid,ivan,,,,,,,,,,,,,,,,,,,,cotton purple chem,granddaddy purple,original glue,chemdog,n,n,n
 1516,hybrid,js famous kush, relaxed, uplifted, euphoric, aroused, energetic , spasticity, stress, cramps, depression, insomnia , dry eyes, dry mouth ,,,,1. skunk,2. earthy,3. pepper,4.0,n,n,n,n,n,n,n
@@ -1338,7 +1336,7 @@
 1568,hybrid,jim og,,,,,,,,,,,,,,,,,,,,12 year og,phishhead kush,n,n,n,n,n
 1569,hybrid,jimi hendrix, creative, uplifted, euphoric, happy, energetic , lack of appetite, stress, headaches, depression, nausea , dry mouth, anxious, dizzy ,,,1. citrus,2. earthy,3. sweet,24.0,jack herer,headband,black cherry soda,n,n,n,n
 1570,sativa,jock horror, energetic, happy, euphoric, relaxed, hungry , depression, stress, fatigue, lack of appetite, nausea , anxious, dizzy, paranoid, dry eyes, dry mouth ,1. berry,2. sweet,3. earthy,23.0,northern lights,haze,skunk no 1,n,n,n,n
-1571,hybrid,joes dank,,,,,,,,,,,,,,,,,,,,amnesia haze,bubble gum,n,n,n,n,n
+1571,hybrid,joes dank,,,,,,,,,,,,,,,,,,,,amnesia haze,bubble gum,chem tange,n,n,n,n
 1572,indica,josh d og, relaxed, happy, sleepy, hungry, euphoric , depression, cramps, pain, fatigue, headaches , dry mouth, anxious, dry eyes, paranoid ,,1. blue cheese,2. pungent,3. cheese,17.0,sfv og,triangle kush,hells angel og,n,n,n,n
 1573,hybrid,juicy fruit, happy, relaxed, uplifted, euphoric, creative , stress, depression, pain, lack of appetite, cramps , dry mouth, dizzy, dry eyes, anxious, headache ,1. sweet,2. earthy,3. citrus,615.0,afghani,thai,n,n,n,n,n
 1574,hybrid,juicy jack, happy, uplifted, creative, euphoric, energetic , pain, depression, fatigue, nausea, muscle spasms , dry mouth, dizzy, dry eyes, headache, paranoid ,1. citrus,2. earthy,3. sweet,23.0,juicy fruit,jack herer,n,n,n,n,n
@@ -1346,7 +1344,7 @@
 1576,hybrid,julius caesar, happy, euphoric, uplifted, relaxed, hungry , stress, pain, depression, nausea, lack of appetite , dry mouth, dry eyes, dizzy, anxious ,,1. earthy,2. sweet,3. pine,30.0,master kush,sfv og kush,n,n,n,n,n
 1577,hybrid,jungle juice, relaxed, sleepy, energetic, happy, uplifted , stress, lack of appetite, depression, fatigue, headaches , dry eyes, dry mouth, paranoid ,,,1. flowery,2. citrus,3. pine,15.0,animal cookies,tangie,n,n,n,n,n
 1578,hybrid,jungle scout cookies, uplifted, energetic, euphoric, focused, hungry , depression, headaches, inflammation, insomnia, lack of appetite , dry eyes, dry mouth ,,,,1. berry,2. earthy,3. pine,3.0,gsc,n,n,n,n,n,n
-1579,hybrid,jungle spice, relaxed ,,,,,,,,,, dry eyes, dry mouth ,,,,1. spicy/herbal,2. woody,,,n,n,n,n,n,n,n
+1579,hybrid,jungle spice, relaxed ,,,,,,,,,, dry eyes, dry mouth ,,,,1. spicy/herbal,2. woody,,,congo pine,88 g13 hashplant,n,n,n,n,n
 1580,indica,jupiter og, relaxed, sleepy, hungry, happy, euphoric , stress, depression, pain, insomnia, muscle spasms , dry mouth, dry eyes, paranoid, dizzy, headache ,1. earthy,2. pungent,3. flowery,163.0,og kush,n,n,n,n,n,n
 1581,hybrid,k1, happy, uplifted, euphoric, focused, relaxed , stress, pain, fatigue, depression, headaches , dry mouth, anxious, dizzy, dry eyes, paranoid ,1. pine,2. ammonia,3. chemical,18.0,n,n,n,n,n,n,n
 1583,hybrid,k2, relaxed, sleepy, happy, hungry, energetic , stress, pain, depression, insomnia, nausea , dry mouth, dry eyes, anxious, dizzy, headache ,1. earthy,2. woody,3. pine,47.0,hindu kush,white widow,n,n,n,n,n
@@ -1357,7 +1355,7 @@
 1593,hybrid,kahavvai mode,,,,,,,,,,,,,,,,,,,,northern lights,skunk no 1,n,n,n,n,n
 1595,indica,kahuna, euphoric, uplifted, relaxed, creative, focused , stress, pain, depression, insomnia, fatigue , dry eyes, dry mouth ,,,,1. orange,2. pineapple,3. pungent,6.0,super skunk,jack herer,afghan hawaiian,n,n,n,n
 1597,hybrid,kaia kush, happy, relaxed, tingly, sleepy, uplifted , depression, lack of appetite, stress, headaches, nausea , dry eyes, dry mouth, anxious, dizzy, paranoid ,1. spicy/herbal,2. lemon,3. citrus,,super silver haze,og kush,n,n,n,n,n
-1598,hybrid,kailua pua, aroused, creative, euphoric, relaxed, sleepy ,,,,,,,,,,,1. mango,2. berry,3. earthy,2.0,hawaiian mayan gold,n,n,n,n,n,n
+1598,hybrid,kailua pua, aroused, creative, euphoric, relaxed, sleepy ,,,,,,,,,,,1. mango,2. berry,3. earthy,2.0,hawaiian mayan gold,blue bama,n,n,n,n,n
 1599,hybrid,kalalau kush, euphoric, happy, tingly, uplifted, aroused ,,,,,, dry eyes ,,,,,1. earthy,2. mango,3. pineapple,4.0,n,n,n,n,n,n,n
 1600,hybrid,kalashnikova, relaxed, happy, focused, uplifted, euphoric , pain, stress, muscle spasms, depression, insomnia , dry mouth, headache, dry eyes, paranoid ,,1. spicy/herbal,2. sweet,3. pine,42.0,ak-47,white widow,n,n,n,n,n
 1601,hybrid,kaleidos dope,,,,,,,,,,,,,,,,,,,,sour lsd,nevilles haze,fire og,purple thai,n,n,n
@@ -1395,7 +1393,7 @@
 1633,hybrid,king kong, relaxed, happy, sleepy, uplifted, euphoric , stress, depression, pain, eye pressure, insomnia , dizzy, headache, dry mouth, dry eyes, paranoid ,1. earthy,2. flowery,3. pungent,151.0,ed rosenthal super bud,chronic,n,n,n,n,n
 1634,hybrid,king thunder fuck, happy, relaxed, uplifted, aroused, creative , pain, cramps, depression, inflammation, insomnia ,,,,,,1. earthy,2. citrus,3. nutty,5.0,n,n,n,n,n,n,n
 1636,sativa,kings bread, euphoric, creative, uplifted, focused, happy , stress, depression, fatigue, insomnia, pain , headache, dry mouth, dizzy, dry eyes ,,1. citrus,2. lemon,3. earthy,28.0,jamaican,n,n,n,n,n,n
-1638,hybrid,kings banner,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+1638,hybrid,kings banner,,,,,,,,,,,,,,,,,,,,bruce banner3,king louis xiii,joseph og,n,n,n,n
 1640,hybrid,kiss, hungry, sleepy, euphoric, focused, creative , fatigue, lack of appetite, pain, stress, depression , dry mouth, paranoid, anxious ,,,1. cheese,2. earthy,3. skunk,10.0,cheese,afghani,n,n,n,n,n
 1642,indica,kiwiskunk, euphoric, talkative, happy, hungry, relaxed , depression, insomnia, lack of appetite, nausea, stress , headache, dry eyes, dry mouth ,,,1. woody,2. citrus,3. pungent,12.0,nyc diesel,skunk no 1,n,n,n,n,n
 1644,indica,kobain kush, relaxed, hungry, creative, happy, euphoric , pain, stress, depression, insomnia, muscle spasms , dry eyes, anxious, headache, dizzy, dry mouth ,1. earthy,2. spicy/herbal,3. woody,13.0,pre-98 bubba kush,white lotus,n,n,n,n,n
@@ -1446,7 +1444,7 @@
 1698,hybrid,lambo og, euphoric, happy, hungry, relaxed, uplifted , pain, stress, nausea, insomnia, muscle spasms , dry eyes, dry mouth, dizzy, headache, paranoid ,1. citrus,2. earthy,3. pine,17.0,n,n,n,n,n,n,n
 1699,hybrid,lamborghini, uplifted, happy, euphoric, giggly, talkative , depression, stress, fatigue, headaches, insomnia , dry eyes, dizzy, dry mouth, paranoid ,,1. citrus,2. diesel,3. pine,9.0,lambs bread,holy grail kush,n,n,n,n,n
 1700,hybrid,lambs in space, euphoric, aroused, giggly, uplifted, energetic , depression, insomnia, nausea, pain, stress , dry eyes, dry mouth, anxious, dizzy, paranoid ,1. citrus,2. mango,3. peach,5.0,space candy,n,n,n,n,n,n
-1701,hybrid,landos stash,,,,,,,,,,,,,,,,,,,,snow lotus,n,n,n,n,n,n
+1701,hybrid,landos stash,,,,,,,,,,,,,,,,,,,,snow lotus,sage pure kush,n,n,n,n,n
 1702,hybrid,larry bird kush, relaxed, sleepy, uplifted, creative, euphoric , stress, depression, muscle spasms, pain, headaches , dry mouth, dry eyes, headache, anxious, dizzy ,1. orange,2. earthy,3. mint,30.0,sunset sherbet,thin mint girl scout cookies,n,n,n,n,n
 1703,hybrid,larry og, relaxed, happy, euphoric, uplifted, focused , pain, stress, depression, muscle spasms, inflammation , dry mouth, dry eyes, anxious, paranoid, dizzy ,1. lemon,2. pine,3. earthy,714.0,og kush,sfv og,n,n,n,n,n
 1704,indica,las vegas purple kush bx, happy, euphoric, creative, relaxed, sleepy , stress, insomnia, lack of appetite, pain, depression , dry eyes, dry mouth ,,,,1. berry,2. pungent,3. citrus,8.0,sin city kush,n,n,n,n,n,n
@@ -1456,7 +1454,7 @@
 1708,indica,lavender, relaxed, sleepy, happy, euphoric, uplifted , stress, insomnia, pain, depression, muscle spasms , dry mouth, dry eyes, dizzy, headache, anxious ,1. lavender,2. flowery,3. spicy/herbal,724.0,super skunk,afghani,hawaiian,south asian indica,n,n,n
 1709,sativa,lavender haze, creative, energetic, hungry, euphoric, happy , stress, depression, pain, lack of appetite, inflammation , dry mouth, anxious, paranoid, dizzy, dry eyes ,1. lavender,2. earthy,3. blueberry,31.0,lavender,g13 haze,n,n,n,n,n
 1710,hybrid,lavender jones, relaxed, euphoric, happy, uplifted, hungry , depression, pain, stress, inflammation, insomnia , dry mouth, paranoid, anxious, dry eyes, dizzy ,1. earthy,2. lavender,3. flowery,155.0,purple urkle,casey jones,n,n,n,n,n
-1711,hybrid,lazy lightning,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+1711,hybrid,lazy lightning,,,,,,,,,,,,,,,,,,,,headband loompa,88 g13 hashplant,n,n,n,n,n
 1712,hybrid,lazy train,,,,,,,,,,,,,,,,,,,,qrazy train,lavender,n,n,n,n,n
 1713,hybrid,le silver royale, uplifted, happy, relaxed, euphoric, energetic , stress, depression, pain ,,, dry eyes ,,,,,1. cheese,2. pine,3. skunk,,n,n,n,n,n,n,n
 1714,sativa,leda uno, creative, euphoric, energetic, giggly, happy , cramps, nausea, pain, stress ,,,,,,,,,,,kc 33,south american,n,n,n,n,n
@@ -1535,7 +1533,7 @@
 1802,hybrid,lost coast hash plant, euphoric, relaxed, happy ,,, insomnia, stress, depression, eye pressure, headaches ,,,,,,1. flowery,2. pine,3. spicy/herbal,3.0,lost coast og,g13,hash plant,n,n,n,n
 1804,hybrid,lost coast og, uplifted, relaxed, happy, euphoric, talkative , stress, depression, pain, insomnia, fatigue , anxious, dry mouth, dizzy, paranoid, dry eyes ,1. lemon,2. citrus,3. sweet,85.0,lemon thai,south asian,chemdawg 4,n,n,n,n
 1805,hybrid,lost sierra night nurse, creative, energetic, focused, happy, relaxed , cramps, headaches, inflammation, muscle spasms, pain , dry mouth ,,,,,1. chemical,2. diesel,3. sweet,,romulan,shishkaberry,n,n,n,n,n
-1806,hybrid,lotus larry,,,,,,,,,,,,,,,,,,,,snow lotus,n,n,n,n,n,n
+1806,hybrid,lotus larry,,,,,,,,,,,,,,,,,,,,snow lotus,lemon larry og,n,n,n,n,n
 1807,hybrid,loud dream, focused, euphoric, happy, relaxed, creative , pain, depression, stress, inflammation, lack of appetite , dry mouth, dry eyes, dizzy, paranoid, anxious ,1. sweet,2. citrus,3. pine,43.0,blue dream,n,n,n,n,n,n
 1808,hybrid,loud lemonade, tingly, uplifted, relaxed, euphoric, focused ,,,,,,,,,,,1. lemon,,,4.0,lemon skunk,n,n,n,n,n,n
 1809,hybrid,loud scout, happy, uplifted, euphoric, focused, talkative , headaches, depression, fatigue, nausea, pain , dry mouth, headache, dry eyes ,,,1. grape,2. sweet,3. tropical,16.0,girl scout cookies,platinum og,n,n,n,n,n
@@ -1581,9 +1579,9 @@
 1857,hybrid,mandala 1, euphoric, creative, energetic, uplifted, happy , headaches, nausea, stress, depression, cramps , dry mouth, anxious, dry eyes, dizzy, paranoid ,1. apple,2. earthy,3. berry,9.0,african,n,n,n,n,n,n
 1858,hybrid,mandarin cookies, happy, relaxed, uplifted, euphoric, creative , stress, depression, pain, headaches, insomnia , dry mouth, dry eyes ,,,,1. citrus,2. orange,3. sweet,45.0,n,n,n,n,n,n,n
 1859,hybrid,mandarin dreams, relaxed, happy, euphoric, focused, sleepy , pain, insomnia, stress, depression, nausea , anxious, dry eyes, dry mouth, headache, paranoid ,1. sweet,2. tropical,3. citrus,18.0,n,n,n,n,n,n,n
-1860,hybrid,mandarin jack,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+1860,hybrid,mandarin jack,,,,,,,,,,,,,,,,,,,,jack herer,mandarin sunset,n,n,n,n,n
 1861,indica,mandarin sunset, relaxed, sleepy, happy, uplifted, euphoric , stress, depression, pain, insomnia, fatigue , dry mouth, dizzy, dry eyes, anxious ,,1. orange,2. sweet,3. citrus,17.0,herijuana,orange skunk,n,n,n,n,n
-1862,hybrid,mandarin tk,,,,,,,,,,,,,,,,,,,1.0,n,n,n,n,n,n,n
+1862,hybrid,mandarin tk,,,,,,,,,,,,,,,,,,,1.0,triangle kush,mandarin sunset,n,n,n,n,n
 1863,hybrid,mandarin zkittlez, focused, relaxed, sleepy, creative, euphoric , eye pressure, insomnia, stress, pain, nausea , headache, paranoid ,,,,1. citrus,2. grapefruit,3. lemon,2.0,mandarin sunset,n,n,n,n,n,n
 1864,indica,mango, relaxed, happy, euphoric, hungry, sleepy , stress, depression, pain, insomnia, inflammation , dry eyes, dry mouth, headache, anxious, dizzy ,1. mango,2. sweet,3. tropical,471.0,afghani,kc 33,n,n,n,n,n
 1865,sativa,mango dream, euphoric, focused, hungry, happy, uplifted , stress, depression, pain, lack of appetite, fatigue , dry mouth, dry eyes, dizzy, headache, anxious ,1. mango,2. citrus,3. sweet,47.0,mango,blue dream,n,n,n,n,n
@@ -1630,7 +1628,7 @@
 1916,hybrid,mean misty, relaxed, uplifted, energetic, euphoric, giggly , depression, insomnia, stress ,,,,,,,,1. flowery,2. sweet,,,secret recipe,blue dream,n,n,n,n,n
 1917,sativa,medihaze, relaxed, focused, energetic, happy, uplifted , stress, depression, headaches, fatigue, pain , dry mouth, headache, dizzy, anxious, paranoid ,1. earthy,2. sweet,3. woody,128.0,nevilles haze,super silver haze,n,n,n,n,n
 1918,hybrid,medibud, uplifted, euphoric, energetic, talkative, giggly , pain, depression, stress, headaches, inflammation , dry mouth, dry eyes, anxious, dizzy, headache ,1. sweet,2. flowery,3. tea,97.0,n,n,n,n,n,n,n
-1919,indica,medical 49,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+1919,indica,medical 49,,,,,,,,,,,,,,,,,,,,russian snow,ak 49,skunk no 1,n,n,n,n
 1920,hybrid,medicine man, relaxed, euphoric, uplifted, sleepy, happy , pain, stress, nausea, insomnia, inflammation , dry mouth, dry eyes, paranoid, anxious, dizzy ,1. earthy,2. flowery,3. citrus,123.0,south american,south indian,afghani,n,n,n,n
 1921,hybrid,medicine woman, aroused, uplifted, euphoric, focused, relaxed , pain, cramps, depression, inflammation, headaches , dry mouth, anxious, dry eyes, paranoid ,,1. earthy,2. diesel,3. citrus,24.0,dynamite,hash plant,g13,n,n,n,n
 1922,hybrid,medusa, sleepy, relaxed, happy, creative, uplifted , stress, pain, depression, insomnia, nausea , anxious, paranoid, dry mouth, dry eyes, dizzy ,1. sweet,2. earthy,3. blueberry,63.0,n,n,n,n,n,n,n
@@ -1643,7 +1641,7 @@
 1929,sativa,memory loss, happy, uplifted, euphoric, relaxed, energetic , stress, lack of appetite, insomnia, pain, depression , dry mouth, anxious, dry eyes, paranoid, headache ,1. earthy,2. woody,3. citrus,57.0,amnesia haze,face off og,n,n,n,n,n
 1930,indica,mendo afgoo, relaxed, happy, creative, focused, tingly , stress, pain, depression, inflammation, insomnia , dry mouth, dry eyes ,,,,1. earthy,2. sweet,3. pungent,7.0,afghani,n,n,n,n,n,n
 1931,indica,mendo breath, relaxed, euphoric, sleepy, happy, tingly , pain, stress, insomnia, depression, inflammation , dry mouth, dry eyes, paranoid, dizzy, anxious ,1. earthy,2. sweet,3. vanilla,307.0,ogkb,mendo montage,n,n,n,n,n
-1932,hybrid,mendo montage,,,,,,,,,,,,,,,,,,,3.0,mendocino purps,n,n,n,n,n,n
+1932,hybrid,mendo montage,,,,,,,,,,,,,,,,,,,3.0,mendocino purps,crystal locomotive f1,n,n,n,n,n
 1933,hybrid,mendo queen, euphoric, happy, energetic, giggly, relaxed , depression, stress, fatigue, nausea, pain , dry eyes, dry mouth, headache, paranoid ,,1. earthy,2. tobacco,3. woody,3.0,mendocino purps,n,n,n,n,n,n
 1934,hybrid,mendo supremo, creative, euphoric, giggly, relaxed ,,,,,,,,,,,,,,,,mendo queen,mendo montage,n,n,n,n,n
 1935,hybrid,mendocino madness, aroused, uplifted, energetic, euphoric, talkative ,,,,,, dry mouth ,,,,,1. chestnut,2. earthy,,3.0,n,n,n,n,n,n,n
@@ -1666,7 +1664,7 @@
 1954,hybrid,millennium, energetic, giggly, sleepy, relaxed, creative , pain, stress, headaches, depression, fatigue , dry mouth, dry eyes, paranoid, dizzy, headache ,1. blueberry,2. earthy,3. berry,,n,n,n,n,n,n,n
 1956,hybrid,mimosa, happy, uplifted, focused, energetic, relaxed , stress, depression, pain, fatigue, lack of appetite , dry mouth, dry eyes, dizzy, anxious, paranoid ,1. citrus,2. sweet,3. orange,255.0,clementine,purple punch,n,n,n,n,n
 1958,hybrid,mint chocolate chip, happy, relaxed, tingly, uplifted, euphoric , depression, fatigue, insomnia, stress, pain , dry mouth, anxious, dry eyes, headache ,,1. mint,2. diesel,3. pungent,29.0,sinmint cookies,green ribbon,n,n,n,n,n
-1960,hybrid,mint lemonade,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+1960,hybrid,mint lemonade,,,,,,,,,,,,,,,,,,,,seamint cookies,lemon g,n,n,n,n,n
 1962,hybrid,mission kush, creative, relaxed, happy, energetic, euphoric , depression, fatigue, lack of appetite, pain, headaches , headache, dry eyes, paranoid ,,,1. pine,,,3.0,silver surfer,haze,n,n,n,n,n
 1964,indica,misty kush, happy, uplifted, focused, relaxed, energetic , stress, depression, lack of appetite, pain, muscle spasms , dry mouth, dry eyes, dizzy, headache, paranoid ,1. earthy,2. citrus,3. sweet,27.0,n,n,n,n,n,n,n
 1966,hybrid,misty morning, euphoric, relaxed, sleepy, happy ,, stress, insomnia, depression, headaches, inflammation , dry eyes ,,,,,1. earthy,2. flowery,3. pungent,2.0,n,n,n,n,n,n,n
@@ -1676,7 +1674,7 @@
 1970,indica,money maker, relaxed, sleepy, uplifted, focused, euphoric , fatigue, stress, pain, insomnia, depression , dry mouth, dry eyes, paranoid, anxious, dizzy ,1. earthy,2. spicy/herbal,3. woody,56.0,hindu kush,master kush,skunk 1,n,n,n,n
 1971,indica,monkey bread 1, hungry, relaxed, euphoric, focused, sleepy , lack of appetite, depression, pain, stress, headaches ,,,,,,,,,3.0,grease monkey,gsc,n,n,n,n,n
 1972,hybrid,monkey paw, happy, uplifted, relaxed, euphoric, creative , depression, stress, pain, lack of appetite, fatigue , dry mouth, paranoid, anxious, dry eyes, dizzy ,1. earthy,2. citrus,3. skunk,48.0,acapulco gold,colombian gold,afghani,n,n,n,n
-1973,hybrid,monkey thunder, relaxed, sleepy ,,,, insomnia, lack of appetite, muscle spasms ,,, dry eyes ,,,,,,,,3.0,tropic thunder,n,n,n,n,n,n
+1973,hybrid,monkey thunder, relaxed, sleepy ,,,, insomnia, lack of appetite, muscle spasms ,,, dry eyes ,,,,,,,,3.0,tropic thunder,lemon pineapple,monkey face,n,n,n,n
 1974,indica,monolith, relaxed, happy, sleepy, euphoric, hungry , insomnia, stress, lack of appetite, pain, depression ,,,,,,1. pungent,2. earthy,3. pine,6.0,n,n,n,n,n,n,n
 1975,indica,monster cookies, relaxed, euphoric, happy, sleepy, creative , pain, stress, depression, muscle spasms, insomnia , dry mouth, dry eyes, dizzy, headache, paranoid ,1. earthy,2. woody,3. grape,288.0,girl scout cookies,granddaddy purple,n,n,n,n,n
 1976,hybrid,monster og, relaxed, euphoric, sleepy, uplifted, happy , depression, fatigue, pain, stress, lack of appetite , dry mouth, paranoid, headache, anxious, dry eyes ,1. citrus,2. pungent,3. tropical,46.0,og kush,sfv og,n,n,n,n,n
@@ -1700,12 +1698,12 @@
 1994,indica,mother of all cherries, happy, relaxed, creative, euphoric, focused , insomnia, stress, depression ,,, dry mouth ,,,,,1. berry,2. blueberry,3. grapefruit,2.0,mother of berries,cherry pie,n,n,n,n,n
 1995,indica,mother of berries, relaxed, hungry, sleepy, happy, creative , stress, pain, insomnia, muscle spasms, lack of appetite , dry mouth, anxious, paranoid, headache, dry eyes ,1. berry,2. sweet,3. blueberry,154.0,blueberry,n,n,n,n,n,n
 1996,hybrid,mothers milk, euphoric, happy, uplifted, relaxed, creative , pain, stress, headaches, insomnia, muscle spasms , dry eyes, dry mouth, anxious, dizzy, paranoid ,1. cheese,2. earthy,3. sweet,48.0,appalachia,n,n,n,n,n,n
-1997,sativa,mothertongue, energetic, euphoric, giggly, happy ,,,,,,,,,,,,,,,3.0,jesus og,n,n,n,n,n,n
+1997,sativa,mother tongue,euphoric,energetic,happy,uplifted,creative,fatigue,stress,lack of appetite,pain,inflammation,anxious,dry mouth,dry eyes,dizzy,paranoid,1. pungent,2. sweet,3. earthy,28,afgooey,watermelon og,jog kush,n,n,n,n
 1998,hybrid,motorbreath, euphoric, relaxed, happy, uplifted, creative , stress, depression, pain, inflammation, lack of appetite , anxious, dry eyes ,,,,1. diesel,2. pungent,3. citrus,25.0,chemdog,sfv og,n,n,n,n,n
 1999,hybrid,mountain girl, happy, relaxed, uplifted, tingly, focused , depression, stress, fatigue, pain, inflammation , dry eyes, dizzy, dry mouth ,,,1. earthy,2. sage,3. pungent,11.0,willys wonder,granddaddy purple,white widow,n,n,n,n
 2000,hybrid,mountain girl x grape ape, creative, energetic, hungry, relaxed, tingly , stress, depression, fatigue, headaches, inflammation , anxious, dizzy, dry mouth, paranoid ,,,,,,mountain girl,grape ape,n,n,n,n,n
-2001,sativa,mountain temple,,,,,,,,,,,,,,,,,,,,appalachia,n,n,n,n,n,n
-2002,sativa,mountain thunder, energetic, focused, happy, creative, aroused ,,,,,,,,,,,1. earthy,2. pepper,3. woody,6.0,sour bubble,n,n,n,n,n,n
+2001,sativa,mountain temple,,,,,,,,,,,,,,,,,,,,appalachia,temple,n,n,n,n,n
+2002,sativa,mountain thunder, energetic, focused, happy, creative, aroused ,,,,,,,,,,,1. earthy,2. pepper,3. woody,6.0,sour bubble,mad cow,n,n,n,n,n
 2004,hybrid,mozambique poison, creative, focused, uplifted, aroused, energetic , fatigue, headaches, stress ,,,,,,,,1. earthy,2. pine,3. sweet,3.0,n,n,n,n,n,n,n
 2006,indica,mr nice, relaxed, happy, uplifted, euphoric, sleepy , stress, pain, depression, insomnia, headaches , dry mouth, dry eyes, dizzy, headache, anxious ,1. earthy,2. pungent,3. spicy/herbal,780.0,g13,hash plant,n,n,n,n,n
 2008,hybrid,mr tusk, happy, euphoric, tingly, relaxed, talkative , depression, headaches, insomnia, lack of appetite, pain , dry mouth ,,,,,1. citrus,2. flowery,3. sweet,7.0,n,n,n,n,n,n,n
@@ -1732,11 +1730,11 @@
 2034,hybrid,nepalese jam, creative, relaxed, uplifted, focused, giggly ,,,,,, dry eyes ,,,,,1. earthy,2. pine,3. tropical,6.0,nepalese,jamaican,n,n,n,n,n
 2035,indica,neptune kush, relaxed, uplifted, euphoric, creative, happy , stress, depression, insomnia, pain, lack of appetite , dry mouth, headache, dry eyes, anxious, dizzy ,1. honey,2. sweet,3. apple,,n,n,n,n,n,n,n
 2036,indica,neptune og, euphoric, relaxed, sleepy, focused, happy , pain, insomnia, stress, nausea, muscle spasms , dry mouth, paranoid, dizzy, anxious, dry eyes ,1. berry,2. pungent,3. earthy,40.0,n,n,n,n,n,n,n
-2037,hybrid,neroli 91,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+2037,hybrid,neroli 91,,,,,,,,,,,,,,,,,,,,skunk va,wookie 15,n,n,n,n,n
 2038,sativa,nevils wreck, energetic, tingly, giggly, talkative, hungry , inflammation, muscle spasms, nausea, pain, stress , dry mouth, headache, dry eyes, paranoid, anxious ,1. earthy,2. pine,3. sage,12.0,trainwreck,nevilles haze,n,n,n,n,n
 2039,sativa,nevilles haze, creative, uplifted, energetic, euphoric, aroused , depression, fatigue, inflammation, pain, stress , dry eyes, dry mouth, anxious, dizzy, paranoid ,1. citrus,2. sweet,3. diesel,95.0,northern lights 5,haze,n,n,n,n,n
 2040,hybrid,new glue, relaxed, happy, euphoric, tingly, uplifted , pain, headaches, depression, stress, insomnia , dry mouth, dry eyes, dizzy, paranoid, headache ,1. diesel,2. earthy,3. flowery,117.0,chems sister,chocolate diesel,sour dubble,n,n,n,n
-2041,hybrid,newberry,,,,,,,,,,,,,,,,,,,,blueberry,n,n,n,n,n,n
+2041,hybrid,newberry,,,,,,,,,,,,,,,,,,,,blueberry,blue heaven f4,n,n,n,n,n
 2042,indica,nexus og, relaxed, happy, creative, euphoric, giggly , depression, fatigue, insomnia, lack of appetite, nausea , dry mouth, dry eyes ,,,,1. berry,2. earthy,3. pungent,4.0,n,n,n,n,n,n,n
 2043,indica,nice cherry, relaxed, happy, hungry, sleepy, talkative , depression, insomnia, lack of appetite, stress, headaches , dry eyes, dry mouth, headache ,,,1. berry,2. pine,3. pungent,14.0,mr nice,n,n,n,n,n,n
 2044,indica,nicole kush, relaxed, euphoric, happy, sleepy, uplifted , depression, insomnia, stress, fatigue, headaches , dry mouth, dry eyes ,,,,1. pungent,2. earthy,3. sweet,20.0,kosher kush,n,n,n,n,n,n
@@ -1754,7 +1752,7 @@
 2057,indica,north indian, happy, uplifted, hungry, euphoric, focused , nausea, stress, depression, headaches, insomnia , dry eyes, dry mouth, dizzy ,,,1. earthy,2. tropical,3. woody,4.0,n,n,n,n,n,n,n
 2059,hybrid,northern cross, creative, energetic, euphoric, focused, happy , lack of appetite ,,,,, anxious ,,,,,1. flowery,2. sweet,3. tea,,chernobyl,permafrost,n,n,n,n,n
 2061,indica,northern lights, relaxed, happy, sleepy, euphoric, hungry , stress, pain, insomnia, depression, headaches , dry mouth, dry eyes, dizzy, paranoid, headache ,1. earthy,2. sweet,3. pine,2914.0,afghani,thai,n,n,n,n,n
-2063,indica,northern lights 5,,,,,,,,,,,,,,,,,,,,afghani,n,n,n,n,n,n
+2063,indica,northern lights 5,happy,euphoric,gigg,talkative,aroused,stress,depression,pain,insomnia,muscle spasms,dry mouth,anxious,paranoid,dry eyes,headache,1. earthy,2. pine,3. flowery,179,afghani,n,n,n,n,n,n
 2065,sativa,northern lights 5 x haze, happy, uplifted, energetic, euphoric, relaxed , stress, insomnia, depression, fatigue, lack of appetite , dry mouth, dry eyes, dizzy, anxious ,,1. earthy,2. spicy/herbal,3. pungent,40.0,northern lights 5,haze,n,n,n,n,n
 2067,hybrid,northern skunk, happy, relaxed, euphoric, uplifted, tingly , stress, pain, inflammation, insomnia, nausea , dry mouth, dry eyes, anxious, paranoid ,,1. skunk,2. pepper,3. earthy,50.0,northern lights,super skunk,n,n,n,n,n
 2069,indica,northern wreck, euphoric, happy, uplifted, hungry, giggly , stress, pain, depression, headaches, insomnia , dry mouth, dry eyes, dizzy, anxious, paranoid ,1. earthy,2. sweet,3. flowery,80.0,northern lights,trainwreck,n,n,n,n,n
@@ -1785,7 +1783,7 @@
 2094,hybrid,og skunk, uplifted, happy, relaxed, euphoric, creative , stress, pain, lack of appetite, fatigue, insomnia , dry mouth, dry eyes, anxious, headache, dizzy ,1. skunk,2. pungent,3. diesel,48.0,og 18,skunk no 1,n,n,n,n,n
 2095,hybrid,og sour diesel, sleepy, happy, relaxed, hungry, talkative , eye pressure, pain, stress, lack of appetite, nausea , dry mouth, dry eyes ,,,,1. pine,2. diesel,3. pungent,11.0,sour og,east coast sour diesel,n,n,n,n,n
 2096,hybrid,og strawberry, relaxed, happy, creative, euphoric, focused , stress, pain, depression, muscle spasms, fatigue , dry mouth, dizzy, dry eyes ,,,1. sweet,2. strawberry,3. berry,28.0,og kush,afghani,n,n,n,n,n
-2097,hybrid,og strawberry star killer,,,,,,,,,,,,,,,,,,,,strawberry diesel,n,n,n,n,n,n
+2097,hybrid,og strawberry star killer,,,,,,,,,,,,,,,,,,,,strawberry diesel,starkiller og,n,n,n,n,n
 2098,hybrid,og tonic, aroused, energetic, euphoric, happy ,, depression, fatigue, headaches, insomnia, nausea , dry mouth ,,,,,1. earthy,2. pungent,3. woody,,n,n,n,n,n,n,n
 2099,hybrid,og wreck, happy, euphoric, uplifted, energetic, hungry , stress, pain, depression, fatigue, insomnia , dry mouth, dry eyes, headache, paranoid, anxious ,1. sweet,2. skunk,3. earthy,55.0,og kush,trainwreck,n,n,n,n,n
 2100,indica,ogs pearl, relaxed, happy, sleepy, euphoric, hungry , pain, stress, insomnia, depression, inflammation , dry mouth, anxious, dizzy, dry eyes, headache ,1. earthy,2. pungent,3. sweet,25.0,n,n,n,n,n,n,n
@@ -1819,14 +1817,14 @@
 2135,hybrid,orange diesel, euphoric, relaxed, focused, uplifted, energetic , stress, pain, fatigue, lack of appetite, depression , dry mouth, dry eyes, paranoid, anxious, dizzy ,1. orange,2. diesel,3. citrus,76.0,sour diesel,agent orange,n,n,n,n,n
 2136,hybrid,orange dream, relaxed, happy, uplifted, energetic, hungry , stress, depression, pain, cramps, fatigue , dry mouth, headache, dry eyes, paranoid, dizzy ,1. orange,2. vanilla,3. citrus,83.0,orange crush,blue dream,n,n,n,n,n
 2137,sativa,orange durban, energetic, uplifted, focused, happy, talkative , depression, fatigue, headaches, stress, eye pressure , dry eyes, dry mouth, headache ,,,1. orange,2. pine,3. citrus,11.0,durban poison,n,n,n,n,n,n
-2138,hybrid,orange fanta,,,,,,,,,,,,,,,,,,,,agent orange,n,n,n,n,n,n
+2138,hybrid,orange fanta,,,,,,,,,,,,,,,,,,,,agent orange,platinum gelato chem,hindu ibl,n,n,n,n
 2139,hybrid,orange harambe, tingly, relaxed, sleepy, happy, hungry , eye pressure, fatigue, headaches ,,,,,,,,,,,5.0,mandarin sunset,n,n,n,n,n,n
 2140,hybrid,orange haze, happy, hungry, uplifted, talkative, energetic , cramps, stress, depression, lack of appetite, inflammation , dry mouth, dry eyes, dizzy, paranoid, anxious ,1. earthy,2. citrus,3. woody,153.0,orange bud,haze,n,n,n,n,n
 2141,hybrid,orange hill special, happy, sleepy, hungry, focused, uplifted , insomnia, stress, lack of appetite, depression, fatigue , dry mouth, dry eyes ,,,,1. orange,2. citrus,3. sweet,10.0,orange bud,california orange,n,n,n,n,n
 2142,hybrid,orange juice, relaxed, sleepy, happy, euphoric, uplifted , insomnia, stress, depression, fatigue, lack of appetite , dry eyes, dry mouth, dizzy, anxious, paranoid ,1. orange,2. citrus,3. diesel,42.0,og kush,california orange,n,n,n,n,n
 2143,indica,orange kush, relaxed, happy, sleepy, uplifted, euphoric , stress, pain, depression, insomnia, headaches , dry mouth, dry eyes, paranoid, anxious, dizzy ,1. orange,2. citrus,3. earthy,717.0,og kush,orange bud,n,n,n,n,n
 2144,hybrid,orange kush breath, happy, sleepy, euphoric, relaxed, uplifted , depression, pain, stress, cramps, fatigue , anxious, paranoid ,,,,1. earthy,2. citrus,3. orange,6.0,orange juice,n,n,n,n,n,n
-2145,hybrid,orange poison,,,,,,,,,,,,,,,,,,,,durban poison,n,n,n,n,n,n
+2145,hybrid,orange poison,,,,,,,,,,,,,,,,,,,,durban poison,orange juice,n,n,n,n,n
 2146,indica,orange romulan, euphoric, relaxed, giggly, happy, tingly , headaches, stress, fatigue, insomnia, lack of appetite ,,,,,,1. citrus,2. orange,3. grapefruit,,orange kush,romulan,n,n,n,n,n
 2147,hybrid,orange skunk, happy, euphoric, giggly, talkative, energetic , stress, depression, pain, lack of appetite, headaches , dry mouth, anxious, paranoid, dry eyes, headache ,1. orange,2. skunk,3. citrus,38.0,california orange,skunk no 1,n,n,n,n,n
 2148,hybrid,orange snow cone, creative, energetic, euphoric, focused, happy , headaches ,,,,, headache ,,,,,1. tar,2. citrus,3. earthy,2.0,agent orange,n,n,n,n,n,n
@@ -1843,8 +1841,8 @@
 2159,indica,ortega, relaxed, giggly, uplifted, euphoric, sleepy , pain, depression, lack of appetite, cramps, headaches , dry eyes, dry mouth ,,,,1. spicy/herbal,2. earthy,3. pepper,9.0,northern lights,n,n,n,n,n,n
 2160,sativa,outer space, uplifted, euphoric, relaxed, focused, happy , depression, stress, pain, inflammation, muscle spasms , dry mouth, dry eyes, anxious, paranoid, headache ,1. sweet,2. citrus,3. earthy,101.0,island sweet skunk,trinity,n,n,n,n,n
 2161,sativa,outlaw, uplifted, euphoric, happy, relaxed, creative , stress, pain, headaches, inflammation, muscle spasms , dry mouth, dry eyes, headache ,,,1. earthy,2. sweet,3. citrus,16.0,haze,amnesia,n,n,n,n,n
-2163,hybrid,ozma,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
-2165,hybrid,ptsd,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+2163,hybrid,ozma,,,,,,,,,,,,,,,,,,,,harlequin,cannatonic,sour tsunami,n,n,n,n
+2165,hybrid,ptsd,,,,,,,,,,,,,,,,,,,,revival,sour diesel,n,n,n,n,n
 2167,indica,pvc og, focused, tingly, energetic, euphoric, giggly , muscle spasms, pain, stress ,,, dry mouth ,,,,,,,,,n,n,n,n,n,n,n
 2169,indica,pacific blue, happy, euphoric, aroused, focused, creative , stress, insomnia, pain, depression, headaches , dry mouth, dry eyes, dizzy ,,,1. earthy,2. flowery,3. woody,16.0,pre-98 bubba kush,dj short blueberry,n,n,n,n,n
 2171,hybrid,pacific frost, creative, happy, focused, energetic, euphoric , cramps, depression, lack of appetite, muscle spasms, pain ,,,,,,1. berry,2. grape,3. rose,6.0,frosty,n,n,n,n,n,n
@@ -1931,7 +1929,7 @@
 2259,indica,pink sunset, euphoric, sleepy, relaxed, giggly, tingly , insomnia, stress, inflammation, lack of appetite, depression , paranoid, dizzy, dry mouth, dry eyes, anxious ,1. sweet,2. berry,3. flowery,10.0,sunset sherbet,n,n,n,n,n,n
 2260,indica,pinkman goo, focused, happy, uplifted, relaxed, euphoric , insomnia, cramps, seizures, fatigue, pain ,,,,,,1. sweet,2. berry,3. mint,10.0,n,n,n,n,n,n,n
 2261,sativa,pinot green, focused, energetic, creative, euphoric, talkative , depression, inflammation, lack of appetite, nausea, pain , anxious, dizzy ,,,,1. earthy,2. citrus,3. flowery,12.0,ak-47,white widow,n,n,n,n,n
-2262,hybrid,pirate radio,,,,,,,,,,,,,,,,,,,,sour bubble,n,n,n,n,n,n
+2262,hybrid,pirate radio,,,,,,,,,,,,,,,,,,,,sour bubble,somali taxi ride,n,n,n,n,n
 2263,indica,pitbull, relaxed, sleepy, euphoric, uplifted, happy , stress, depression, headaches, pain, insomnia , dry eyes, dry mouth, dizzy, paranoid, anxious ,1. pungent,2. skunk,3. berry,168.0,p-91,sugar plum,n,n,n,n,n
 2264,indica,placenta, creative ,,,,, headaches, inflammation, muscle spasms ,,, dry mouth ,,,,,1. earthy,2. nutty,3. pungent,2.0,mother of all cherries,gmo cookies,n,n,n,n,n
 2266,indica,platinum bubba kush, relaxed, happy, hungry, euphoric, sleepy , stress, pain, depression, lack of appetite, insomnia , dry mouth, dry eyes, headache, dizzy, paranoid ,1. earthy,2. flowery,3. sweet,374.0,platinum og,bubba kush,n,n,n,n,n
@@ -1955,15 +1953,15 @@
 2290,sativa,powderhound, energetic, euphoric, focused, happy, relaxed , inflammation ,,,,, dry mouth ,,,,,1. pine,2. pungent,,2.0,jack herer,n,n,n,n,n,n
 2291,indica,power kush, relaxed, sleepy, euphoric, happy, hungry , stress, pain, depression, insomnia, muscle spasms , dry eyes, dry mouth, dizzy, paranoid, headache ,1. skunk,2. sweet,3. citrus,107.0,afghani,skunk no 1,n,n,n,n,n
 2292,sativa,power plant, happy, uplifted, relaxed, euphoric, talkative , pain, stress, insomnia, depression, lack of appetite , dry mouth, dry eyes, dizzy, anxious, headache ,1. earthy,2. pungent,3. sweet,331.0,african,n,n,n,n,n,n
-2293,hybrid,power purps,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
-2294,hybrid,powernap,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+2293,hybrid,power purps,,,,,,,,,,,,,,,,,,,,las vegas purple kush,blue purple,n,n,n,n,n
+2294,hybrid,powernap,,,,,,,,,,,,,,,,,,,,blue power,white nightmare,n,n,n,n,n
 2295,hybrid,prayer tower,,,,,,,,,,,,,,,,,,,,appalachia,lemon thai,n,n,n,n,n
 2296,hybrid,predator pink, happy, euphoric, uplifted, relaxed, focused , stress, depression, insomnia, inflammation, headaches , dry mouth, dizzy, anxious, dry eyes, paranoid ,1. earthy,2. sweet,3. pungent,35.0,plushberry,starfighter,n,n,n,n,n
 2297,indica,presidential og, relaxed, happy, euphoric, sleepy, tingly , pain, stress, nausea, headaches, lack of appetite , dry mouth, dry eyes, dizzy, paranoid, headache ,1. earthy,2. pine,3. sweet,359.0,bubble gum,og kush,n,n,n,n,n
 2298,indica,prevention, creative, euphoric, happy, relaxed, focused , lack of appetite, depression, fatigue, headaches, inflammation , dry mouth ,,,,,1. earthy,2. sweet,3. flowery,4.0,romulan,blueberry,pre-98 bubba kush,n,n,n,n
 2299,indica,primus, happy, relaxed, uplifted, creative, tingly , stress, pain, insomnia, inflammation, muscle spasms , dry mouth, dry eyes, dizzy, anxious, paranoid ,1. tropical,2. violet,3. woody,103.0,trainwreck,303 og,n,n,n,n,n
 2300,sativa,princess, euphoric, relaxed, creative, happy, tingly , depression, nausea ,,,, dry mouth, paranoid ,,,,1. earthy,2. woody,3. flowery,3.0,jack herer,n,n,n,n,n,n
-2301,hybrid,prismatic jack,,,,,,,,,,,,,,,,,,,,jack skellington,n,n,n,n,n,n
+2301,hybrid,prismatic jack,,,,,,,,,,,,,,,,,,,,jack skellington,prismatic,n,n,n,n,n
 2302,hybrid,professor chaos, uplifted, focused, energetic, euphoric, talkative , pain, fatigue, nausea, muscle spasms, stress , dry mouth, dry eyes, dizzy, headache ,,1. citrus,2. sweet,3. berry,35.0,jack the ripper,mad scientist,n,n,n,n,n
 2303,hybrid,project blue book, happy, uplifted, euphoric, focused, creative , pain, stress, depression, fatigue, muscle spasms , dry mouth, anxious, dry eyes ,,,1. sweet,2. berry,3. earthy,12.0,n,n,n,n,n,n,n
 2304,hybrid,project blue book, happy, uplifted, euphoric, focused, creative , pain, stress, depression, fatigue, muscle spasms , dry mouth, anxious, dry eyes ,,,1. sweet,2. berry,3. earthy,,n,n,n,n,n,n,n
@@ -2020,7 +2018,7 @@
 2362,indica,purple martian kush, relaxed, euphoric, sleepy, happy, giggly , stress, pain, insomnia, depression, nausea , dry mouth, dry eyes, headache, anxious, dizzy ,1. sweet,2. grape,3. berry,15.0,purple kush,blackberry kush,martian mean green,n,n,n,n
 2363,hybrid,purple maui, happy, uplifted, relaxed, tingly, talkative , depression, stress, pain, headaches, fatigue , dry mouth, anxious, dizzy, paranoid ,,1. sweet,2. grape,3. pine,15.0,n,n,n,n,n,n,n
 2364,indica,purple monkey balls, relaxed, sleepy, happy, giggly, hungry , stress, pain, depression, nausea, inflammation , paranoid, dry mouth, anxious, dry eyes, headache ,1. citrus,2. earthy,3. diesel,99.0,afghani,mendocino purps,n,n,n,n,n
-2365,hybrid,purple moss,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+2365,hybrid,purple moss,,,,,,,,,,,,,,,,,,,,big stinky purple ,russian ghost ruderalis,raymond moss,n,n,n,n
 2366,indica,purple mr nice, relaxed, sleepy, euphoric, happy, uplifted , insomnia, pain, stress, fatigue, muscle spasms , dry eyes, dry mouth, headache, dizzy, paranoid ,1. earthy,2. grape,3. berry,149.0,granddaddy purple,mr nice,n,n,n,n,n
 2367,indica,purple nepal, euphoric, relaxed, happy, hungry, creative , depression, stress, lack of appetite, insomnia, pain , dry mouth, dry eyes, dizzy, headache, paranoid ,1. sweet,2. grape,3. pungent,65.0,n,n,n,n,n,n,n
 2368,indica,purple og kush, relaxed, happy, euphoric, sleepy, hungry , stress, pain, insomnia, depression, lack of appetite , dry mouth, dry eyes, anxious, paranoid, dizzy ,1. earthy,2. sweet,3. woody,359.0,og kush,purple kush,n,n,n,n,n
@@ -2054,7 +2052,7 @@
 2404,sativa,q3, happy, uplifted, euphoric, tingly, giggly , pain, stress, depression, insomnia ,, dry eyes, dry mouth ,,,,1. tree fruit,2. orange,3. citrus,,n,n,n,n,n,n,n
 2405,hybrid,qleaner, energetic, happy, uplifted, euphoric, relaxed , depression, headaches, pain, stress, nausea , dry mouth, anxious, dry eyes, dizzy, headache ,1. ammonia,2. tar,3. citrus,36.0,jacks cleaner,querkle,n,n,n,n,n
 2406,hybrid,qrazy train, relaxed, happy, euphoric, hungry, sleepy , pain, stress, depression, insomnia, seizures , dry mouth, dry eyes, dizzy, headache, anxious ,1. sweet,2. skunk,3. lemon,167.0,trainwreck,trinity,purple urkle,space queen,n,n,n
-2407,hybrid,quad dawg, creative, euphoric, aroused, energetic, happy ,,,,,,,,,,,1. lemon,,,2.0,n,n,n,n,n,n,n
+2407,hybrid,quad dawg, creative, euphoric, aroused, energetic, happy ,,,,,,,,,,,1. lemon,,,2.0,chem 4,white dawg fire go,n,n,n,n,n
 2408,sativa,quantum kush, euphoric, relaxed, happy, uplifted, creative , stress, depression, pain, headaches, inflammation , dry mouth, dry eyes, dizzy, anxious, paranoid ,1. earthy,2. pine,3. lemon,245.0,timewreck,n,n,n,n,n,n
 2409,hybrid,quebec gold, happy, relaxed, uplifted, euphoric, hungry , depression, stress, lack of appetite, pain, fatigue , dry mouth, dry eyes, anxious, dizzy ,,1. citrus,2. lemon,3. pine,16.0,m-39,freezeland,n,n,n,n,n
 2410,indica,queen mother goji, euphoric, relaxed, happy, uplifted, focused , fatigue, insomnia, depression, eye pressure, nausea , dry mouth, dizzy, anxious, dry eyes, headache ,1. berry,2. woody,3. earthy,10.0,snow lotus,n,n,n,n,n,n
@@ -2076,7 +2074,7 @@
 2430,sativa,raspberry cough, happy, uplifted, energetic, focused, creative , depression, pain, fatigue, stress, muscle spasms , dry mouth, headache, anxious, dizzy, dry eyes ,1. berry,2. sweet,3. strawberry,110.0,ice,cambodian,n,n,n,n,n
 2432,hybrid,raspberry diesel, creative, happy, energetic, euphoric, focused , headaches, stress, depression, eye pressure, inflammation , dry eyes, anxious, dizzy, dry mouth ,,1. berry,2. diesel,3. flowery,4.0,sour diesel,n,n,n,n,n,n
 2434,indica,raspberry kush, relaxed, euphoric, happy, focused, sleepy , stress, depression, pain, insomnia, lack of appetite , dry mouth, dry eyes, dizzy, paranoid, headache ,1. berry,2. earthy,3. spicy/herbal,359.0,n,n,n,n,n,n,n
-2436,hybrid,raspberry tart,,,,,,,,,,,,,,,,,,,,amnesia haze,n,n,n,n,n,n
+2436,hybrid,raspberry tart,,,,,,,,,,,,,,,,,,,,amnesia haze,amina berry,brian berry,n,n,n,n
 2438,hybrid,raw diesel, relaxed, euphoric, creative, energetic, happy , pain, stress, depression, headaches, nausea , dry mouth, dizzy, dry eyes ,,,1. earthy,2. diesel,3. woody,12.0,nyc diesel,g13 haze,n,n,n,n,n
 2439,indica,ray charles, relaxed, sleepy, euphoric, happy, tingly , pain, insomnia, depression, stress, inflammation , headache, dry eyes, anxious, dry mouth ,,1. earthy,2. pine,3. diesel,47.0,n,n,n,n,n,n,n
 2440,hybrid,rebel berry og, happy, uplifted, euphoric, relaxed, aroused , depression, cramps, headaches, stress, pain , anxious, dry eyes, dry mouth ,,,1. blueberry,2. berry,3. cheese,9.0,blueberry cheesecake,og kush,n,n,n,n,n
@@ -2103,7 +2101,7 @@
 2461,hybrid,remo chemo, euphoric, happy, hungry, relaxed, sleepy , spasticity, depression, inflammation, insomnia, pain , dry eyes, dry mouth ,,,,1. pepper,2. spicy/herbal,3. earthy,3.0,n,n,n,n,n,n,n
 2462,hybrid,rene, happy, uplifted, relaxed, energetic, aroused , stress, depression, pain, headaches, insomnia , dry eyes, paranoid, dry mouth, headache, anxious ,1. earthy,2. sweet,3. rose,,afghani,skunk no 1,n,n,n,n,n
 2463,hybrid,rene mist, happy, hungry, relaxed, uplifted, aroused , pain, stress, depression, lack of appetite, muscle spasms , dizzy, dry eyes, dry mouth ,,,1. earthy,2. flowery,3. rose,,cannatonic,rene,n,n,n,n,n
-2464,hybrid,revival,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+2464,hybrid,revival,,,,,,,,,,,,,,,,,,,,boax,otto II,n,n,n,n,n
 2465,hybrid,richie rich, happy, energetic, talkative, euphoric, creative , stress, pain, headaches, cramps, eye pressure , dry mouth, dry eyes ,,,,1. sweet,2. lemon,3. mango,4.0,northern lights 5,skunk no 1,n,n,n,n,n
 2466,hybrid,riddler og, aroused, creative, focused, giggly, happy , inflammation, depression, headaches, insomnia, lack of appetite , anxious, dizzy, dry eyes, dry mouth ,,1. earthy,2. flowery,3. pungent,,sour dubble,master kush,n,n,n,n,n
 2467,sativa,ridge berry, relaxed, sleepy, aroused, energetic, euphoric , fatigue, nausea, stress ,,, anxious, dizzy ,,,,1. earthy,2. chemical,3. flowery,,chems sister,sour dubble,n,n,n,n,n
@@ -2137,7 +2135,7 @@
 2503,sativa,royal haze, happy, creative, uplifted, euphoric, energetic , depression, stress, pain, fatigue, eye pressure , dry mouth, dry eyes, headache ,,,1. citrus,2. woody,3. earthy,29.0,haze,northern lights,skunk no 1,n,n,n,n
 2504,hybrid,royal highness, energetic, happy, relaxed, uplifted, focused , pain, stress, lack of appetite, headaches, fatigue , dry mouth, anxious, dry eyes, headache ,,1. sweet,2. pineapple,3. diesel,43.0,dancehall,n,n,n,n,n,n
 2505,hybrid,royal kush, relaxed, euphoric, sleepy, tingly, happy , cramps, stress, insomnia, pain, depression , headache, dry mouth, dry eyes, dizzy, paranoid ,1. earthy,2. skunk,3. tree fruit,187.0,afghani,skunk no 1,n,n,n,n,n
-2506,sativa,royal salute,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+2506,sativa,royal salute,,,,,,,,,,,,,,,,,,,,royal sour,long valley secret sauce,n,n,n,n,n
 2507,hybrid,royal tree sherbet, relaxed, happy, uplifted ,,, inflammation, lack of appetite, stress ,,,,,,,,1. tropical,2. berry,3. earthy,,platinum girl scout cookies,n,n,n,n,n,n
 2508,hybrid,rubicon, happy, relaxed, uplifted, giggly, focused , eye pressure, stress, inflammation, pain, fatigue , dry mouth, dry eyes, anxious ,,,1. flowery,2. sage,3. pungent,23.0,n,n,n,n,n,n,n
 2509,hybrid,rudeboi og, relaxed, euphoric, focused, creative, happy , stress, depression, fatigue, muscle spasms, inflammation , dry mouth, anxious, dry eyes, paranoid, dizzy ,1. pine,2. pungent,3. sweet,71.0,face off og,irene og,n,n,n,n,n
@@ -2158,7 +2156,7 @@
 2524,hybrid,samoa kush,,,,,,,,,,,,,,,,,,,,platinum gsc,bubba kush,n,n,n,n,n
 2525,sativa,santa maria, happy, energetic, relaxed, uplifted, giggly , stress, depression, lack of appetite, pain, headaches , dry mouth, dry eyes, dizzy, paranoid, anxious ,1. sweet,2. grapefruit,3. earthy,90.0,silver pearl,n,n,n,n,n,n
 2526,sativa,santa sativa, energetic, aroused, euphoric, hungry, happy , lack of appetite, stress, eye pressure, fatigue, spasticity , dizzy, dry eyes, anxious, dry mouth, headache ,1. blueberry,2. berry,3. earthy,6.0,haze,northern lights,n,n,n,n,n
-2527,hybrid,sapphire cherries,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+2527,hybrid,sapphire cherries,,,,,,,,,,,,,,,,,,,,crossing sapphire og,glazed cherries,n,n,n,n,n
 2528,hybrid,sapphire scout, relaxed, happy, euphoric, uplifted, creative , stress, insomnia, depression, lack of appetite, pain , anxious, dry eyes, dry mouth ,,,1. sweet,2. berry,3. blueberry,14.0,girl scout cookies,true og,n,n,n,n,n
 2529,hybrid,sapphire star, happy, hungry, uplifted, focused, euphoric , depression, pain, lack of appetite, cramps, insomnia , dry eyes, dizzy, dry mouth, paranoid, anxious ,1. grape,2. lavender,3. blueberry,24.0,blue hawaiian,god bud,n,n,n,n,n
 2530,hybrid,sasquatch sap, creative, happy, euphoric, energetic, talkative , insomnia, lack of appetite, stress, depression, fatigue , dry mouth, anxious, dry eyes, paranoid ,,1. sage,2. skunk,3. pine,9.0,chems sister,chocolate diesel,n,n,n,n,n
@@ -2181,7 +2179,7 @@
 2554,indica,sensi skunk, relaxed, euphoric, happy, hungry, focused , pain, insomnia, lack of appetite, stress, depression , dry eyes, dry mouth, headache, paranoid, dizzy ,1. citrus,2. skunk,3. earthy,36.0,skunk 1,n,n,n,n,n,n
 2555,indica,sensi star, relaxed, sleepy, happy, euphoric, uplifted , pain, stress, insomnia, depression, inflammation , dry mouth, dry eyes, dizzy, anxious, paranoid ,1. earthy,2. sweet,3. pungent,633.0,n,n,n,n,n,n,n
 2556,sativa,sequoia strawberry, uplifted, energetic, happy, focused, relaxed , depression, fatigue, stress, nausea, pain , anxious, dizzy, dry eyes, dry mouth, paranoid ,1. sweet,2. berry,3. strawberry,24.0,white strawberry,white nightmare,n,n,n,n,n
-2557,hybrid,sergerbloom haze,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+2557,hybrid,sergerbloom haze,,,,,,,,,,,,,,,,,,,,super silver haze,grimace og,n,n,n,n,n
 2558,sativa,serious 6, energetic, focused, relaxed, uplifted, creative , stress, eye pressure, depression, fatigue, inflammation , anxious, dry eyes, dry mouth, paranoid ,,1. woody,2. spicy/herbal,3. chemical,20.0,african,n,n,n,n,n,n
 2559,hybrid,serious happiness, happy, uplifted, talkative, euphoric, focused , stress, depression, lack of appetite, pain, fatigue , dry mouth, dry eyes, paranoid, anxious, dizzy ,1. sweet,2. pepper,3. earthy,15.0,ak-47,warlock,n,n,n,n,n
 2560,indica,sexxpot, aroused, happy, relaxed, euphoric, energetic , pain, stress, fatigue, lack of appetite, muscle spasms , dry mouth, dry eyes, paranoid ,,,1. coffee,2. pungent,3. earthy,18.0,mr nice,n,n,n,n,n,n
@@ -2255,9 +2253,9 @@
 2639,sativa,sonic screwdriver, creative, hungry, uplifted, happy, euphoric , depression, fatigue, stress, pain, cramps , dry mouth, anxious, dizzy, dry eyes ,,1. citrus,2. spicy/herbal,3. pungent,20.0,trainwreck,n,n,n,n,n,n
 2641,sativa,sonoma coma, energetic, relaxed, happy, hungry, sleepy , depression, stress, fatigue, insomnia, inflammation , paranoid, dry mouth, dry eyes, dizzy, headache ,1. citrus,2. tropical,3. earthy,27.0,n,n,n,n,n,n,n
 2643,hybrid,soraya,,,,,,,,,,,,,,,,,,,,afghan kush,snow lotus,n,n,n,n,n
-2645,hybrid,sorbet 4,,,,,,,,,,,,,,,,,,,,original glue,n,n,n,n,n,n
-2647,hybrid,sorbet dreams,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
-2648,hybrid,sorbet stash,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+2645,hybrid,sorbet 4,,,,,,,,,,,,,,,,,,,,original glue,sorbet,n,n,n,n,n
+2647,hybrid,sorbet dreams,focused,happy,relaxed,sleepy,uplifted,depression,stress,,,,,,,,,1. vanilla,,,,kush dreams,sorbet,n,n,n,n,n
+2648,hybrid,sorbet stash,,,,,,,,,,,,,,,,,,,,headstash,sorbet,n,n,n,n,n
 2649,hybrid,sorbetto, relaxed, uplifted, tingly, happy, focused , inflammation, lack of appetite, muscle spasms, eye pressure, nausea ,,,,,,1. lemon,2. diesel,3. flowery,3.0,n,n,n,n,n,n,n
 2650,hybrid,soul assassin og, hungry, relaxed, happy, tingly, talkative , insomnia, stress, pain, fatigue, lack of appetite , dry mouth, dizzy, headache, paranoid, anxious ,1. flowery,2. citrus,3. spicy/herbal,41.0,n,n,n,n,n,n,n
 2651,hybrid,soul shine, euphoric, happy, creative, uplifted, giggly , stress, pain, muscle spasms, fatigue, insomnia , headache ,,,,,,,,,n,n,n,n,n,n,n
@@ -2292,7 +2290,7 @@
 2680,hybrid,sour kush, relaxed, happy, euphoric, uplifted, creative , stress, depression, pain, headaches, lack of appetite , dry mouth, dry eyes, dizzy, headache, paranoid ,1. diesel,2. earthy,3. pungent,579.0,sour diesel,og kush,n,n,n,n,n
 2681,hybrid,sour lsd, happy, uplifted, energetic, euphoric, creative , stress, pain, lack of appetite, depression, fatigue , headache, dry mouth, anxious, dizzy, paranoid ,1. pungent,2. skunk,3. chemical,29.0,sour bubble,lsd,n,n,n,n,n
 2682,hybrid,sour lemon og, relaxed, creative, uplifted, euphoric, happy , fatigue, depression, stress, headaches, nausea , dry mouth, dry eyes, paranoid, anxious, dizzy ,1. lemon,2. citrus,3. lime,94.0,california sour,lemon og kush,n,n,n,n,n
-2683,hybrid,sour lemons,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+2683,hybrid,sour lemons,,,,,,,,,,,,,,,,,,,,sour pez,joes lemonade,n,n,n,n,n
 2684,hybrid,sour lifesavers, hungry, relaxed ,,,, depression, insomnia, nausea, pain, stress , anxious, headache, paranoid ,,,,,,,n,n,n,n,n,n,n
 2685,sativa,sour maui, happy, energetic, talkative, relaxed, focused , stress, depression, fatigue, lack of appetite, pain , dry eyes, dry mouth, paranoid, anxious, dizzy ,1. pineapple,2. citrus,3. tropical,49.0,sour diesel,maui wowie,n,n,n,n,n
 2687,hybrid,sour og, relaxed, happy, uplifted, euphoric, energetic , stress, depression, pain, fatigue, headaches , dry mouth, dry eyes, paranoid, anxious, dizzy ,1. earthy,2. diesel,3. pungent,669.0,sour diesel,og kush,n,n,n,n,n
@@ -2381,7 +2379,7 @@
 2784,sativa,strawberry satori, uplifted, creative, relaxed, happy, focused , stress, depression, fatigue, pain, insomnia , paranoid, anxious, dry mouth ,,,1. strawberry,2. sweet,3. grape,25.0,strawberry cough,satori,n,n,n,n,n
 2785,indica,strawberry shortcake, relaxed, creative, happy, euphoric, focused , insomnia, lack of appetite, pain, stress, nausea , dry eyes, dry mouth, anxious ,,,1. strawberry,2. sweet,3. flowery,28.0,the white,n,n,n,n,n,n
 2786,hybrid,strawberry snow cone, happy, euphoric, energetic, uplifted, talkative , stress, depression, pain, headaches, inflammation ,,,,,,1. strawberry,2. diesel,3. pungent,5.0,n,n,n,n,n,n,n
-2787,hybrid,strawberry sorbet,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+2787,hybrid,strawberry sorbet,,,,,,,,,,,,,,,,,,,,heirloom swiss strawberry,sorbet,n,n,n,n,n
 2788,sativa,sublime, happy, uplifted, euphoric, energetic, relaxed , stress, lack of appetite, nausea, pain, fatigue , dry mouth, dry eyes, anxious, headache ,,1. spicy/herbal,2. woody,3. pine,23.0,n,n,n,n,n,n,n
 2789,indica,sugar black rose, relaxed, happy, euphoric, uplifted, sleepy , stress, pain, depression, headaches, insomnia , dry mouth, dry eyes, dizzy, headache, anxious ,1. earthy,2. flowery,3. rose,224.0,black domina,critical mass,n,n,n,n,n
 2790,hybrid,sugar breath,,,,,,,,,,,,,,,,,,,1.0,do-si-dos,ogkb,n,n,n,n,n
@@ -2403,7 +2401,7 @@
 2813,hybrid,sunlight skunk,,,,,,,,,,,,,,,,,,,,skunk no 1,n,n,n,n,n,n
 2814,hybrid,sunny d, relaxed, happy, focused, hungry, uplifted , lack of appetite, depression, stress, headaches, insomnia , dry eyes, dry mouth, anxious, dizzy, paranoid ,1. citrus,2. orange,3. lemon,10.0,tangie,n,n,n,n,n,n
 2815,indica,sunset, relaxed, sleepy, tingly, happy, euphoric , stress, insomnia, pain, depression, fatigue , dry mouth, dry eyes, paranoid, dizzy, headache ,1. spicy/herbal,2. earthy,3. pungent,34.0,n,n,n,n,n,n,n
-2816,hybrid,sunset fire,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+2816,hybrid,sunset fire,,,,,,,,,,,,,,,,,,,,sunset sherbet,khyber mazer afghan,n,n,n,n,n
 2817,hybrid,sunset haze, uplifted, relaxed, happy, euphoric, creative , pain, stress, depression, inflammation, insomnia , dry mouth, dry eyes ,,,,1. citrus,2. flowery,3. sweet,11.0,tangerine haze,n,n,n,n,n,n
 2818,sativa,sunshine, happy, euphoric, energetic, uplifted, giggly , depression, stress, pain, headaches, lack of appetite , dry mouth, dry eyes, dizzy, anxious, headache ,1. sweet,2. tree fruit,3. citrus,69.0,n,n,n,n,n,n,n
 2819,hybrid,sunshine 4, uplifted, euphoric, relaxed, happy, talkative , inflammation, stress, pain, depression, muscle spasms , dry mouth, dry eyes, anxious, paranoid ,,1. citrus,2. lemon,3. tropical,55.0,sunshine daydream,chemdawg 4,n,n,n,n,n
@@ -2420,7 +2418,7 @@
 2830,indica,super kush, relaxed, uplifted, focused, happy, euphoric , stress, pain, depression, insomnia, lack of appetite , dry mouth, dry eyes, paranoid, dizzy, headache ,1. earthy,2. mint,3. pungent,83.0,northern lights 5,hindu kush,n,n,n,n,n
 2831,sativa,super lemon haze, happy, energetic, uplifted, euphoric, focused , stress, depression, fatigue, pain, headaches , dry mouth, dry eyes, paranoid, dizzy, anxious ,1. lemon,2. citrus,3. sweet,1939.0,lemon skunk,super silver haze,n,n,n,n,n
 2832,hybrid,super lemon og, happy, talkative, relaxed, focused, sleepy , pain, muscle spasms, depression, inflammation, fatigue , dry mouth, dry eyes, dizzy, anxious, headache ,1. lemon,2. citrus,3. diesel,71.0,super lemon haze,n,n,n,n,n,n
-2833,hybrid,super silver bullet,,,,,,,,,,,,,,,,,,,1.0,red rhino,n,n,n,n,n,n
+2833,hybrid,super silver bullet,,,,,,,,,,,,,,,,,,,1.0,red rhino,kotem tamim,n,n,n,n,n
 2834,hybrid,super silver hash plant, energetic, happy, uplifted ,,,,,,,,,,,,,1. earthy,2. sweet,,1.0,super silver haze,n,n,n,n,n,n
 2835,sativa,super silver haze, happy, uplifted, energetic, euphoric, relaxed , stress, depression, pain, fatigue, lack of appetite , dry mouth, dry eyes, anxious, paranoid, dizzy ,1. citrus,2. earthy,3. sweet,1988.0,northern lights,haze,skunk no 1,n,n,n,n
 2836,hybrid,super silver lights, happy, relaxed, creative, uplifted, giggly , stress, muscle spasms, depression, headaches, inflammation , dry mouth ,,,,,1. sweet,2. pine,3. flowery,,super silver haze,northern lights,n,n,n,n,n
@@ -2482,7 +2480,7 @@
 2906,indica,taliban poison, hungry, aroused, sleepy, giggly, happy , cramps, depression, muscle spasms, nausea, pain , dizzy, dry mouth, headache, paranoid ,,1. diesel,2. pine,3. skunk,6.0,n,n,n,n,n,n,n
 2908,hybrid,tangelo, happy, giggly, euphoric, focused, energetic , depression, inflammation, fatigue, pain, stress , dry mouth, paranoid, anxious ,,,1. orange,2. citrus,3. sweet,12.0,tangerine sunrise,n,n,n,n,n,n
 2910,hybrid,tangelo kush, relaxed, sleepy, giggly, uplifted, talkative , depression, insomnia, pain ,,, dry mouth, paranoid ,,,,1. peach,2. citrus,3. orange,,chemdawg,burmese kush,n,n,n,n,n
-2912,hybrid,tangenesia,,,,,,,,,,,,,,,,,,,,tangerine haze,n,n,n,n,n,n
+2912,hybrid,tangenesia,,,,,,,,,,,,,,,,,,,,tangerine haze,ghiesel amnesia haze,n,n,n,n,n
 2913,hybrid,tangerine, relaxed, happy, euphoric, uplifted, focused , stress, depression, fatigue, insomnia, pain , dry mouth, paranoid, anxious, dry eyes, dizzy ,1. orange,2. citrus,3. sweet,201.0,n,n,n,n,n,n,n
 2914,hybrid,tangerine dream, happy, relaxed, energetic, uplifted, euphoric , stress, pain, depression, fatigue, inflammation , dry mouth, dry eyes, dizzy, headache, anxious ,1. citrus,2. orange,3. sweet,879.0,g13,afghani,nevilles haze,n,n,n,n
 2915,hybrid,tangerine haze, happy, uplifted, euphoric, energetic, giggly , stress, depression, fatigue, nausea, lack of appetite , dry mouth, dry eyes, headache, anxious, dizzy ,1. citrus,2. sweet,3. orange,206.0,g13 haze,nyc diesel,n,n,n,n,n
@@ -2501,7 +2499,7 @@
 2928,sativa,tangilope, uplifted, happy, euphoric, energetic, creative , depression, stress, fatigue, inflammation, lack of appetite , dry mouth, headache, paranoid, anxious, dry eyes ,1. earthy,2. orange,3. citrus,132.0,tangie,chocolope,n,n,n,n,n
 2929,hybrid,tango kush, focused, energetic, happy, relaxed, creative , stress, depression, pain, fatigue, headaches , dry mouth, dry eyes, anxious, paranoid, dizzy ,1. citrus,2. mango,3. sweet,9.0,mango kush,n,n,n,n,n,n
 2930,sativa,tardis, uplifted, creative, euphoric, happy, talkative , stress, depression, fatigue, pain, insomnia , dry mouth, anxious, paranoid, dry eyes ,,1. sweet,2. diesel,3. earthy,22.0,trainwreck,oregon diesel,n,n,n,n,n
-2931,hybrid,tarmonster,,,,,,,,,,,,,,,,1. chemical,2. grape,3. lavender,,gsc,scooby snacks,n,n,n,n,n
+2931,hybrid,tarmonster,,,,,,,,,,,,,,,,1. chemical,2. grape,3. lavender,,gsc,scooby snacks,mystery machine,n,n,n,n
 2932,hybrid,tembo kush, happy, euphoric, energetic, tingly, relaxed , fatigue, headaches, lack of appetite, pain, stress , dry mouth ,,,,,1. sweet,2. berry,3. earthy,,durban poison,og kush,n,n,n,n,n
 2933,indica,terminator og, relaxed, sleepy, uplifted, happy, euphoric , stress, insomnia, pain, muscle spasms, depression , dry mouth, dry eyes ,,,,1. pine,2. sweet,3. pungent,12.0,og kush,n,n,n,n,n,n
 2934,hybrid,tesla, relaxed, uplifted, focused, hungry, happy , stress, inflammation, muscle spasms, pain, depression , dry mouth ,,,,,1. pepper,2. chestnut,3. nutty,10.0,harle-tsu,n,n,n,n,n,n
@@ -2514,10 +2512,10 @@
 2941,hybrid,thaidal wave, euphoric, uplifted, creative, energetic, focused , stress, depression, nausea, pain ,, dizzy ,,,,,,,,5.0,thai,n,n,n,n,n,n
 2942,hybrid,the big dirty, hungry, relaxed, uplifted ,,, depression, inflammation, lack of appetite, nausea, pain ,,,,,,1. earthy,2. lemon,,3.0,girl scout cookies,tangie,white fire og,n,n,n,n
 2943,indica,the black, relaxed, happy, uplifted, euphoric, hungry , insomnia, pain, stress, inflammation, muscle spasms , dry mouth, dry eyes, anxious, paranoid, dizzy ,1. berry,2. grape,3. citrus,75.0,n,n,n,n,n,n,n
-2944,hybrid,the bling,,,,,,,,,,,,,,,,,,,,gelato,n,n,n,n,n,n
+2944,hybrid,the bling,,,,,,,,,,,,,,,,,,,,gelato,frost,reserve og,n,n,n,n
 2945,hybrid,the blintz, uplifted, creative, energetic, focused, happy , cramps, fatigue, lack of appetite, nausea, pain ,,,,,,1. earthy,2. lavender,3. pungent,,cheese quake,n,n,n,n,n,n
 2946,sativa,the blood, happy, relaxed, uplifted, creative, aroused , stress, headaches, depression, fatigue, lack of appetite , dry mouth, dry eyes ,,,,1. earthy,2. sweet,3. pungent,18.0,kona gold,n,n,n,n,n,n
-2947,hybrid,the boss,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+2947,hybrid,the boss,,,,,,,,,,,,,,,,,,,,haze,blueberry,n,n,n,n,n
 2948,hybrid,the brotherhood, relaxed, talkative, happy, euphoric, aroused , stress, cramps, depression, fatigue, pain , dry mouth, dry eyes ,,,,1. earthy,2. flowery,3. lemon,9.0,n,n,n,n,n,n,n
 2949,hybrid,the cbg blend, energetic, euphoric, happy, hungry, uplifted ,,,,,,,,,,,,,,1.0,pink lemonade,black cherry soda,original glue,ace of spades,n,n,n
 2950,sativa,the cough, uplifted, creative, aroused, euphoric, happy , stress, depression, fatigue, nausea, headaches , dry mouth, dizzy, paranoid, anxious ,,1. pungent,2. earthy,3. diesel,31.0,northern lights 5,haze,n,n,n,n,n
@@ -2566,7 +2564,7 @@
 3001,sativa,titans haze, happy, energetic, euphoric, tingly, creative , cramps, depression, inflammation, pain ,, dry mouth ,,,,,1. pungent,2. skunk,3. spicy/herbal,,haze,skunk no 1,n,n,n,n,n
 3002,hybrid,tokyo og, happy, uplifted, energetic, talkative, giggly , stress, pain, lack of appetite, headaches, nausea , paranoid, dry eyes, anxious, dizzy, dry mouth ,1. pine,2. lemon,3. sweet,39.0,og kush,n,n,n,n,n,n
 3003,hybrid,tommys home grown, energetic, relaxed, creative, focused, happy , stress, depression, lack of appetite ,,, dry mouth, dry eyes ,,,,1. earthy,2. nutty,3. spicy/herbal,,n,n,n,n,n,n,n
-3004,indica,tonics web,,,,,,,,,,,,,,,,,,,,charlottes web,n,n,n,n,n,n
+3004,indica,tonics web,,,,,,,,,,,,,,,,,,,,charlottes web,chocolate tonic,n,n,n,n,n
 3005,indica,tora bora, relaxed, happy, uplifted, hungry, sleepy , pain, stress, insomnia, muscle spasms, inflammation , dry mouth, dry eyes, headache, paranoid, anxious ,1. woody,2. diesel,3. earthy,100.0,la confidential,n,n,n,n,n,n
 3006,hybrid,toxic, relaxed, happy, focused, euphoric, energetic , insomnia, stress, fatigue, depression, lack of appetite , dry mouth, dizzy ,,,,1. earthy,2. flowery,3. pungent,7.0,n,n,n,n,n,n,n
 3008,hybrid,toxic punch, happy, hungry, euphoric, energetic, uplifted , stress, depression, insomnia, lack of appetite, pain , anxious, dry eyes, dry mouth, dizzy, headache ,1. berry,2. pine,3. lemon,,white widow,casey jones,blueberry,n,n,n,n
@@ -2579,14 +2577,14 @@
 3021,hybrid,treasure island, happy, relaxed, focused, uplifted, energetic , pain, depression, stress, muscle spasms, insomnia , dry mouth, anxious, dry eyes ,,,1. spicy/herbal,2. earthy,3. pine,25.0,swiss gold,acdc,n,n,n,n,n
 3022,hybrid,tree of life, happy, creative, euphoric, giggly, focused , stress, pain, nausea, depression, spasticity , dry mouth, dry eyes, headache ,,,1. earthy,2. woody,3. spicy/herbal,13.0,trainwreck,mendocino purps,n,n,n,n,n
 3023,hybrid,tres dawg, relaxed, sleepy, hungry, happy, uplifted , stress, pain, depression, insomnia, lack of appetite , dry mouth, dry eyes, headache, paranoid, anxious ,1. diesel,2. earthy,3. pine,31.0,afghani,chemdog,n,n,n,n,n
-3024,hybrid,trewbacca,,,,,,,,,,,,,,,,,,,1.0,n,n,n,n,n,n,n
+3024,hybrid,trewbacca,,,,,,,,,,,,,,,,,,,1.0,true og,gsc,n,n,n,n,n
 3025,indica,triangle kush, relaxed, happy, euphoric, sleepy, uplifted , stress, pain, depression, insomnia, inflammation , dry mouth, dizzy, dry eyes, headache, paranoid ,1. earthy,2. pungent,3. sweet,130.0,n,n,n,n,n,n,n
 3026,hybrid,trident, happy, relaxed, creative, euphoric, focused , pain, stress, inflammation, depression, muscle spasms , dry eyes, dry mouth ,,,,1. citrus,2. woody,3. pine,26.0,n,n,n,n,n,n,n
 3027,hybrid,trifecta, tingly, hungry, sleepy, happy, euphoric , insomnia, pain, nausea, stress, depression , dry mouth, dry eyes, headache, paranoid ,,1. skunk,,,9.0,apollo 11,apollo 13,cinderella 99,n,n,n,n
 3028,sativa,trinity, uplifted, euphoric, happy, energetic, relaxed , stress, depression, fatigue, pain, eye pressure , dry mouth, dry eyes, paranoid, dizzy, headache ,1. sweet,2. pungent,3. earthy,175.0,north american,n,n,n,n,n,n
 3029,indica,triple cheese, relaxed, euphoric, happy, giggly, tingly , stress, depression, eye pressure, pain, lack of appetite , dry eyes, dry mouth, headache, anxious, dizzy ,1. cheese,2. berry,3. blue cheese,29.0,cheese,blue cheese,n,n,n,n,n
 3030,sativa,triple diesel, relaxed, euphoric, uplifted, happy, focused , depression, stress, pain, fatigue, muscle spasms , dry eyes, dry mouth, anxious, dizzy, paranoid ,1. diesel,2. sweet,3. earthy,66.0,sour diesel,strawberry diesel,nyc diesel,n,n,n,n
-3031,hybrid,triple scoop,,,,,,,,,,,,,,,,,,,,super silver haze,n,n,n,n,n,n
+3031,hybrid,triple scoop,,,,,,,,,,,,,,,,,,,,super silver haze,grape la,sorbet,n,n,n,n
 3032,sativa,trix, relaxed, happy, euphoric, uplifted, focused , stress, insomnia, pain, depression, fatigue , anxious, dizzy ,,,,1. strawberry,2. rose,3. sweet,18.0,n,n,n,n,n,n,n
 3033,hybrid,trophy wife, hungry, aroused, euphoric, focused, happy ,,,,,, dry mouth ,,,,,,,,1.0,the wife,n,n,n,n,n,n
 3034,hybrid,tropic thunder, happy, uplifted, creative, giggly, euphoric , stress, pain, lack of appetite, nausea, depression , dry eyes, dry mouth, paranoid ,,,1. pineapple,2. tropical,3. mango,22.0,maui wowie,n,n,n,n,n,n
@@ -2595,7 +2593,7 @@
 3037,sativa,tropicana cookies, uplifted, happy, euphoric, relaxed, creative , pain, stress, depression, fatigue, seizures , dry mouth, dry eyes, anxious, paranoid, headache ,1. citrus,2. orange,3. tropical,55.0,tangie,n,n,n,n,n,n
 3038,hybrid,tropicana punch, relaxed, energetic, euphoric, focused, happy , depression, eye pressure, fatigue, headaches, insomnia ,,,,,,1. berry,2. blueberry,3. cheese,2.0,n,n,n,n,n,n,n
 3039,hybrid,true face, relaxed, sleepy, tingly, euphoric ,, nausea, insomnia, pain, stress, muscle spasms , dry eyes, dry mouth, dizzy ,,,1. diesel,2. earthy,3. pungent,,true og,face off og,n,n,n,n,n
-3040,hybrid,true love,,,,,,,,,,,,,,,,,,,,juicy fruit,n,n,n,n,n,n
+3040,hybrid,true love,,,,,,,,,,,,,,,,,,,,juicy fruit,norton,n,n,n,n,n
 3041,indica,true og, relaxed, happy, euphoric, uplifted, sleepy , stress, pain, insomnia, depression, inflammation , dry mouth, dry eyes, headache, dizzy, anxious ,1. earthy,2. pine,3. citrus,435.0,og kush,n,n,n,n,n,n
 3042,indica,true x, focused, relaxed, sleepy, uplifted, energetic , stress, depression, fatigue, insomnia, eye pressure , anxious, dizzy, dry mouth, paranoid ,,1. earthy,2. nutty,3. pine,4.0,true og,c4,n,n,n,n,n
 3043,indica,trueberry, happy, euphoric, focused, uplifted, relaxed , muscle spasms, pain, depression, stress, lack of appetite , dry mouth ,,,,,1. citrus,2. berry,3. lime,15.0,true og,strawberry banana,blackberry,n,n,n,n
@@ -2670,7 +2668,7 @@
 3125,indica,west og, relaxed, happy, sleepy, creative, giggly , eye pressure ,,,,, dizzy, dry mouth, paranoid ,,,1. woody,2. spicy/herbal,3. lemon,8.0,chemdawg,humboldt,n,n,n,n,n
 3127,sativa,wet dream, happy, euphoric, uplifted, creative, energetic , stress, depression, lack of appetite, fatigue, pain , anxious, dry mouth, dry eyes, headache, dizzy ,1. earthy,2. blue cheese,3. blueberry,72.0,blue dream,haze,n,n,n,n,n
 3128,hybrid,wheres my bike, happy, euphoric, energetic, uplifted, creative , depression, stress, eye pressure, fatigue, headaches , dry eyes, dry mouth, headache, paranoid, anxious ,1. citrus,2. pine,3. lime,19.0,amnesia,biker kush,n,n,n,n,n
-3129,hybrid,whipped cherries,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+3129,hybrid,whipped cherries,,,,,,,,,,,,,,,,,,,,cherry cream pie,cookies and cream,n,n,n,n,n
 3130,indica,whitaker blues, relaxed, happy, sleepy, hungry, euphoric , stress, insomnia, depression, pain, fatigue , dry mouth, dry eyes ,,,,1. sweet,2. apple,3. pear,,blueberry,n,n,n,n,n,n
 3131,hybrid,white 99, uplifted, happy, euphoric, relaxed, creative , stress, depression, lack of appetite, fatigue, insomnia , dry mouth, dry eyes, anxious, dizzy, paranoid ,1. pine,2. flowery,3. citrus,75.0,cinderella 99,the white,n,n,n,n,n
 3132,indica,white bastard, relaxed, happy, tingly, uplifted, hungry , muscle spasms, pain, cramps, inflammation, spasticity ,,,,,,1. sage,2. berry,3. blueberry,,dj short blueberry,god bud,n,n,n,n,n
@@ -2736,8 +2734,8 @@
 3200,hybrid,whiteout, happy, euphoric, relaxed, uplifted, focused , depression, stress ,,,, dry eyes, dry mouth ,,,,1. citrus,2. earthy,3. flowery,9.0,super silver haze,the white,n,n,n,n,n
 3201,indica,whitewalker og, relaxed, euphoric, hungry, happy, sleepy , stress, insomnia, pain, muscle spasms, depression , paranoid, dry mouth, anxious, dry eyes, headache ,1. earthy,2. pungent,3. woody,96.0,sfv og kush,n,n,n,n,n,n
 3202,sativa,wild thailand, uplifted, energetic, talkative, happy, focused , fatigue, pain, inflammation, depression, cramps , headache, dry mouth, paranoid, dizzy, anxious ,1. berry,2. sweet,3. woody,25.0,n,n,n,n,n,n,n
-3203,hybrid,willie berrie,,,,,,,,,,,,,,,,,,,,willys wonder,n,n,n,n,n,n
-3204,hybrid,willie cheesie,,,,,,,,,,,,,,,,,,,,willys wonder,n,n,n,n,n,n
+3203,hybrid,willie berrie,,,,,,,,,,,,,,,,,,,,willys wonder,blueberry,n,n,n,n,n
+3204,hybrid,willie cheesie,,,,,,,,,,,,,,,,,,,,willys wonder,legacy skunk,sativa cheese,n,n,n,n
 3205,sativa,willie nelson, uplifted, happy, euphoric, creative, giggly , stress, depression, pain, fatigue, nausea , dizzy, dry mouth, dry eyes, paranoid, headache ,1. earthy,2. pepper,3. spicy/herbal,130.0,nepalese,south asian sativa,n,n,n,n,n
 3206,sativa,willy wonka, uplifted, happy, talkative, energetic, euphoric , stress, depression, pain, nausea, fatigue , dry mouth, dry eyes, anxious, headache, dizzy ,1. sweet,2. earthy,3. woody,52.0,n,n,n,n,n,n,n
 3207,indica,willys wonder, happy, relaxed, euphoric, sleepy, creative , stress, pain, depression, insomnia, nausea , dry mouth, dry eyes, dizzy, paranoid, headache ,1. citrus,2. flowery,3. spicy/herbal,226.0,afghani,n,n,n,n,n,n
@@ -2764,7 +2762,7 @@
 3232,indica,yumboldt, relaxed, sleepy, happy, euphoric, uplifted , pain, stress, insomnia, lack of appetite, inflammation , dry eyes, dry mouth, dizzy, headache, paranoid ,1. earthy,2. lemon,3. sweet,72.0,n,n,n,n,n,n,n
 3233,hybrid,yummy, sleepy, relaxed, happy, uplifted, euphoric , stress, depression, inflammation, insomnia, pain , dry mouth, dry eyes, anxious, dizzy, headache ,1. pepper,2. sweet,3. mint,37.0,white dawg,n,n,n,n,n,n
 3234,sativa,zamaldelica, energetic, tingly, uplifted, creative, hungry , lack of appetite, pain, depression, insomnia, stress , dizzy, dry eyes, dry mouth, paranoid ,,1. grapefruit,2. mint,3. sweet,4.0,n,n,n,n,n,n,n
-3235,hybrid,zardde gold,,,,,,,,,,,,,,,,,,,,n,n,n,n,n,n,n
+3235,hybrid,zardde gold,,,,,,,,,,,,,,,,,,,,ak-47,sour diesel,n,n,n,n,n
 3236,hybrid,zeitgeist,,,,,,,,,,,,,,,,,,,,sour amnesia,purple pantera,n,n,n,n,n
 3237,hybrid,zelda, relaxed, happy, uplifted, euphoric, creative , depression, stress, pain, muscle spasms, headaches , dry eyes, dry mouth ,,,,1. sweet,2. citrus,3. diesel,11.0,legend og,n,n,n,n,n,n
 3238,hybrid,zen, relaxed, happy, focused, creative, uplifted , inflammation, stress, pain, headaches, cramps , dry mouth, dry eyes, anxious, dizzy, headache ,1. lavender,2. flowery,3. earthy,26.0,n,n,n,n,n,n,n
@@ -2790,13 +2788,15 @@
 3262,hybrid,blue trainwreck, euphoric, relaxed, aroused, hungry, energetic , stress, pain, headaches, nausea, spasticity , dry mouth, dry eyes, dizzy, anxious, paranoid ,1. blueberry,2. sweet,3. spicy/herbal,68,trainwreck,blueberry,n,n,n,n,n
 3264,hybrid,blueberry muffin, relaxed, happy, euphoric, uplifted, sleepy , stress, depression, pain, insomnia, muscle spasms , dry mouth, dry eyes, dizzy, headache, anxious ,1. blueberry,2. berry,3. sweet,116,blueberry,purple panty dropper,n,n,n,n,n
 3265,sativa,buddhas tooth, talkative, aroused, creative, energetic, euphoric , depression, fatigue, inflammation, nausea, stress , dry eyes, dry mouth ,,,,1. citrus,2. pine,3. violet,1,blue dream,n,n,n,n,n,n
+655,indica,chem d.o.g., relaxed, sleepy, happy, euphoric, hungry , insomnia, pain, stress, depression, lack of appetite , dry mouth, dizzy, paranoid, headache, dry eyes ,1. earthy,2. diesel,3. citrus,27.0,chemdawg,og kush,n,n,n,n,n
 3266,hybrid,chemdog,happy,relaxed,euphoric,uplifted,creative,stress,depression,pain,insomnia,fatigue,dry mouth,dry eyes,dizzy,paranoid,headache,1. diesel,2. earthy,3. chemical,2087,nepalese,thai,n,n,n,n,n
-3267,hybrid,chemdog 4, relaxed, euphoric, happy, uplifted, tingly , stress, pain, depression, insomnia, muscle spasms , dry mouth, dry eyes, anxious, dizzy, paranoid ,1. earthy,2. pine,3. chemical,326,nepalese,thai,n,n,n,n,n
+,hybrid,chemdog 4, relaxed, euphoric, happy, uplifted, tingly , stress, pain, depression, insomnia, muscle spasms , dry mouth, dry eyes, anxious, dizzy, paranoid ,1. earthy,2. pine,3. chemical,326,nepalese,thai,,,,,
+3267,hybrid,chemdog 4xalien og kush,focused,uplifted,energetic,relaxed,happy,stress,depression,fatigue,pain,inflammation,dry mouth,anxious,paranoid,dizzy,,1. diesel,2. skunk,3. chemical,27,chemdog,alien og,n,n,n,n,n
 3268,hybrid,chemdog 91, happy, relaxed, euphoric, uplifted, focused , stress, pain, fatigue, depression, headaches , dry mouth, dry eyes, dizzy, anxious, headache ,1. chemical,2. pungent,3. diesel,170,thai,n,n,n,n,n,n
 3269,hybrid,clementines terpentine, creative, focused, uplifted, aroused, happy , stress, depression, fatigue, pain, spasticity , dry eyes ,,,,,1. pine,2. citrus,3. earthy,2,24k gold,n,n,n,n,n,n
 3270,hybrid,crocketts haze, happy, uplifted, creative, relaxed, energetic , headaches, depression, fatigue, inflammation, eye pressure , dizzy, dry eyes, dry mouth ,,,1. citrus,2. pungent,3. flowery,5,haze,n,n,n,n,n,n
 3271,indica,dakini  kush, relaxed, sleepy, uplifted, happy, euphoric , pain, stress, inflammation, insomnia, headaches ,,,,,,1. pungent,2. berry,3. skunk,21,pre-98 bubba kush,hindu kush,n,n,n,n,n
-3273,,danky doodle,,,,,,,,,,,,,,,,,,,,big bud,n,n,n,n,n,n
+3273,indica,danky doodle,euphoric,happy,uplifted,aroused,energetic,stress,pain,depression,insomnia,nausea,dry eyes,dry mouth,dizzy,headache,anxious,1. pungent,2. woody,3. sweet,43,big bud,viking,kc 636,n,n,n,n
 3274,indica,el jefe, relaxed, hungry, aroused, euphoric, sleepy , stress, depression, headaches, pain, insomnia , dry eyes, anxious, dry mouth, dizzy, paranoid ,1. earthy	2. spicy/herbal	3. grape,,,76,abusive og,rare dankness 1,n,n,n,n,n
 3275,sativa,euforia, euphoric, happy, uplifted, energetic, talkative , stress, depression, pain, nausea, lack of appetite , dry mouth, dry eyes, headache, dizzy, anxious ,1. woody,2. sweet,3. earthy,113,skunk no 1,n,n,n,n,n,n
 3277,hybrid,fall ‘97,,,,,,,,,,,,,,,,,,,,purple urkle,og kush,n,n,n,n,n
@@ -2804,20 +2804,20 @@
 3279,hybrid,grandma andersons cookies, euphoric, focused, happy, relaxed, uplifted , depression, inflammation, insomnia, pain, seizures ,,,,,,1. earthy,2. vanilla,3. citrus,2,gsc,n,n,n,n,n,n
 3280,hybrid,grandmas batch, happy, euphoric, creative, tingly, giggly , depression, fatigue, pain ,,, dry mouth, dry eyes ,,,,1. butter,2. earthy,3. flowery,4,candyland,girl scout cookies,n,n,n,n,n
 3281,indica,grandmas sugar cookies, relaxed, happy, euphoric, uplifted, giggly , stress, pain, depression, muscle spasms, eye pressure , dry mouth, anxious, dry eyes ,,,1. earthy,2. sweet,3. pungent,17,girl scout cookies,n,n,n,n,n,n
-3282,,grape stomper,,,,,,,,,,,,,,,,,,,,purple elephant,chemdawg sour diesel,n,n,n,n,n
+3282,hybrid,grape stomper,happy,relaxed,uplifted,euphoric,tingly,depression,stress,pain,insomnia,lack of appetite,dry mouth,dry eyes,dizzy,anxious,paranoid,1. grape,2. sweet,3. diesel,354,purple elephant,chemdawg sour diesel,n,n,n,n,n
 3283,indica,herijuana, relaxed, sleepy, happy, uplifted, euphoric , insomnia, stress, pain, depression, lack of appetite , dry mouth, dry eyes, dizzy, paranoid, headache ,1. spicy/herbal,2. woody,3. pine,458,petrolia headstash,n,n,n,n,n,n
-3284,,irene og,,,,,,,,,,,,,,,,,,,,og kush,n,n,n,n,n,n
-3285,,jgr,,,,,,,,,,,,,,,,,,,,la confidential,blue dream,n,n,n,n,n
+3284,hybrid,irene og,relaxed,happy,euphoric,hungry,sleepy,depression,stress,pain,fatigue,headaches,dry mouth,dry eyes,paranoid,,,1. earthy,2. lemon,3. pungent,77,og kush,n,n,n,n,n,n
+3285,indica,jgr,relaxed,happy,euphoric,sleepy,uplifted,stress,depression,pain,lack of appetite,nausea,dry mouth,dry eyes,dizzy,headache,anxious,1. earthy,2. woody,3. spicy/herbal,288,la confidential,blue dream,n,n,n,n,n
 3286,sativa,johnny’s tonic, focused, energetic, sleepy, happy, relaxed , pain, inflammation, cramps, stress, fatigue , dry eyes, dry mouth ,,,,1. skunk,2. flowery,3. pungent,11,cannatonic,n,n,n,n,n,n
 3287,indica,jorges diamond, relaxed, sleepy, tingly, uplifted, creative , insomnia, depression, muscle spasms, pain, stress , dry mouth, dry eyes ,,,,1. berry,2. honey,3. sweet,7,afghani,n,n,n,n,n,n
 3288,hybrid,kid n kookies, happy, relaxed, hungry, giggly, euphoric , pain, depression, stress, muscle spasms, nausea , dry mouth, anxious, dizzy, paranoid ,,1. earthy,2. nutty,3. pine,8,girl scout cookies,n,n,n,n,n,n
 3289,indica,king louis xiii, relaxed, sleepy, happy, euphoric, hungry , stress, insomnia, pain, depression, lack of appetite , dry mouth, dry eyes, dizzy, anxious, paranoid ,1. earthy,2. pine,3. woody,767,og kush,n,n,n,n,n,n
 3291,indica,kings kush, relaxed, sleepy, euphoric, happy, uplifted , pain, insomnia, depression, stress, inflammation , dry eyes, anxious, dry mouth, paranoid, dizzy ,1. earthy,2. woody,3. sweet,338,og kush,n,n,n,n,n,n
 3293,sativa,la niña, creative, energetic, uplifted, euphoric, talkative , headaches, pain, depression, inflammation, insomnia ,,,,,,1. earthy,2. sweet,,,haze,white widow,n,n,n,n,n
-3295,sativa,lambs bread,,,,,, stress, depression, pain, fatigue, headaches , dry mouth, dry eyes, anxious, headache, dizzy ,1. earthy,2. woody,3. pungent,775,jamaican,n,n,n,n,n,n
+3295,sativa,lambs bread,happy,uplifted,euphoric,energetic,relaxed, stress, depression, pain, fatigue, headaches , dry mouth, dry eyes, anxious, headache, dizzy ,1. earthy,2. woody,3. pungent,775,jamaican,n,n,n,n,n,n
 3296,sativa,lemon créme, creative, happy, energetic, focused, talkative , eye pressure, headaches ,,,, dry mouth ,,,,,1. lemon,,,3,lemon jack,sour cream,n,n,n,n,n
-3297,,lemon og kush,,,,,,,,,,,,,,,,,,,,lemon skunk,og 18,n,n,n,n,n
-3298,hybrid,lion’s milk,,,,,,,,,,,,,,,,,,,,pure kush,appalachia,n,n,n,n,n
+3297,hybrid,lemon og kush,relaxed,happy,euphoric,uplifted,sleepy,pain,depression,stress,insomnia,lack of appetite,dry mouth,dry eyes,dizzy,anxious,paranoid,1. lemon,2. citrus,3. earthy,424,lemon skunk,og 18,n,n,n,n,n
+3298,hybrid,lion’s milk,,,,,,,,,,,,,,,,,,,1,pure kush,appalachia,n,n,n,n,n
 3299,sativa,mothers finest, uplifted, energetic, happy, relaxed, hungry , pain, depression, inflammation, lack of appetite, insomnia , dry mouth, dizzy, anxious, headache, paranoid ,1. earthy,2. lemon,3. pine,,jack herer,n,n,n,n,n,n
 3300,hybrid,mothers helper, focused, energetic, happy, creative, talkative , pain, fatigue, stress, depression, headaches , dry mouth, dry eyes, anxious, headache ,,1. earthy,2. sweet,3. citrus,109,chocolope,northern lights 5,n,n,n,n,n
 3301,hybrid,nanas fix, relaxed, happy, euphoric, focused, giggly , insomnia, cramps, fatigue, headaches, inflammation , dizzy, dry eyes, dry mouth ,,,1. flowery,2. diesel,3. tea,6,grandma’s sugar cookies,n,n,n,n,n,n
@@ -2827,14 +2827,14 @@
 3306,hybrid,rise ‘n’ shine, happy, energetic, tingly, giggly, talkative , fatigue, depression, headaches, lack of appetite, eye pressure , dry mouth, dry eyes ,,,,1. citrus,2. mango,3. berry,4,green crack,sour bubble,n,n,n,n,n
 3307,hybrid,rozé, euphoric, uplifted, creative, relaxed, tingly , depression, stress, muscle spasms, inflammation, pain , dizzy, dry eyes, dry mouth ,,,1. lemon,2. lime,3. orange,5,zkittlez,n,n,n,n,n,n
 3308,hybrid,scooby snacks, relaxed, uplifted, euphoric, happy, sleepy , depression, stress, pain, headaches, nausea , headache, dry mouth, dry eyes ,,,1. sweet,2. earthy,3. pine,177,platinum girl scout cookies,face off og,n,n,n,n,n
-3310,,sherbert,,,,,,,,,,,,,,,,,,,,gsc,n,n,n,n,n,n
-3311,hybrid,siddhartha’s dream,,,,,,,,,,,,,,,,,,,,buddha’s tooth,n,n,n,n,n,n
+3310,hybrid,sherbert,relaxed,happy,euphoric,uplifted,creative,stress,depression,pain,insomnia,lack of appetite,dry mouth,dry eyes,dizzy,anxious,paranoid,1. sweet,2. citrus,3. berry,1116,gsc,pink panties,n,n,n,n,n
+3311,hybrid,siddhartha’s dream,,,,,,,,,,,,,,,,,,,,buddha’s tooth,lemon dream,n,n,n,n,n
 3312,indica,skunk+, relaxed, happy, focused, hungry, aroused , depression, stress, pain, headaches, insomnia , dizzy, dry mouth ,,,,1. woody,2. earthy,3. spicy/herbal,5,black domina,skunk no 1,n,n,n,n,n
 3313,hybrid,snoops dream, relaxed, euphoric, happy, giggly, hungry , depression, stress, pain, lack of appetite, insomnia , dry mouth, dry eyes, dizzy, anxious, paranoid ,1. sweet,2. woody,3. berry,351,blue dream,master kush,n,n,n,n,n
 3314,hybrid,sorcerer’s apprentice, focused, tingly, aroused, energetic, giggly , muscle spasms, spasticity, stress ,,, dry eyes, dry mouth, dizzy ,,,1. sweet,2. tropical,,,appalachia,n,n,n,n,n,n
 3315,hybrid,sour cheese, creative, relaxed, energetic, happy, focused , spasticity, stress, depression, pain, headaches , dry mouth, dry eyes, paranoid, dizzy, headache ,1. cheese,2. diesel,3. skunk,118,cheese,sour diesel,n,n,n,n,n
-3316,indica,star berry indica,,,,,,,,,,,,,,,,,,,,blueberry,sensi star,n,n,n,n,n
-3318,,sugar plum sunset,,,,,,,,,,,,,,,,,,,,pre-98 bubba kush,katsu bubba kush,n,n,n,n,n
+3316,indica,star berry indica,relaxed,happy,uplifted,euphoric,energetic,stress,pain,insomnia,fatigue,inflammation,dry mouth,dry eyes,paranoid,,,1. berry,2. citrus,3. sweet,12,blueberry,sensi star,n,n,n,n,n
+3318,indica,sugar plum sunset,relaxed,euphoric,happy,sleepy,tingly,pain,stress,insomnia,depression,inflammation,dry mouth,dry eyes,dizzy,,,1. earthy,2. sweet,3. flowery,45,pre-98 bubba kush,katsu bubba kush,n,n,n,n,n
 3320,indica,super  chronic, relaxed, euphoric, sleepy, creative, uplifted , inflammation, pain, insomnia, nausea, stress , dry mouth ,,,,,1. earthy,2. diesel,3. sweet,6,chronic,critical kush,n,n,n,n,n
 3321,indica,the hog, sleepy, relaxed, euphoric, happy, tingly , stress, depression, pain, headaches, insomnia , dry mouth, dry eyes, dizzy, headache, paranoid ,1. earthy,2. pungent,3. woody,125,north american indica,n,n,n,n,n,n
 3322,indica,tranquil elephantizer: remix, relaxed, sleepy, tingly, aroused, euphoric , pain, insomnia, stress, depression, cramps , dry mouth, dizzy, dry eyes, anxious, paranoid ,1. earthy,2. sweet,3. berry,39,hash plant,g13,n,n,n,n,n
